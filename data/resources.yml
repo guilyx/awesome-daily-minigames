@@ -37,9 +37,6 @@
     - name: word.rodeo
       url: https://word.rodeo/
       description: Generate a shareable Wordle with your own answer word, no code required.
-    - name: react-wordle
-      url: https://github.com/cwackerfuss/react-wordle
-      description: The most-forked open-source Wordle clone; a solid base for a themed variant.
     - name: hello-wordl source
       url: https://github.com/lynn/hello-wordl
       description: Clean, dependency-light TypeScript implementation with variable word lengths.
@@ -64,9 +61,6 @@
     - name: Comprehensive list of Wordle variants
       url: https://gist.github.com/maxspero/0a2f536b9561d829caf6bd994a34193d
       description: The long-running community gist, strongest on fandom and non-English variants.
-    - name: Geography Wordles
-      url: https://geographywordles.org/
-      description: A directory dedicated entirely to geography dailies.
     - name: Listdle
       url: https://listdle.com/
       description: Category-browsable directory of "-dle" games.
