@@ -1054,7 +1054,7 @@
   description: The original Pokémon Wordle, with higher-or-lower feedback on height, weight and generation.
 
 - name: Stardewdle
-  url: https://stardewdle.com/game
+  url: https://www.stardewdle.com/
   category: video-games
   platform: web
   description: A Stardew Valley daily covering villagers, items and seasons.

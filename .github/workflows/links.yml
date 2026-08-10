@@ -24,12 +24,21 @@ jobs:
         with:
           # 403 and 429 mean "a bot got blocked or throttled", not "the game is
           # gone" — plenty of these sites sit behind Cloudflare.
+          #
+          # Exclusions, both false positives rather than dead links:
+          #   washingtonpost.com  lychee cannot complete an HTTP/2 handshake
+          #                       with their edge; the games load fine in a
+          #                       browser. Re-test if lychee changes.
+          #   our own Pages site  404s until Pages is enabled, and once it is,
+          #                       checking it here tells us nothing new.
           args: >-
             --no-progress
             --max-concurrency 8
             --timeout 25
             --max-retries 2
             --accept 200..=299,403,429
+            --exclude '^https://www\.washingtonpost\.com/'
+            --exclude '^https://guilyx\.github\.io/awesome-daily-minigames/'
             --exclude-path node_modules
             README.md
           output: ./lychee/out.md

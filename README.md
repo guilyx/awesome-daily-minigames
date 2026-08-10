@@ -266,7 +266,7 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 - [Pokedoku](https://pokedoku.com/) - The Immaculate Grid format applied to the National Pokédex.
 - [Smashdle](https://smashdle.net/) - Super Smash Bros. character, move and stage guessing modes.
 - [Squirdle](https://squirdle.fireblend.com/daily.html) - The original Pokémon Wordle, with higher-or-lower feedback on height, weight and generation.
-- [Stardewdle](https://stardewdle.com/game) - A Stardew Valley daily covering villagers, items and seasons.
+- [Stardewdle](https://www.stardewdle.com/) - A Stardew Valley daily covering villagers, items and seasons.
 - [Steamdle](https://steamdle.com/) - Identify a Steam game from its user reviews, revealed one at a time.
 
 ## 🧠 Trivia & Knowledge
@@ -382,7 +382,6 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 - [Devvit — Reddit Developer Platform](https://developers.reddit.com/) - The framework behind almost every Reddit game in this list; games run as interactive posts inside the feed.
 - [Reddit Daily Games Hackathon](https://redditdailygames2026.devpost.com/) - Reddit's hackathon for daily games, and a good index of what people are currently building.
 - [word.rodeo](https://word.rodeo/) - Generate a shareable Wordle with your own answer word, no code required.
-- [react-wordle](https://github.com/cwackerfuss/react-wordle) - The most-forked open-source Wordle clone; a solid base for a themed variant.
 - [hello-wordl source](https://github.com/lynn/hello-wordl) - Clean, dependency-light TypeScript implementation with variable word lengths.
 - [Crosshare](https://github.com/crosshare-org/crosshare) - Open-source crossword construction and hosting platform, free for constructors.
 - [Crosshare Constructor](https://crosshare.org/construct) - Build and publish a crossword in the browser and share it as a daily.
@@ -394,7 +393,6 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 - [aukspot/dles](https://github.com/aukspot/dles) - The exhaustive counterpart to this list — 700+ daily web games, actively maintained.
 - [The Dles](https://dles.aukspot.com/) - Browsable front end for the list above, with categories and search.
 - [Comprehensive list of Wordle variants](https://gist.github.com/maxspero/0a2f536b9561d829caf6bd994a34193d) - The long-running community gist, strongest on fandom and non-English variants.
-- [Geography Wordles](https://geographywordles.org/) - A directory dedicated entirely to geography dailies.
 - [Listdle](https://listdle.com/) - Category-browsable directory of "-dle" games.
 - [DLE Games](https://dlegames.org/) - Another large directory, useful for finding niche fandom variants.
 
