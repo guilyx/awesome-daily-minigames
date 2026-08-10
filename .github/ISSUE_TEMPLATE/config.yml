@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📖 Contributing guide
+    url: https://github.com/guilyx/awesome-daily-minigames/blob/main/CONTRIBUTING.md
+    about: What gets into the list, and how to add an entry yourself in five lines of YAML.
+  - name: 🗂️ Looking for every daily game ever made?
+    url: https://github.com/aukspot/dles
+    about: This list is curated. aukspot/dles is the exhaustive one — 700+ games.

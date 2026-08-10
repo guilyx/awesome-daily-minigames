@@ -1,0 +1,21 @@
+{
+  "name": "awesome-daily-minigames",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A curated list of daily minigames — Wordle-likes, minis, grids and everything that resets at midnight.",
+  "license": "CC0-1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "sort": "node scripts/sort.mjs",
+    "check": "npm run validate && node scripts/build.mjs --check",
+    "test": "npm run check"
+  },
+  "devDependencies": {
+    "yaml": "^2.9.0"
+  }
+}

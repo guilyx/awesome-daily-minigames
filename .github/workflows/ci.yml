@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Validate data and generated files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # Schema, house style, duplicate URLs and ordering.
+      - name: Validate data
+        run: npm run validate
+
+      # Fails if README.md or docs/games.json drifted from data/.
+      - name: Check generated files are up to date
+        run: node scripts/build.mjs --check

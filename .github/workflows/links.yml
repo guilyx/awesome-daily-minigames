@@ -1,0 +1,44 @@
+name: Link check
+
+# Daily games die quietly, so sweep the whole catalogue once a week and open an
+# issue when something stops responding.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    name: Check every link in the README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # 403 and 429 mean "a bot got blocked or throttled", not "the game is
+          # gone" — plenty of these sites sit behind Cloudflare.
+          args: >-
+            --no-progress
+            --max-concurrency 8
+            --timeout 25
+            --max-retries 2
+            --accept 200..=299,403,429
+            --exclude-path node_modules
+            README.md
+          output: ./lychee/out.md
+          fail: false
+
+      - name: Open an issue for broken links
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link check found dead games
+          content-filepath: ./lychee/out.md
+          labels: broken link

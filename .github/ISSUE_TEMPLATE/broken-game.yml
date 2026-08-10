@@ -1,0 +1,37 @@
+name: 💀 Report a dead or broken game
+description: A listed game is offline, paywalled, or no longer daily
+title: "Broken: <game name>"
+labels: ["broken link"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Which game?
+      placeholder: Heardle Daily
+    validations:
+      required: true
+
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What happened to it?
+      options:
+        - The link is dead or the domain has been taken over
+        - It still loads but the game is gone
+        - It is no longer free to play
+        - It stopped updating daily
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What you see when you open it, and roughly when you first noticed.
+
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement (optional)
+      description: If the game moved or a maintained fork exists, link it here.

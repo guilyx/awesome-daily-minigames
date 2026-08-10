@@ -1,0 +1,96 @@
+name: 🎮 Suggest a game
+description: Suggest a daily minigame for the list
+title: "Add: <game name>"
+labels: ["new game"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! If you are comfortable editing YAML, a pull request against
+        `data/games.yml` is faster — see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md).
+
+  - type: input
+    id: name
+    attributes:
+      label: Game name
+      placeholder: Waffle
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: A direct https link to the game, with no tracking parameters.
+      placeholder: https://wafflegame.net/
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where do you play it?
+      options:
+        - Website
+        - Inside a Reddit post
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Best fit from the existing categories. Not sure? Pick the closest.
+      options:
+        - Word Guessing
+        - Word Association & Connections
+        - Crosswords & Clue Grids
+        - Letter Grids & Word Building
+        - Numbers & Math
+        - Logic & Deduction
+        - Geography & Maps
+        - History & Time
+        - Music & Audio
+        - Movies & TV
+        - Sports
+        - Video Games
+        - Trivia & Knowledge
+        - Visual & Estimation
+        - Science & Nature
+        - Arcade & Skill
+        - Board & Card Games
+        - Multi-Game Hubs
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: One-sentence description
+      description: Describe the mechanic, not how much you enjoy it. Under 160 characters.
+      placeholder: A waffle-shaped grid of scrambled words that you repair in fifteen swaps or fewer.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: criteria
+    attributes:
+      label: Inclusion criteria
+      description: The list is curated rather than exhaustive. All of these need to be true.
+      options:
+        - label: A new puzzle appears on a daily schedule and everyone gets the same one
+          required: true
+        - label: It is free to start playing, without a subscription
+          required: true
+        - label: It is finishable in a sitting (roughly under fifteen minutes)
+          required: true
+        - label: It is still actively running today
+          required: true
+        - label: I checked that it is not already in the list
+          required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it worth adding?
+      description: Especially useful if it is a variant of something already listed — what does it do differently?
