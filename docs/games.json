@@ -1,0 +1,2455 @@
+{
+  "generated": "run `npm run build` to regenerate — do not edit by hand",
+  "counts": {
+    "games": 234,
+    "categories": 18,
+    "reddit": 17
+  },
+  "categories": [
+    {
+      "id": "word-guessing",
+      "title": "Word Guessing",
+      "emoji": "🟩",
+      "blurb": "Wordle and everything descended from it — one hidden word, a handful of guesses."
+    },
+    {
+      "id": "word-connections",
+      "title": "Word Association & Connections",
+      "emoji": "🔗",
+      "blurb": "Group them, link them, or close in on a secret word by meaning rather than spelling."
+    },
+    {
+      "id": "crosswords",
+      "title": "Crosswords & Clue Grids",
+      "emoji": "✏️",
+      "blurb": "Minis you finish with your coffee, cryptics you think about all day."
+    },
+    {
+      "id": "word-grids",
+      "title": "Letter Grids & Word Building",
+      "emoji": "🔤",
+      "blurb": "Spelling Bee, Strands, Boggle-likes — squeeze every word out of a fixed set of letters."
+    },
+    {
+      "id": "numbers-math",
+      "title": "Numbers & Math",
+      "emoji": "🔢",
+      "blurb": "Equations, arithmetic and number sense, one puzzle a day."
+    },
+    {
+      "id": "logic",
+      "title": "Logic & Deduction",
+      "emoji": "🧩",
+      "blurb": "Sudoku, nonograms, pathfinders and pure deduction grids."
+    },
+    {
+      "id": "geography",
+      "title": "Geography & Maps",
+      "emoji": "🗺️",
+      "blurb": "Countries, flags, borders, street views and satellite imagery."
+    },
+    {
+      "id": "history",
+      "title": "History & Time",
+      "emoji": "⏳",
+      "blurb": "Date the photo, order the events, guess the year."
+    },
+    {
+      "id": "music",
+      "title": "Music & Audio",
+      "emoji": "🎵",
+      "blurb": "Name the song, the artist, or the instrument from a few seconds of sound."
+    },
+    {
+      "id": "movies-tv",
+      "title": "Movies & TV",
+      "emoji": "🎬",
+      "blurb": "Frames, filmographies, box office numbers and casting grids."
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "emoji": "🏟️",
+      "blurb": "Mystery players, roster grids and stat-line deduction."
+    },
+    {
+      "id": "video-games",
+      "title": "Video Games",
+      "emoji": "🎮",
+      "blurb": "Guess the game, the character, or the item — usually from a single pixellated clue."
+    },
+    {
+      "id": "trivia",
+      "title": "Trivia & Knowledge",
+      "emoji": "🧠",
+      "blurb": "General knowledge, rankings, news quizzes and list-completion games."
+    },
+    {
+      "id": "visual",
+      "title": "Visual & Estimation",
+      "emoji": "🖼️",
+      "blurb": "Art, colours, crops, angles and prices — games you play with your eyes and your gut."
+    },
+    {
+      "id": "science-nature",
+      "title": "Science & Nature",
+      "emoji": "🔬",
+      "blurb": "Animals, plants, elements and stars."
+    },
+    {
+      "id": "arcade",
+      "title": "Arcade & Skill",
+      "emoji": "🎯",
+      "blurb": "Daily runs, daily courses, daily shots — dexterity and tactics instead of vocabulary."
+    },
+    {
+      "id": "board-card",
+      "title": "Board & Card Games",
+      "emoji": "♟️",
+      "blurb": "Chess puzzles, poker hands, mahjong and tabletop spin-offs."
+    },
+    {
+      "id": "hubs",
+      "title": "Multi-Game Hubs",
+      "emoji": "🏛️",
+      "blurb": "Publishers and collections that ship several fresh puzzles every day."
+    }
+  ],
+  "games": [
+    {
+      "id": "wordle",
+      "name": "Wordle",
+      "url": "https://www.nytimes.com/games/wordle/index.html",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Six guesses, five letters, green and yellow tiles — the game that created the genre.",
+      "tags": [
+        "nyt",
+        "classic"
+      ]
+    },
+    {
+      "id": "2word",
+      "name": "2word",
+      "url": "https://www.reddit.com/r/2word/",
+      "category": "word-guessing",
+      "platform": "reddit",
+      "description": "Guess the word from a pair of clue words, with the comment thread as the leaderboard.",
+      "tags": []
+    },
+    {
+      "id": "absurdle",
+      "name": "Absurdle",
+      "url": "https://qntm.org/files/absurdle/absurdle.html",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Adversarial Wordle that quietly changes its answer to stay as far from your guess as it legally can.",
+      "tags": [
+        "unlimited"
+      ]
+    },
+    {
+      "id": "antiwordle",
+      "name": "Antiwordle",
+      "url": "https://www.antiwordle.com/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Inverted scoring where the goal is to avoid the word for as many turns as possible.",
+      "tags": []
+    },
+    {
+      "id": "crosswordle",
+      "name": "Crosswordle",
+      "url": "https://crosswordle.com/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Reverse Wordle — you are given the coloured clue grid and have to reconstruct the guesses that produced it.",
+      "tags": []
+    },
+    {
+      "id": "dailyguess",
+      "name": "DailyGuess",
+      "url": "https://www.reddit.com/r/DailyGuess/",
+      "category": "word-guessing",
+      "platform": "reddit",
+      "description": "Straight-ahead Wordle playable inside a Reddit post, no site to visit.",
+      "tags": []
+    },
+    {
+      "id": "dordle",
+      "name": "Dordle",
+      "url": "https://zaratustra.itch.io/dordle",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "The original multi-board spin-off: two grids, one shared set of guesses.",
+      "tags": []
+    },
+    {
+      "id": "duotrigordle",
+      "name": "Duotrigordle",
+      "url": "https://duotrigordle.com/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Thirty-two boards and thirty-seven guesses, for when eight is not enough.",
+      "tags": []
+    },
+    {
+      "id": "fibble",
+      "name": "Fibble",
+      "url": "https://fibble.xyz/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Every row of feedback contains exactly one lie.",
+      "tags": []
+    },
+    {
+      "id": "hello-wordl",
+      "name": "hello wordl",
+      "url": "https://hellowordl.net/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Unlimited Wordle with an adjustable word length from four to eleven letters.",
+      "tags": [
+        "unlimited",
+        "open-source"
+      ]
+    },
+    {
+      "id": "lirdle",
+      "name": "Lirdle",
+      "url": "https://lirdle.com/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Wordle where the game lies to you once per guess and you have to work out which tile it was.",
+      "tags": []
+    },
+    {
+      "id": "octordle",
+      "name": "Octordle",
+      "url": "https://www.britannica.com/games/octordle/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Eight boards solved in parallel with thirteen guesses.",
+      "tags": []
+    },
+    {
+      "id": "petals",
+      "name": "Petals",
+      "url": "https://www.reddit.com/r/Petals/",
+      "category": "word-guessing",
+      "platform": "reddit",
+      "description": "Hangman rebuilt as a flower that loses a petal with every wrong letter.",
+      "tags": []
+    },
+    {
+      "id": "polygonle",
+      "name": "Polygonle",
+      "url": "https://www.polygonle.com/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Instead of a fixed length you get a shape pattern showing which letters repeat.",
+      "tags": []
+    },
+    {
+      "id": "quordle",
+      "name": "Quordle",
+      "url": "https://www.merriam-webster.com/games/quordle/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Four grids at once — every guess is played on all of them simultaneously.",
+      "tags": []
+    },
+    {
+      "id": "reversle",
+      "name": "Reversle",
+      "url": "https://reversle.net/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Speed variant where you race to reproduce a finished board from its clue colours.",
+      "tags": []
+    },
+    {
+      "id": "squardle",
+      "name": "Squardle",
+      "url": "https://fubargames.se/squardle/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Wordle on a 5x5 board, solving six interlocking words across two directions at once.",
+      "tags": []
+    },
+    {
+      "id": "squareword",
+      "name": "Squareword",
+      "url": "https://squareword.org/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Fill a 5x5 grid where every row and every column has to be a real word.",
+      "tags": []
+    },
+    {
+      "id": "survivle",
+      "name": "Survivle",
+      "url": "https://lazyguyy.github.io/survivle/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Wordle turned survival horror — guessing the answer is how you lose.",
+      "tags": []
+    },
+    {
+      "id": "sutom",
+      "name": "SUTOM",
+      "url": "https://sutom.nocle.fr/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "French Wordle with six to nine letter words and the first letter given away.",
+      "tags": [
+        "non-english"
+      ]
+    },
+    {
+      "id": "term-ooo",
+      "name": "Term.ooo",
+      "url": "https://term.ooo/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "The Brazilian Portuguese Wordle, with three-board and six-board modes.",
+      "tags": [
+        "non-english"
+      ]
+    },
+    {
+      "id": "waffle",
+      "name": "Waffle",
+      "url": "https://wafflegame.net/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "A waffle-shaped grid of scrambled words that you repair in fifteen swaps or fewer.",
+      "tags": []
+    },
+    {
+      "id": "word-peaks",
+      "name": "Word Peaks",
+      "url": "https://vegeta897.github.io/word-peaks/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Clues tell you whether each letter comes alphabetically before or after your guess.",
+      "tags": [
+        "open-source"
+      ]
+    },
+    {
+      "id": "wordiply",
+      "name": "Wordiply",
+      "url": "https://www.wordiply.com/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "The Guardian's game: find the five longest words containing a given starter string.",
+      "tags": []
+    },
+    {
+      "id": "connections",
+      "name": "Connections",
+      "url": "https://www.nytimes.com/games/connections",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Sort sixteen words into four hidden groups of four; four mistakes and you are out.",
+      "tags": [
+        "nyt",
+        "classic"
+      ]
+    },
+    {
+      "id": "cemantle",
+      "name": "Cemantle",
+      "url": "https://cemantle.certitudes.org/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Semantle's hot-and-cold sibling, reporting temperature instead of a raw rank.",
+      "tags": []
+    },
+    {
+      "id": "combinations",
+      "name": "Combinations",
+      "url": "https://combinations.org/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Find the word that pairs with every one of the given words to form a compound.",
+      "tags": []
+    },
+    {
+      "id": "conexo",
+      "name": "Conexo",
+      "url": "https://conexo.ws/en",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Connections-style grouping puzzle with a generous daily archive.",
+      "tags": []
+    },
+    {
+      "id": "contexto",
+      "name": "Contexto",
+      "url": "https://contexto.me/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Guess the secret word; each attempt comes back ranked by semantic closeness.",
+      "tags": []
+    },
+    {
+      "id": "crossclimb",
+      "name": "Crossclimb",
+      "url": "https://www.linkedin.com/games/crossclimb",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Solve a ladder of one-letter-apart words, then reorder the rungs into a hidden sequence.",
+      "tags": []
+    },
+    {
+      "id": "hotandcold",
+      "name": "HotandCold",
+      "url": "https://www.reddit.com/r/HotandCold/",
+      "category": "word-connections",
+      "platform": "reddit",
+      "description": "Semantic hot-and-cold guessing played out in a Reddit post, with everyone's guesses visible.",
+      "tags": []
+    },
+    {
+      "id": "pedantle",
+      "name": "Pedantle",
+      "url": "https://pedantle.certitudes.org/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Uncover a hidden Wikipedia article by guessing words, with semantic near-misses highlighted.",
+      "tags": []
+    },
+    {
+      "id": "pimantle",
+      "name": "Pimantle",
+      "url": "https://semantle.pimanrul.es/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Semantle plotted on a two-dimensional map so you can see your guesses closing in.",
+      "tags": []
+    },
+    {
+      "id": "pinpoint",
+      "name": "Pinpoint",
+      "url": "https://www.linkedin.com/games/pinpoint",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Name the category from clues revealed one at a time — the fewer you need, the better.",
+      "tags": []
+    },
+    {
+      "id": "puzzgrid",
+      "name": "Puzzgrid",
+      "url": "https://www.puzzgrid.com/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Community-made connecting walls in the style of the BBC quiz show Only Connect.",
+      "tags": [
+        "unlimited"
+      ]
+    },
+    {
+      "id": "redactle",
+      "name": "Redactle",
+      "url": "https://redactle.net/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Identify a fully redacted Wikipedia article by guessing the words back into existence.",
+      "tags": []
+    },
+    {
+      "id": "semantle",
+      "name": "Semantle",
+      "url": "https://semantle.com/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "The original semantic-similarity hunt, and still one of the hardest daily games there is.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "stacks",
+      "name": "Stacks",
+      "url": "https://www.theatlantic.com/games/stacks/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "The Atlantic's stacking word game, where each answer feeds the next.",
+      "tags": []
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "url": "https://weavergame.org/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Classic word ladder — change one letter at a time to get from the start word to the end word.",
+      "tags": []
+    },
+    {
+      "id": "word-golf",
+      "name": "word.golf",
+      "url": "https://word.golf/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Travel between two words in as few semantic hops as possible.",
+      "tags": []
+    },
+    {
+      "id": "the-mini-crossword",
+      "name": "The Mini Crossword",
+      "url": "https://www.nytimes.com/crosswords/game/mini",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A 5x5 grid most people finish in under a minute — the gateway drug of crosswords.",
+      "tags": [
+        "nyt",
+        "classic"
+      ]
+    },
+    {
+      "id": "the-atlantic-crossword",
+      "name": "The Atlantic Crossword",
+      "url": "https://www.theatlantic.com/games/daily-crossword/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A free daily crossword that ramps from very easy on Monday to properly chewy by Friday.",
+      "tags": []
+    },
+    {
+      "id": "bracket-city",
+      "name": "Bracket City",
+      "url": "https://www.theatlantic.com/games/bracket-city/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "One sentence of nested bracketed clues; solve the inner ones to unlock the outer ones.",
+      "tags": []
+    },
+    {
+      "id": "crosshare",
+      "name": "Crosshare",
+      "url": "https://crosshare.org/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "Free, open-source, ad-light home for community-built crosswords including a daily mini.",
+      "tags": [
+        "open-source"
+      ]
+    },
+    {
+      "id": "crossword-club",
+      "name": "Crossword Club",
+      "url": "https://crosswordclub.com/puzzles/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A daily indie crossword from rotating constructors, free to solve in the browser.",
+      "tags": []
+    },
+    {
+      "id": "crosswordchef",
+      "name": "CrosswordChef",
+      "url": "https://www.reddit.com/r/CrosswordChef/",
+      "category": "crosswords",
+      "platform": "reddit",
+      "description": "A hand-built daily mini crossword served straight into your Reddit feed.",
+      "tags": []
+    },
+    {
+      "id": "guardian-cryptic-crossword",
+      "name": "Guardian Cryptic Crossword",
+      "url": "https://www.theguardian.com/crosswords/series/cryptic",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "The daily British cryptic, free and unapologetically difficult.",
+      "tags": []
+    },
+    {
+      "id": "guardian-quick-crossword",
+      "name": "Guardian Quick Crossword",
+      "url": "https://www.theguardian.com/crosswords/series/quick",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "Definition-only clues and a small grid; a good on-ramp before the cryptic.",
+      "tags": []
+    },
+    {
+      "id": "la-times-mini-crossword",
+      "name": "LA Times Mini Crossword",
+      "url": "https://www.latimes.com/games/mini-crossword",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A free mini in the same shape as the NYT one, no account required.",
+      "tags": []
+    },
+    {
+      "id": "lex-mini-crossword",
+      "name": "Lex Mini Crossword",
+      "url": "https://lex.games/mini/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "Indie mini crossword with a friendlier clue voice than the newspaper minis.",
+      "tags": []
+    },
+    {
+      "id": "minute-cryptic",
+      "name": "Minute Cryptic",
+      "url": "https://www.minutecryptic.com/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A single cryptic clue per day with progressive hints that teach you the mechanics.",
+      "tags": []
+    },
+    {
+      "id": "pocketgrids",
+      "name": "PocketGrids",
+      "url": "https://www.reddit.com/r/PocketGrids/",
+      "category": "crosswords",
+      "platform": "reddit",
+      "description": "Bite-sized crossword grids designed for one-thumb solving on mobile.",
+      "tags": []
+    },
+    {
+      "id": "puzzmo-crossword",
+      "name": "Puzzmo Crossword",
+      "url": "https://www.puzzmo.com/play/crossword",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "Puzzmo's flagship daily crossword, with a same-day mini for the impatient.",
+      "tags": []
+    },
+    {
+      "id": "stat-mini-crossword",
+      "name": "STAT Mini Crossword",
+      "url": "https://www.statnews.com/stat-mini-crossword/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A mini crossword with a health, biotech and medicine slant.",
+      "tags": []
+    },
+    {
+      "id": "syllacrostic",
+      "name": "Syllacrostic",
+      "url": "https://www.reddit.com/r/syllacrostic/",
+      "category": "crosswords",
+      "platform": "reddit",
+      "description": "An acrostic built out of syllables rather than single letters.",
+      "tags": []
+    },
+    {
+      "id": "unolingo",
+      "name": "Unolingo",
+      "url": "https://games.usatoday.com/games/uclick-unolingo",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A crossword with no clues at all — every letter appears exactly once and logic does the rest.",
+      "tags": []
+    },
+    {
+      "id": "washington-post-crossword",
+      "name": "Washington Post Crossword",
+      "url": "https://www.washingtonpost.com/games/crossword/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A full-size free daily crossword with an easy Sunday-to-Saturday difficulty ramp.",
+      "tags": []
+    },
+    {
+      "id": "spelling-bee",
+      "name": "Spelling Bee",
+      "url": "https://www.nytimes.com/puzzles/spelling-bee",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Seven letters, one mandatory centre letter, and a very long tail of obscure words.",
+      "tags": [
+        "nyt",
+        "classic"
+      ]
+    },
+    {
+      "id": "blossom",
+      "name": "Blossom",
+      "url": "https://www.merriam-webster.com/games/blossom-word-game",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Merriam-Webster's petal-shaped take on Spelling Bee, with a rotating bonus letter.",
+      "tags": []
+    },
+    {
+      "id": "bongo",
+      "name": "Bongo",
+      "url": "https://www.puzzmo.com/game/bongo",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "A letter-tile scoring game where bonus squares reward you for finding the highest-value words.",
+      "tags": []
+    },
+    {
+      "id": "cell-tower",
+      "name": "Cell Tower",
+      "url": "https://www.andrewt.net/puzzles/cell-tower",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Build words up a tower of cells where every level constrains the next.",
+      "tags": []
+    },
+    {
+      "id": "dailygrid",
+      "name": "DailyGrid",
+      "url": "https://www.reddit.com/r/DailyGrid/",
+      "category": "word-grids",
+      "platform": "reddit",
+      "description": "A Strands-style themed word search built for the Reddit app.",
+      "tags": []
+    },
+    {
+      "id": "hexaword",
+      "name": "Hexaword",
+      "url": "https://www.reddit.com/r/hexaword/",
+      "category": "word-grids",
+      "platform": "reddit",
+      "description": "Align syllable tiles on a hex grid so that every direction reads as a real word.",
+      "tags": []
+    },
+    {
+      "id": "jumble-daily",
+      "name": "Jumble Daily",
+      "url": "https://fun.chicagotribune.com/game/tca-jumble-daily/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "The newspaper anagram classic, still running daily and still ending in a groan-worthy pun.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "jumblie",
+      "name": "Jumblie",
+      "url": "https://jumblie.com/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Untangle four themed words from a shared pool of letter tiles.",
+      "tags": []
+    },
+    {
+      "id": "letter-boxed",
+      "name": "Letter Boxed",
+      "url": "https://www.nytimes.com/puzzles/letter-boxed",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Chain words around the sides of a square, never using two letters from the same side in a row.",
+      "tags": [
+        "nyt"
+      ]
+    },
+    {
+      "id": "spelltower",
+      "name": "Spelltower",
+      "url": "https://www.puzzmo.com/play/spelltower",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Word-finding meets falling blocks — clearing long words collapses the tower.",
+      "tags": []
+    },
+    {
+      "id": "squaredle",
+      "name": "Squaredle",
+      "url": "https://squaredle.app/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "A Boggle-style grid where you have to find every valid word, not just the long ones.",
+      "tags": []
+    },
+    {
+      "id": "stepwords",
+      "name": "Stepwords",
+      "url": "https://stepwords.xyz/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Each answer is the previous one plus a letter, stacked into a staircase.",
+      "tags": []
+    },
+    {
+      "id": "strands",
+      "name": "Strands",
+      "url": "https://www.nytimes.com/games/strands",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "A themed word search where the words snake in any direction and one spangram ties it together.",
+      "tags": [
+        "nyt"
+      ]
+    },
+    {
+      "id": "syllo",
+      "name": "Syllo",
+      "url": "https://www.reddit.com/r/syllo/",
+      "category": "word-grids",
+      "platform": "reddit",
+      "description": "Build the day's words out of syllable blocks instead of letters — a genuinely fresh mechanic.",
+      "tags": []
+    },
+    {
+      "id": "typeshift",
+      "name": "Typeshift",
+      "url": "https://www.puzzmo.com/play/typeshift",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Slide columns of letters up and down until every letter has been used in a word.",
+      "tags": []
+    },
+    {
+      "id": "worddash",
+      "name": "WordDash",
+      "url": "https://www.reddit.com/r/WordDash/",
+      "category": "word-grids",
+      "platform": "reddit",
+      "description": "Spelling Bee crossed with Strands: hunt themed words out of a shared letter set against the clock.",
+      "tags": []
+    },
+    {
+      "id": "wordflower",
+      "name": "Wordflower",
+      "url": "https://www.latimes.com/games/wordflower",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "The LA Times' free Spelling Bee equivalent, with a daily word target.",
+      "tags": []
+    },
+    {
+      "id": "wordseekr",
+      "name": "WordSeekr",
+      "url": "https://www.reddit.com/r/WordSeekr/",
+      "category": "word-grids",
+      "platform": "reddit",
+      "description": "A word search that reveals a hidden quotation once you have found everything else.",
+      "tags": []
+    },
+    {
+      "id": "nerdle",
+      "name": "Nerdle",
+      "url": "https://nerdlegame.com/",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Wordle for equations — guess the hidden eight-character sum, operators included.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "mathler",
+      "name": "Mathler",
+      "url": "https://www.mathler.com/",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Find the hidden calculation that produces the given target number.",
+      "tags": []
+    },
+    {
+      "id": "numble",
+      "name": "Numble",
+      "url": "https://numble.wtf/",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Route through a grid of numbers and operators to hit the day's target.",
+      "tags": []
+    },
+    {
+      "id": "primel",
+      "name": "Primel",
+      "url": "https://converged.yt/primel/",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Wordle where every guess and the answer must be a five-digit prime.",
+      "tags": []
+    },
+    {
+      "id": "summle",
+      "name": "Summle",
+      "url": "https://summle.net/",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Reach the target number by chaining small sums, Countdown-style.",
+      "tags": []
+    },
+    {
+      "id": "sumplete",
+      "name": "Sumplete",
+      "url": "https://sumplete.com/daily",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Delete numbers from a grid until every row and column adds up to its target.",
+      "tags": []
+    },
+    {
+      "id": "pips",
+      "name": "Pips",
+      "url": "https://www.nytimes.com/games/pips",
+      "category": "logic",
+      "platform": "web",
+      "description": "Place dominoes so every marked region satisfies its sum, equality or inequality rule.",
+      "tags": [
+        "nyt"
+      ]
+    },
+    {
+      "id": "binarygrid",
+      "name": "Binarygrid",
+      "url": "https://www.reddit.com/r/Binarygrid/",
+      "category": "logic",
+      "platform": "reddit",
+      "description": "Binairo-style number logic — fill the grid with two symbols under balance and adjacency rules.",
+      "tags": []
+    },
+    {
+      "id": "blokkit",
+      "name": "Blokkit",
+      "url": "https://www.reddit.com/r/Blokkit/",
+      "category": "logic",
+      "platform": "reddit",
+      "description": "Grab, rotate and place the day's block set so everything fits with nothing left over.",
+      "tags": []
+    },
+    {
+      "id": "brainbashers-daily-puzzle",
+      "name": "BrainBashers Daily Puzzle",
+      "url": "https://www.brainbashers.com/dailypuzzle.asp",
+      "category": "logic",
+      "platform": "web",
+      "description": "A long-running rotation of Slitherlink, Hitori, Futoshiki and a dozen other pencil puzzles.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "clues-by-sam",
+      "name": "Clues by Sam",
+      "url": "https://cluesbysam.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "A daily deduction grid where each clue eliminates suspects, houses or objects.",
+      "tags": []
+    },
+    {
+      "id": "daily-akari",
+      "name": "Daily Akari",
+      "url": "https://dailyakari.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Light up every square of a grid without letting two bulbs see each other.",
+      "tags": []
+    },
+    {
+      "id": "domino-fit",
+      "name": "Domino Fit",
+      "url": "https://dominofit.isotropic.us/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Pack dominoes into an awkward grid so that the numbers line up correctly.",
+      "tags": []
+    },
+    {
+      "id": "figure",
+      "name": "Figure",
+      "url": "https://figure.game/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Clear a colour grid in a fixed number of moves by chaining matching tiles.",
+      "tags": []
+    },
+    {
+      "id": "flipart",
+      "name": "Flipart",
+      "url": "https://www.puzzmo.com/play/flip-art",
+      "category": "logic",
+      "platform": "web",
+      "description": "Rotate irregular pieces until they tile the board exactly.",
+      "tags": []
+    },
+    {
+      "id": "murdle",
+      "name": "Murdle",
+      "url": "https://murdle.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "A daily murder mystery solved with a logic grid — suspect, weapon, location, motive.",
+      "tags": []
+    },
+    {
+      "id": "ninigrams",
+      "name": "Ninigrams",
+      "url": "https://www.reddit.com/r/ninigrams/",
+      "category": "logic",
+      "platform": "reddit",
+      "description": "Nonograms sized for a phone screen and playable without leaving Reddit.",
+      "tags": []
+    },
+    {
+      "id": "nonodaily",
+      "name": "NonoDaily",
+      "url": "https://www.nonodaily.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "A fresh nonogram every day, where the numbers along the edges reveal a picture.",
+      "tags": []
+    },
+    {
+      "id": "one-up-puzzle",
+      "name": "One Up Puzzle",
+      "url": "https://www.oneuppuzzle.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Fill each run of cells with ascending numbers so no row or column repeats.",
+      "tags": []
+    },
+    {
+      "id": "queens",
+      "name": "Queens",
+      "url": "https://www.linkedin.com/games/queens",
+      "category": "logic",
+      "platform": "web",
+      "description": "Place one crown per row, column and colour region without any two touching.",
+      "tags": []
+    },
+    {
+      "id": "regexle",
+      "name": "Regexle",
+      "url": "https://regexle.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "A hexagonal crossword where every line is a regular expression you have to satisfy.",
+      "tags": []
+    },
+    {
+      "id": "shikaku-of-the-day",
+      "name": "Shikaku of the Day",
+      "url": "https://shikakuofthe.day/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Cut a grid into rectangles so that each one contains exactly one number equal to its area.",
+      "tags": []
+    },
+    {
+      "id": "sudoku-nyt",
+      "name": "Sudoku (NYT)",
+      "url": "https://www.nytimes.com/puzzles/sudoku",
+      "category": "logic",
+      "platform": "web",
+      "description": "Easy, medium and hard grids refreshed every day, free to play.",
+      "tags": [
+        "nyt",
+        "classic"
+      ]
+    },
+    {
+      "id": "tango",
+      "name": "Tango",
+      "url": "https://www.linkedin.com/games/tango",
+      "category": "logic",
+      "platform": "web",
+      "description": "Balance suns and moons across a grid under equality and difference constraints.",
+      "tags": []
+    },
+    {
+      "id": "zebra-puzzles",
+      "name": "Zebra Puzzles",
+      "url": "https://www.zebrapuzzles.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "The classic \"who owns the fish\" constraint puzzle, generated fresh each day.",
+      "tags": []
+    },
+    {
+      "id": "zip",
+      "name": "Zip",
+      "url": "https://www.linkedin.com/games/zip",
+      "category": "logic",
+      "platform": "web",
+      "description": "Draw one continuous path that hits every numbered dot in order and fills the board.",
+      "tags": []
+    },
+    {
+      "id": "worldle",
+      "name": "Worldle",
+      "url": "https://worldle.teuteuf.fr/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Name the country from its silhouette, with distance and bearing hints after each miss.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "countryle",
+      "name": "Countryle",
+      "url": "https://www.countryle.com/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Narrow down a country using continent, hemisphere, population and temperature clues.",
+      "tags": []
+    },
+    {
+      "id": "flagle",
+      "name": "Flagle",
+      "url": "https://www.flagle.io/",
+      "category": "geography",
+      "platform": "web",
+      "description": "A flag revealed one tile at a time; guess it before the whole thing is uncovered.",
+      "tags": []
+    },
+    {
+      "id": "geogrid",
+      "name": "GeoGrid",
+      "url": "https://www.geogridgame.com/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Fill a 3x3 grid with countries that satisfy both the row and the column criteria.",
+      "tags": []
+    },
+    {
+      "id": "geonections",
+      "name": "Geonections",
+      "url": "https://geonections.com/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Connections, but every group is a geographic category.",
+      "tags": []
+    },
+    {
+      "id": "globle",
+      "name": "Globle",
+      "url": "https://globle-game.com/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Guess countries on a 3D globe that warm from blue to red as you get closer.",
+      "tags": []
+    },
+    {
+      "id": "globle-capitals",
+      "name": "Globle Capitals",
+      "url": "https://globle-capitals.com/",
+      "category": "geography",
+      "platform": "web",
+      "description": "The same hot-and-cold globe, but you are hunting a capital city.",
+      "tags": []
+    },
+    {
+      "id": "juxtastat",
+      "name": "Juxtastat",
+      "url": "https://urbanstats.org/quiz.html",
+      "category": "geography",
+      "platform": "web",
+      "description": "Head-to-head statistical comparisons between real places — which one is denser, richer, hotter.",
+      "tags": []
+    },
+    {
+      "id": "mapster",
+      "name": "Mapster",
+      "url": "https://mapster.teuteuf.fr/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Rebuild a map from scattered country pieces.",
+      "tags": []
+    },
+    {
+      "id": "satle",
+      "name": "Satle",
+      "url": "https://satle.ca/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Identify a city from a slowly zooming-out satellite image.",
+      "tags": []
+    },
+    {
+      "id": "statele",
+      "name": "Statele",
+      "url": "https://statele.teuteuf.fr/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Worldle for the fifty US states.",
+      "tags": []
+    },
+    {
+      "id": "subwaydle",
+      "name": "Subwaydle",
+      "url": "https://www.subwaydle.com/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Work out a New York City subway trip from its route bullets in six guesses.",
+      "tags": []
+    },
+    {
+      "id": "tradle",
+      "name": "Tradle",
+      "url": "https://oec.world/en/games/tradle",
+      "category": "geography",
+      "platform": "web",
+      "description": "Identify a country from the breakdown of what it exports.",
+      "tags": []
+    },
+    {
+      "id": "travle",
+      "name": "Travle",
+      "url": "https://travle.earth/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Connect a start country to an end country by naming the chain of neighbours between them.",
+      "tags": []
+    },
+    {
+      "id": "whereabouts",
+      "name": "Whereabouts",
+      "url": "https://whereabouts.earth/daily/",
+      "category": "geography",
+      "platform": "web",
+      "description": "A daily street-level location round in the GeoGuessr mould, free and account-free.",
+      "tags": []
+    },
+    {
+      "id": "wheretaken",
+      "name": "WhereTaken",
+      "url": "https://wheretaken.teuteuf.fr/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Guess where a photograph was taken, with proximity feedback after each attempt.",
+      "tags": []
+    },
+    {
+      "id": "timeguessr",
+      "name": "TimeGuessr",
+      "url": "https://timeguessr.com/",
+      "category": "history",
+      "platform": "web",
+      "description": "Place five historical photographs in both space and time, scored on distance and years off.",
+      "tags": []
+    },
+    {
+      "id": "chrono",
+      "name": "Chrono",
+      "url": "https://chrono.quest/",
+      "category": "history",
+      "platform": "web",
+      "description": "Drop historical events into the correct order on a timeline.",
+      "tags": []
+    },
+    {
+      "id": "chronophoto",
+      "name": "Chronophoto",
+      "url": "https://www.chronophoto.app/",
+      "category": "history",
+      "platform": "web",
+      "description": "Five photographs, five guesses at the year each one was taken.",
+      "tags": []
+    },
+    {
+      "id": "timdle",
+      "name": "Timdle",
+      "url": "https://www.timdle.com/",
+      "category": "history",
+      "platform": "web",
+      "description": "Sort a shuffled set of events chronologically, with themed daily rounds.",
+      "tags": []
+    },
+    {
+      "id": "whentaken",
+      "name": "WhenTaken",
+      "url": "https://whentaken.com/",
+      "category": "history",
+      "platform": "web",
+      "description": "Year-and-location guessing over a rotating archive of historical photography.",
+      "tags": []
+    },
+    {
+      "id": "wikitrivia",
+      "name": "Wikitrivia",
+      "url": "https://wikitrivia.tomjwatson.com/daily",
+      "category": "history",
+      "platform": "web",
+      "description": "Build a timeline card by card from Wikidata; one wrong placement ends the run.",
+      "tags": [
+        "open-source"
+      ]
+    },
+    {
+      "id": "yeardle",
+      "name": "Yeardle",
+      "url": "https://histordle.com/yeardle",
+      "category": "history",
+      "platform": "web",
+      "description": "Guess the year an event happened, with warmer or colder feedback each turn.",
+      "tags": []
+    },
+    {
+      "id": "bandle",
+      "name": "Bandle",
+      "url": "https://bandle.app/",
+      "category": "music",
+      "platform": "web",
+      "description": "The song is layered in one instrument at a time — name it before the full band arrives.",
+      "tags": [
+        "audio"
+      ]
+    },
+    {
+      "id": "crosstune",
+      "name": "Crosstune",
+      "url": "https://crosstune.io/",
+      "category": "music",
+      "platform": "web",
+      "description": "A crossword whose clues are song clips instead of text.",
+      "tags": [
+        "audio"
+      ]
+    },
+    {
+      "id": "guess-the-audio",
+      "name": "Guess The Audio",
+      "url": "https://guesstheaudio.com/",
+      "category": "music",
+      "platform": "web",
+      "description": "Identify the track from progressively longer snippets, Heardle-style.",
+      "tags": [
+        "audio"
+      ]
+    },
+    {
+      "id": "harmonies",
+      "name": "Harmonies",
+      "url": "https://harmonies.io/",
+      "category": "music",
+      "platform": "web",
+      "description": "Connections for music nerds — group sixteen artists, songs or albums into four sets.",
+      "tags": []
+    },
+    {
+      "id": "heardle-daily",
+      "name": "Heardle Daily",
+      "url": "https://www.heardle.info/daily/",
+      "category": "music",
+      "platform": "web",
+      "description": "A community-run continuation of Heardle after Spotify shut the original down.",
+      "tags": [
+        "audio"
+      ]
+    },
+    {
+      "id": "lyricle",
+      "name": "Lyricle",
+      "url": "https://www.lyricle.app/",
+      "category": "music",
+      "platform": "web",
+      "description": "Guess the song from its lyrics, revealed a line at a time.",
+      "tags": []
+    },
+    {
+      "id": "meloguessr",
+      "name": "MeloGuessr",
+      "url": "https://meloguessr.com/",
+      "category": "music",
+      "platform": "web",
+      "description": "GeoGuessr's format applied to sheet music and melodies.",
+      "tags": [
+        "audio"
+      ]
+    },
+    {
+      "id": "perfect-pitch-puzzle",
+      "name": "Perfect Pitch Puzzle",
+      "url": "https://www.perfectpitchpuzzle.com/",
+      "category": "music",
+      "platform": "web",
+      "description": "An ear-training daily that turns interval recognition into a scored puzzle.",
+      "tags": [
+        "audio"
+      ]
+    },
+    {
+      "id": "relatle",
+      "name": "Relatle",
+      "url": "https://relatle.io/",
+      "category": "music",
+      "platform": "web",
+      "description": "Travel from one artist to another through related-artist links in as few hops as possible.",
+      "tags": []
+    },
+    {
+      "id": "spotle",
+      "name": "Spotle",
+      "url": "https://spotle.io/",
+      "category": "music",
+      "platform": "web",
+      "description": "Deduce the mystery artist from genre, popularity, debut year and country clues.",
+      "tags": []
+    },
+    {
+      "id": "framed",
+      "name": "Framed",
+      "url": "https://framed.wtf/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Name the film from a single still; each miss buys you another frame.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "actorle",
+      "name": "Actorle",
+      "url": "https://actorle.com/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Identify an actor from a filmography with the titles blanked out and only genres and ratings showing.",
+      "tags": []
+    },
+    {
+      "id": "box-office-game",
+      "name": "Box Office Game",
+      "url": "https://boxofficega.me/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Name the top five films at the US box office for a mystery weekend in history.",
+      "tags": []
+    },
+    {
+      "id": "cinematrix",
+      "name": "Cinematrix",
+      "url": "https://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Vulture's 3x3 film grid — fill each cell with a movie matching both criteria.",
+      "tags": []
+    },
+    {
+      "id": "cinenerdle",
+      "name": "CineNerdle",
+      "url": "https://www.cinenerdle.app/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "A suite of film puzzles including the excellent Cine2Nerdle tile-swapping grid.",
+      "tags": []
+    },
+    {
+      "id": "filmlink",
+      "name": "FilmLink",
+      "url": "https://filmlink.io/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Connect two films through shared cast and crew in as few steps as you can.",
+      "tags": []
+    },
+    {
+      "id": "flickle",
+      "name": "Flickle",
+      "url": "https://flickle.app/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Guess the film from a one-second clip that grows longer with every wrong answer.",
+      "tags": []
+    },
+    {
+      "id": "gaps",
+      "name": "Gaps",
+      "url": "https://gaps.wtf/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Fill in the blanked-out words of a famous film quote.",
+      "tags": []
+    },
+    {
+      "id": "letterboxdle",
+      "name": "Letterboxdle",
+      "url": "https://letterboxdle.net/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Identify a film from its Letterboxd reviews, poster and stats.",
+      "tags": []
+    },
+    {
+      "id": "movie-grid",
+      "name": "Movie Grid",
+      "url": "https://moviegrid.io/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Immaculate Grid for cinema — nine cells, nine films, each matching two constraints.",
+      "tags": []
+    },
+    {
+      "id": "moviedle",
+      "name": "Moviedle",
+      "url": "https://moviedle.xyz/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "An entire film compressed into one second, then two, then four, until you recognise it.",
+      "tags": []
+    },
+    {
+      "id": "plotwords",
+      "name": "Plotwords",
+      "url": "https://plotwords.com/daily",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Guess the film from a drip-feed of plot keywords, cheapest clues first.",
+      "tags": []
+    },
+    {
+      "id": "immaculate-grid",
+      "name": "Immaculate Grid",
+      "url": "https://www.sports-reference.com/immaculate-grid/",
+      "category": "sports",
+      "platform": "web",
+      "description": "Fill a 3x3 grid with players matching each row and column team — the format everything else copied.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "connections-sports-edition",
+      "name": "Connections Sports Edition",
+      "url": "https://www.nytimes.com/athletic/connections-sports-edition",
+      "category": "sports",
+      "platform": "web",
+      "description": "The Athletic's sports-only take on Connections.",
+      "tags": [
+        "nyt"
+      ]
+    },
+    {
+      "id": "daily-walkoff",
+      "name": "Daily Walkoff",
+      "url": "https://www.dailywalkoff.com/",
+      "category": "sports",
+      "platform": "web",
+      "description": "A baseball trivia daily built around famous at-bats and box scores.",
+      "tags": []
+    },
+    {
+      "id": "hoopgrids",
+      "name": "HoopGrids",
+      "url": "https://www.hoopgrids.com/",
+      "category": "sports",
+      "platform": "web",
+      "description": "The grid format for the NBA, with a rarity score that rewards obscure picks.",
+      "tags": []
+    },
+    {
+      "id": "immaculate-footy",
+      "name": "Immaculate Footy",
+      "url": "https://www.sports-reference.com/immaculate-footy/",
+      "category": "sports",
+      "platform": "web",
+      "description": "The grid applied to world football, powered by FBref data.",
+      "tags": []
+    },
+    {
+      "id": "mlb-pickle",
+      "name": "MLB Pickle",
+      "url": "https://www.mlbpickle.com/",
+      "category": "sports",
+      "platform": "web",
+      "description": "Deduce a mystery baseball player from team, position, age and stat feedback.",
+      "tags": []
+    },
+    {
+      "id": "poeltl",
+      "name": "Poeltl",
+      "url": "https://poeltl.nbpa.com/",
+      "category": "sports",
+      "platform": "web",
+      "description": "Eight guesses to find the mystery NBA player, with feedback on team, height, age and number.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "puckdoku",
+      "name": "Puckdoku",
+      "url": "https://www.puckdoku.com/",
+      "category": "sports",
+      "platform": "web",
+      "description": "The grid for hockey, covering the full history of the NHL.",
+      "tags": []
+    },
+    {
+      "id": "weddle",
+      "name": "Weddle",
+      "url": "https://www.weddlegame.com/",
+      "category": "sports",
+      "platform": "web",
+      "description": "Wordle rules applied to NFL players — conference, division, position, height and number.",
+      "tags": []
+    },
+    {
+      "id": "gamedle",
+      "name": "Gamedle",
+      "url": "https://www.gamedle.wtf/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Five daily modes — cover art, screenshots, keywords, characters and classic deduction.",
+      "tags": []
+    },
+    {
+      "id": "balatrodle",
+      "name": "Balatrodle",
+      "url": "https://www.balatrodle.com/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Guess the day's Balatro joker from its rarity, cost and effect.",
+      "tags": []
+    },
+    {
+      "id": "guessthe-game",
+      "name": "GuessThe.Game",
+      "url": "https://guessthe.game/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Name the game from up to six screenshots, starting with the least helpful one.",
+      "tags": []
+    },
+    {
+      "id": "howlongtobeat-daily",
+      "name": "HowLongToBeat Daily",
+      "url": "https://howlongtobeat.com/play",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Guess the game from its completion times, genres and platforms.",
+      "tags": []
+    },
+    {
+      "id": "isaaconnect",
+      "name": "Isaaconnect",
+      "url": "https://isaaconnect.com/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Connections for The Binding of Isaac's enormous item pool.",
+      "tags": []
+    },
+    {
+      "id": "loldle",
+      "name": "LoLdle",
+      "url": "https://loldle.net/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "League of Legends champion deduction across classic, quote, ability and splash art modes.",
+      "tags": []
+    },
+    {
+      "id": "minecraftle",
+      "name": "Minecraftle",
+      "url": "https://minecraftle.zachmanson.com/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Wordle played on a crafting table — reach the target item through valid recipes.",
+      "tags": [
+        "open-source"
+      ]
+    },
+    {
+      "id": "pokedle",
+      "name": "Pokedle",
+      "url": "https://pokedle.net/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Guess the Pokémon from type, generation, habitat and stat comparisons.",
+      "tags": []
+    },
+    {
+      "id": "pokedoku",
+      "name": "Pokedoku",
+      "url": "https://pokedoku.com/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "The Immaculate Grid format applied to the National Pokédex.",
+      "tags": []
+    },
+    {
+      "id": "smashdle",
+      "name": "Smashdle",
+      "url": "https://smashdle.net/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Super Smash Bros. character, move and stage guessing modes.",
+      "tags": []
+    },
+    {
+      "id": "squirdle",
+      "name": "Squirdle",
+      "url": "https://squirdle.fireblend.com/daily.html",
+      "category": "video-games",
+      "platform": "web",
+      "description": "The original Pokémon Wordle, with higher-or-lower feedback on height, weight and generation.",
+      "tags": []
+    },
+    {
+      "id": "stardewdle",
+      "name": "Stardewdle",
+      "url": "https://stardewdle.com/game",
+      "category": "video-games",
+      "platform": "web",
+      "description": "A Stardew Valley daily covering villagers, items and seasons.",
+      "tags": []
+    },
+    {
+      "id": "steamdle",
+      "name": "Steamdle",
+      "url": "https://steamdle.com/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Identify a Steam game from its user reviews, revealed one at a time.",
+      "tags": []
+    },
+    {
+      "id": "revealed",
+      "name": "Revealed",
+      "url": "https://www.britannica.com/games/revealed",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Britannica's daily: an image is uncovered piece by piece as the clues get easier.",
+      "tags": []
+    },
+    {
+      "id": "daily-dozen-trivia",
+      "name": "Daily Dozen Trivia",
+      "url": "https://dailydozentrivia.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Twelve questions a day across a fixed set of categories, with a streak to protect.",
+      "tags": []
+    },
+    {
+      "id": "factle",
+      "name": "Factle",
+      "url": "https://frontofficesports.com/trivia/factle",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Guess the entries in a real top-five list, ranked in the right order.",
+      "tags": []
+    },
+    {
+      "id": "foodguessr",
+      "name": "FoodGuessr",
+      "url": "https://www.foodguessr.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Name the country a dish comes from, three plates a day.",
+      "tags": []
+    },
+    {
+      "id": "google-feud",
+      "name": "Google Feud",
+      "url": "https://googlefeud.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Complete the search query the way the rest of the internet did.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "jeopardy-j6",
+      "name": "Jeopardy! J6",
+      "url": "https://www.jeopardy.com/play/j6",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Six official Jeopardy! clues a day, in ascending difficulty.",
+      "tags": []
+    },
+    {
+      "id": "on-the-record",
+      "name": "On the Record",
+      "url": "https://www.washingtonpost.com/news-quiz",
+      "category": "trivia",
+      "platform": "web",
+      "description": "The Washington Post's daily news quiz.",
+      "tags": []
+    },
+    {
+      "id": "rankle",
+      "name": "Rankle",
+      "url": "https://www.rankle.app/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Put five things in the correct order — by size, date, price or whatever the day demands.",
+      "tags": []
+    },
+    {
+      "id": "riddl-ing",
+      "name": "riddl.ing",
+      "url": "https://riddl.ing/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "One lateral-thinking riddle a day, with hints if you get stuck.",
+      "tags": []
+    },
+    {
+      "id": "thrice",
+      "name": "Thrice",
+      "url": "https://thrice.geekswhodrink.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Three questions, three guesses each, from the people behind Geeks Who Drink pub quizzes.",
+      "tags": []
+    },
+    {
+      "id": "tightrope",
+      "name": "Tightrope",
+      "url": "https://www.britannica.com/quiz/tightrope",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Keep answering correctly to stay on the wire; one slip ends the run.",
+      "tags": []
+    },
+    {
+      "id": "the-wiki-game-daily",
+      "name": "The Wiki Game Daily",
+      "url": "https://www.thewikigamedaily.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Race from one Wikipedia article to another using only in-article links.",
+      "tags": []
+    },
+    {
+      "id": "artle",
+      "name": "Artle",
+      "url": "https://www.nga.gov/artle.html",
+      "category": "visual",
+      "platform": "web",
+      "description": "The National Gallery of Art shows you four works; name the artist who made them.",
+      "tags": []
+    },
+    {
+      "id": "angle",
+      "name": "Angle",
+      "url": "https://angle.wtf/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Estimate the angle in degrees, with warmer and colder feedback.",
+      "tags": []
+    },
+    {
+      "id": "chroma",
+      "name": "Chroma",
+      "url": "https://robson.plus/chroma",
+      "category": "visual",
+      "platform": "web",
+      "description": "Reproduce the target colour by mixing your own.",
+      "tags": []
+    },
+    {
+      "id": "colorfle",
+      "name": "Colorfle",
+      "url": "https://colorfle.com/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Guess the exact colour by blending three of your own in Wordle-style rounds.",
+      "tags": []
+    },
+    {
+      "id": "costcodle",
+      "name": "Costcodle",
+      "url": "https://costcodle.com/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Guess the price of a Costco item in six tries — a surprisingly brutal test of grocery intuition.",
+      "tags": []
+    },
+    {
+      "id": "cropple",
+      "name": "Cropple",
+      "url": "https://cropple.app/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Identify a photograph from an extreme crop that widens with every guess.",
+      "tags": []
+    },
+    {
+      "id": "guess-the-house",
+      "name": "Guess The House",
+      "url": "https://guessthe.house/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Estimate what a real listed property sold for.",
+      "tags": []
+    },
+    {
+      "id": "guess-the-logo",
+      "name": "Guess The Logo",
+      "url": "https://guessthelogo.wtf/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Name the brand from a partially obscured logo.",
+      "tags": []
+    },
+    {
+      "id": "hexcodle",
+      "name": "Hexcodle",
+      "url": "https://www.hexcodle.com/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Guess the hex code of a displayed colour, digit by digit.",
+      "tags": []
+    },
+    {
+      "id": "picsey",
+      "name": "Picsey",
+      "url": "https://picsey.io/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Identify an image from a handful of colour-sampled pixels.",
+      "tags": []
+    },
+    {
+      "id": "scrandle",
+      "name": "Scrandle",
+      "url": "https://scrandle.com/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Two foods head to head, and you have to call which one packs more calories.",
+      "tags": []
+    },
+    {
+      "id": "spot-the-differences",
+      "name": "Spot the Differences",
+      "url": "https://www.spot-differences.com/",
+      "category": "visual",
+      "platform": "web",
+      "description": "A new pair of near-identical images every day.",
+      "tags": []
+    },
+    {
+      "id": "metazooa",
+      "name": "Metazooa",
+      "url": "https://metazooa.com/",
+      "category": "science-nature",
+      "platform": "web",
+      "description": "Guess the animal; feedback is the taxonomic rank at which your guess and the answer diverge.",
+      "tags": []
+    },
+    {
+      "id": "birdie-game",
+      "name": "Birdie Game",
+      "url": "https://birdiegame.net/",
+      "category": "science-nature",
+      "platform": "web",
+      "description": "Identify the bird of the day from photographs and range clues.",
+      "tags": []
+    },
+    {
+      "id": "chemdle",
+      "name": "Chemdle",
+      "url": "https://www.chemdle.com/",
+      "category": "science-nature",
+      "platform": "web",
+      "description": "Deduce the day's chemical compound from its formula and properties.",
+      "tags": []
+    },
+    {
+      "id": "elemingle",
+      "name": "Elemingle",
+      "url": "https://elemingle.com/",
+      "category": "science-nature",
+      "platform": "web",
+      "description": "Pin down a periodic-table element using group, period and physical property hints.",
+      "tags": []
+    },
+    {
+      "id": "metaflora",
+      "name": "Metaflora",
+      "url": "https://flora.metazooa.com/",
+      "category": "science-nature",
+      "platform": "web",
+      "description": "Metazooa's botanical sibling, built on the plant family tree.",
+      "tags": []
+    },
+    {
+      "id": "real-bird-fake-bird",
+      "name": "Real Bird Fake Bird",
+      "url": "https://realbirdfakebird.com/",
+      "category": "science-nature",
+      "platform": "web",
+      "description": "Decide whether each bird name is a genuine species or an invention.",
+      "tags": []
+    },
+    {
+      "id": "stardle",
+      "name": "Stardle",
+      "url": "https://stardlegame.github.io/stardle/",
+      "category": "science-nature",
+      "platform": "web",
+      "description": "Identify a star or deep-sky object from its astronomical data.",
+      "tags": [
+        "open-source"
+      ]
+    },
+    {
+      "id": "putt-day",
+      "name": "putt.day",
+      "url": "https://putt.day/play",
+      "category": "arcade",
+      "platform": "web",
+      "description": "One daily minigolf course, shared par, and 2D or 3D replays of everyone's shots.",
+      "tags": []
+    },
+    {
+      "id": "daybrix",
+      "name": "DayBrix",
+      "url": "https://vole.wtf/daybrix",
+      "category": "arcade",
+      "platform": "web",
+      "description": "A daily brick-breaking layout where everyone plays the identical board.",
+      "tags": []
+    },
+    {
+      "id": "dungleon",
+      "name": "Dungleon",
+      "url": "https://www.dungleon.com/",
+      "category": "arcade",
+      "platform": "web",
+      "description": "A short daily dungeon crawl where every player gets the same seed.",
+      "tags": []
+    },
+    {
+      "id": "jigsy",
+      "name": "Jigsy",
+      "url": "https://jigsy.app/",
+      "category": "arcade",
+      "platform": "web",
+      "description": "A daily jigsaw puzzle sized to be finished in a coffee break.",
+      "tags": []
+    },
+    {
+      "id": "kinda-hard-golf",
+      "name": "Kinda Hard Golf",
+      "url": "https://kindahardgolf.com/",
+      "category": "arcade",
+      "platform": "web",
+      "description": "A physics-golf daily that lives up to its name.",
+      "tags": []
+    },
+    {
+      "id": "minigolfle",
+      "name": "Minigolfle",
+      "url": "https://minigolfle.com/",
+      "category": "arcade",
+      "platform": "web",
+      "description": "Nine holes of daily minigolf with a shareable scorecard.",
+      "tags": []
+    },
+    {
+      "id": "pick-a-partridge",
+      "name": "pick_a_partridge",
+      "url": "https://www.reddit.com/r/pick_a_partridge/",
+      "category": "arcade",
+      "platform": "reddit",
+      "description": "A daily memory game where you track the partridge through the shuffle.",
+      "tags": []
+    },
+    {
+      "id": "rogule",
+      "name": "Rogule",
+      "url": "https://rogule.com/",
+      "category": "arcade",
+      "platform": "web",
+      "description": "A tiny daily roguelike run that takes about five minutes and shares as an emoji grid.",
+      "tags": [
+        "open-source"
+      ]
+    },
+    {
+      "id": "squishy-billiards",
+      "name": "Squishy Billiards",
+      "url": "https://squishybilliards.com/",
+      "category": "arcade",
+      "platform": "web",
+      "description": "A daily trick-shot puzzle played with deformable billiard balls.",
+      "tags": []
+    },
+    {
+      "id": "chess-com-daily-puzzle",
+      "name": "Chess.com Daily Puzzle",
+      "url": "https://www.chess.com/daily-chess-puzzle",
+      "category": "board-card",
+      "platform": "web",
+      "description": "One tactical position a day from real games, free without an account.",
+      "tags": [
+        "classic"
+      ]
+    },
+    {
+      "id": "chessguessr",
+      "name": "Chessguessr",
+      "url": "https://www.chessguessr.com/",
+      "category": "board-card",
+      "platform": "web",
+      "description": "Predict the next moves of a famous game, Wordle-style.",
+      "tags": []
+    },
+    {
+      "id": "chessle",
+      "name": "Chessle",
+      "url": "https://jackli.gg/chessle/",
+      "category": "board-card",
+      "platform": "web",
+      "description": "Guess the chess opening from its move sequence with green and yellow feedback.",
+      "tags": []
+    },
+    {
+      "id": "codenames-daily",
+      "name": "Codenames Daily",
+      "url": "https://codenames.game/daily/en",
+      "category": "board-card",
+      "platform": "web",
+      "description": "A solo daily board of Codenames where you play the guesser against fixed clues.",
+      "tags": []
+    },
+    {
+      "id": "echo-chess",
+      "name": "Echo Chess",
+      "url": "https://echochess.com/",
+      "category": "board-card",
+      "platform": "web",
+      "description": "A single-player chess roguelike where capturing a piece turns you into it.",
+      "tags": []
+    },
+    {
+      "id": "lichess-daily-puzzle",
+      "name": "Lichess Daily Puzzle",
+      "url": "https://lichess.org/training/daily",
+      "category": "board-card",
+      "platform": "web",
+      "description": "The same idea, fully free and fully open source.",
+      "tags": [
+        "open-source"
+      ]
+    },
+    {
+      "id": "mahjong-handle",
+      "name": "Mahjong Handle",
+      "url": "https://mahjong-handle.update.sh/",
+      "category": "board-card",
+      "platform": "web",
+      "description": "Wordle for riichi mahjong hands.",
+      "tags": []
+    },
+    {
+      "id": "pile-up-poker",
+      "name": "Pile-Up Poker",
+      "url": "https://www.puzzmo.com/play/pile-up-poker",
+      "category": "board-card",
+      "platform": "web",
+      "description": "Build the highest-scoring poker grid from a fixed daily deal.",
+      "tags": []
+    },
+    {
+      "id": "pokle",
+      "name": "Pokle",
+      "url": "https://poklegame.com/",
+      "category": "board-card",
+      "platform": "web",
+      "description": "Reconstruct the board of a poker hand from the players' final results.",
+      "tags": []
+    },
+    {
+      "id": "really-bad-chess",
+      "name": "Really Bad Chess",
+      "url": "https://www.puzzmo.com/play/really-bad-chess",
+      "category": "board-card",
+      "platform": "web",
+      "description": "Chess with a randomly generated army, as a daily beat-the-computer challenge.",
+      "tags": []
+    },
+    {
+      "id": "puzzmo",
+      "name": "Puzzmo",
+      "url": "https://www.puzzmo.com/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "A dozen well-crafted dailies with genuinely good design; several are free, the rest are subscriber-only.",
+      "tags": [
+        "paywalled"
+      ]
+    },
+    {
+      "id": "britannica-games",
+      "name": "Britannica Games",
+      "url": "https://www.britannica.com/games",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Revealed, Tightrope, Octordle and a rotating set of knowledge dailies.",
+      "tags": []
+    },
+    {
+      "id": "coffee-first-games",
+      "name": "Coffee First Games",
+      "url": "https://coffeefirst.games/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "A small indie studio shipping several short, polished dailies.",
+      "tags": []
+    },
+    {
+      "id": "dailywordsnacks",
+      "name": "DailyWordSnacks",
+      "url": "https://www.reddit.com/r/DailyWordSnacks/",
+      "category": "hubs",
+      "platform": "reddit",
+      "description": "A rotating collection of small word games posted daily to Reddit.",
+      "tags": []
+    },
+    {
+      "id": "gamebunny",
+      "name": "Gamebunny",
+      "url": "https://gamebunny.app/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "A tidy collection of original dailies spanning words, trivia and logic.",
+      "tags": []
+    },
+    {
+      "id": "lex-games",
+      "name": "Lex.Games",
+      "url": "https://lex.games/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Six free word puzzles a day, including a mini crossword and a Connections variant.",
+      "tags": []
+    },
+    {
+      "id": "linkedin-games",
+      "name": "LinkedIn Games",
+      "url": "https://www.linkedin.com/games/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Queens, Tango, Zip, Pinpoint and Crossclimb — free, but you need a LinkedIn account.",
+      "tags": []
+    },
+    {
+      "id": "merriam-webster-games",
+      "name": "Merriam-Webster Games",
+      "url": "https://www.merriam-webster.com/games",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Quordle, Blossom and friends, hosted by the dictionary itself.",
+      "tags": []
+    },
+    {
+      "id": "netflix-puzzled",
+      "name": "Netflix Puzzled",
+      "url": "https://www.netflix.com/tudum/puzzled",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Netflix's free daily puzzle collection — sudoku, jigsaws, crosswords and word games.",
+      "tags": []
+    },
+    {
+      "id": "the-new-yorker-puzzles-games",
+      "name": "The New Yorker Puzzles & Games",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Crosswords, cryptics and original word games from the magazine.",
+      "tags": []
+    },
+    {
+      "id": "nibble-games",
+      "name": "Nibble Games",
+      "url": "https://nibble.games/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "A set of short pencil-and-paper style puzzles refreshed daily.",
+      "tags": []
+    },
+    {
+      "id": "nyt-games",
+      "name": "NYT Games",
+      "url": "https://www.nytimes.com/crosswords",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Wordle, Connections, Strands and the Mini are free; the full crossword and archive are not.",
+      "tags": [
+        "nyt",
+        "paywalled"
+      ]
+    },
+    {
+      "id": "puzzmallow",
+      "name": "Puzzmallow",
+      "url": "https://puzzmallow.com/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Several original daily logic and word puzzles with a clean, ad-free interface.",
+      "tags": []
+    },
+    {
+      "id": "ted-games",
+      "name": "TED Games",
+      "url": "https://www.ted.com/games",
+      "category": "hubs",
+      "platform": "web",
+      "description": "TED's free daily word and knowledge puzzles.",
+      "tags": []
+    },
+    {
+      "id": "thinky-dailies",
+      "name": "Thinky Dailies",
+      "url": "https://thinkygames.com/dailies/today/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "An aggregator that pulls together the day's puzzles from dozens of indie thinky games.",
+      "tags": []
+    },
+    {
+      "id": "washington-post-games",
+      "name": "Washington Post Games",
+      "url": "https://www.washingtonpost.com/games/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Free crosswords, Keyword, Wridges and the daily news quiz.",
+      "tags": []
+    }
+  ],
+  "resources": [
+    {
+      "id": "archives",
+      "title": "Archives & Unlimited Play",
+      "emoji": "🗄️",
+      "blurb": "For when one puzzle a day is not enough, or you want to catch up on the ones you missed.",
+      "items": [
+        {
+          "name": "Wordle Archive",
+          "url": "https://www.devangthakkar.com/wordle_archive/",
+          "description": "Play any past Wordle by number, going back to the very first one."
+        },
+        {
+          "name": "hello wordl",
+          "url": "https://hellowordl.net/",
+          "description": "Unlimited Wordle with adjustable word length, and the reference implementation people fork."
+        },
+        {
+          "name": "Thinky Dailies",
+          "url": "https://thinkygames.com/dailies/today/",
+          "description": "One page listing today's puzzle across dozens of independent logic games."
+        },
+        {
+          "name": "Conexo Archive",
+          "url": "https://conexo.ws/en",
+          "description": "A Connections-style game that keeps every past board playable."
+        },
+        {
+          "name": "BrainBashers Archive",
+          "url": "https://www.brainbashers.com/dailypuzzle.asp",
+          "description": "Years of daily logic puzzles, all still online and free."
+        }
+      ]
+    },
+    {
+      "id": "build",
+      "title": "Build Your Own Daily Game",
+      "emoji": "🛠️",
+      "blurb": "Tooling, platforms and open-source starting points if you would rather ship one than play one.",
+      "items": [
+        {
+          "name": "Devvit — Reddit Developer Platform",
+          "url": "https://developers.reddit.com/",
+          "description": "The framework behind almost every Reddit game in this list; games run as interactive posts inside the feed."
+        },
+        {
+          "name": "Reddit Daily Games Hackathon",
+          "url": "https://redditdailygames2026.devpost.com/",
+          "description": "Reddit's hackathon for daily games, and a good index of what people are currently building."
+        },
+        {
+          "name": "word.rodeo",
+          "url": "https://word.rodeo/",
+          "description": "Generate a shareable Wordle with your own answer word, no code required."
+        },
+        {
+          "name": "react-wordle",
+          "url": "https://github.com/cwackerfuss/react-wordle",
+          "description": "The most-forked open-source Wordle clone; a solid base for a themed variant."
+        },
+        {
+          "name": "hello-wordl source",
+          "url": "https://github.com/lynn/hello-wordl",
+          "description": "Clean, dependency-light TypeScript implementation with variable word lengths."
+        },
+        {
+          "name": "Crosshare",
+          "url": "https://github.com/crosshare-org/crosshare",
+          "description": "Open-source crossword construction and hosting platform, free for constructors."
+        },
+        {
+          "name": "Crosshare Constructor",
+          "url": "https://crosshare.org/construct",
+          "description": "Build and publish a crossword in the browser and share it as a daily."
+        }
+      ]
+    },
+    {
+      "id": "lists",
+      "title": "Related Lists & Directories",
+      "emoji": "📚",
+      "blurb": "This list is curated and opinionated. When you want exhaustive instead, start here.",
+      "items": [
+        {
+          "name": "aukspot/dles",
+          "url": "https://github.com/aukspot/dles",
+          "description": "The exhaustive counterpart to this list — 700+ daily web games, actively maintained."
+        },
+        {
+          "name": "The Dles",
+          "url": "https://dles.aukspot.com/",
+          "description": "Browsable front end for the list above, with categories and search."
+        },
+        {
+          "name": "Comprehensive list of Wordle variants",
+          "url": "https://gist.github.com/maxspero/0a2f536b9561d829caf6bd994a34193d",
+          "description": "The long-running community gist, strongest on fandom and non-English variants."
+        },
+        {
+          "name": "Geography Wordles",
+          "url": "https://geographywordles.org/",
+          "description": "A directory dedicated entirely to geography dailies."
+        },
+        {
+          "name": "Listdle",
+          "url": "https://listdle.com/",
+          "description": "Category-browsable directory of \"-dle\" games."
+        },
+        {
+          "name": "DLE Games",
+          "url": "https://dlegames.org/",
+          "description": "Another large directory, useful for finding niche fandom variants."
+        }
+      ]
+    },
+    {
+      "id": "communities",
+      "title": "Communities",
+      "emoji": "💬",
+      "blurb": "Where new dailies get announced, discussed and playtested.",
+      "items": [
+        {
+          "name": "r/GamesOnReddit",
+          "url": "https://www.reddit.com/r/GamesOnReddit/",
+          "description": "The hub for games that run inside Reddit itself, including most of the Reddit entries here."
+        },
+        {
+          "name": "r/wordle",
+          "url": "https://www.reddit.com/r/wordle/",
+          "description": "Daily discussion for Wordle and, in practice, most of its descendants."
+        },
+        {
+          "name": "r/crossword",
+          "url": "https://www.reddit.com/r/crossword/",
+          "description": "Constructors and solvers, plus a steady stream of indie puzzle releases."
+        },
+        {
+          "name": "r/NYTGames",
+          "url": "https://www.reddit.com/r/NYTGames/",
+          "description": "Daily threads for the New York Times puzzle lineup."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+# Category definitions.
+#
+# Order here is the order used in the README and on the website.
+# `id`    - stable slug, referenced by every game's `category` field
+# `title` - heading text used in the README and the site
+# `emoji` - shown next to the heading and on the site's filter chips
+# `blurb` - one-line description shown under the heading
+
+- id: word-guessing
+  title: Word Guessing
+  emoji: "🟩"
+  blurb: Wordle and everything descended from it — one hidden word, a handful of guesses.
+
+- id: word-connections
+  title: Word Association & Connections
+  emoji: "🔗"
+  blurb: Group them, link them, or close in on a secret word by meaning rather than spelling.
+
+- id: crosswords
+  title: Crosswords & Clue Grids
+  emoji: "✏️"
+  blurb: Minis you finish with your coffee, cryptics you think about all day.
+
+- id: word-grids
+  title: Letter Grids & Word Building
+  emoji: "🔤"
+  blurb: Spelling Bee, Strands, Boggle-likes — squeeze every word out of a fixed set of letters.
+
+- id: numbers-math
+  title: Numbers & Math
+  emoji: "🔢"
+  blurb: Equations, arithmetic and number sense, one puzzle a day.
+
+- id: logic
+  title: Logic & Deduction
+  emoji: "🧩"
+  blurb: Sudoku, nonograms, pathfinders and pure deduction grids.
+
+- id: geography
+  title: Geography & Maps
+  emoji: "🗺️"
+  blurb: Countries, flags, borders, street views and satellite imagery.
+
+- id: history
+  title: History & Time
+  emoji: "⏳"
+  blurb: Date the photo, order the events, guess the year.
+
+- id: music
+  title: Music & Audio
+  emoji: "🎵"
+  blurb: Name the song, the artist, or the instrument from a few seconds of sound.
+
+- id: movies-tv
+  title: Movies & TV
+  emoji: "🎬"
+  blurb: Frames, filmographies, box office numbers and casting grids.
+
+- id: sports
+  title: Sports
+  emoji: "🏟️"
+  blurb: Mystery players, roster grids and stat-line deduction.
+
+- id: video-games
+  title: Video Games
+  emoji: "🎮"
+  blurb: Guess the game, the character, or the item — usually from a single pixellated clue.
+
+- id: trivia
+  title: Trivia & Knowledge
+  emoji: "🧠"
+  blurb: General knowledge, rankings, news quizzes and list-completion games.
+
+- id: visual
+  title: Visual & Estimation
+  emoji: "🖼️"
+  blurb: Art, colours, crops, angles and prices — games you play with your eyes and your gut.
+
+- id: science-nature
+  title: Science & Nature
+  emoji: "🔬"
+  blurb: Animals, plants, elements and stars.
+
+- id: arcade
+  title: Arcade & Skill
+  emoji: "🎯"
+  blurb: Daily runs, daily courses, daily shots — dexterity and tactics instead of vocabulary.
+
+- id: board-card
+  title: Board & Card Games
+  emoji: "♟️"
+  blurb: Chess puzzles, poker hands, mahjong and tabletop spin-offs.
+
+- id: hubs
+  title: Multi-Game Hubs
+  emoji: "🏛️"
+  blurb: Publishers and collections that ship several fresh puzzles every day.

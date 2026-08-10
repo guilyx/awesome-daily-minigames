@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en" data-theme="auto">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Awesome Daily Minigames</title>
+    <meta
+      name="description"
+      content="A curated, searchable directory of daily minigames — Wordle-likes, mini crosswords, geography guessers, music dailies and the growing set of games you play inside Reddit."
+    />
+    <link rel="canonical" href="https://guilyx.github.io/awesome-daily-minigames/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Awesome Daily Minigames" />
+    <meta
+      property="og:description"
+      content="A curated, searchable directory of daily minigames — one puzzle a day, then come back tomorrow."
+    />
+    <meta property="og:url" content="https://guilyx.github.io/awesome-daily-minigames/" />
+    <meta name="twitter:card" content="summary" />
+
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%236aaa64'/%3E%3Crect x='6' y='6' width='9' height='9' rx='2' fill='%23fff'/%3E%3Crect x='17' y='6' width='9' height='9' rx='2' fill='%23c9b458'/%3E%3Crect x='6' y='17' width='9' height='9' rx='2' fill='%23c9b458'/%3E%3Crect x='17' y='17' width='9' height='9' rx='2' fill='%23fff'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#results">Skip to games</a>
+
+    <header class="masthead">
+      <div class="shell">
+        <div class="masthead__top">
+          <div class="wordmark" aria-hidden="true">
+            <span class="tile tile--green">D</span><span class="tile tile--yellow">A</span
+            ><span class="tile">I</span><span class="tile tile--green">L</span
+            ><span class="tile tile--yellow">Y</span>
+          </div>
+          <div class="masthead__actions">
+            <button id="theme-toggle" class="icon-button" type="button" aria-label="Switch colour theme">
+              <span data-theme-icon>◐</span>
+            </button>
+            <a
+              class="icon-button"
+              href="https://github.com/guilyx/awesome-daily-minigames"
+              aria-label="View this list on GitHub"
+              >GitHub</a
+            >
+          </div>
+        </div>
+
+        <h1>Awesome Daily Minigames</h1>
+        <p class="tagline">
+          A curated directory of games that give you one puzzle a day and then politely ask you to come back
+          tomorrow. <strong data-count="games">—</strong> games across
+          <strong data-count="categories">—</strong> categories, including
+          <strong data-count="reddit">—</strong> you play inside a Reddit post.
+        </p>
+
+        <div class="controls">
+          <div class="search">
+            <span class="search__icon" aria-hidden="true">⌕</span>
+            <input
+              id="search"
+              type="search"
+              placeholder="Search 200+ games…  (press / to focus)"
+              autocomplete="off"
+              spellcheck="false"
+              aria-label="Search games by name, description or category"
+            />
+            <button id="clear-search" class="search__clear" type="button" aria-label="Clear search" hidden>
+              ✕
+            </button>
+          </div>
+          <button id="random" class="button button--primary" type="button">🎲 Random game</button>
+        </div>
+
+        <div class="filters">
+          <div class="filter-row" role="group" aria-label="Filter by platform">
+            <span class="filter-row__label">Where</span>
+            <div class="chips" id="platform-chips"></div>
+          </div>
+          <div class="filter-row" role="group" aria-label="Filter by tag">
+            <span class="filter-row__label">Tags</span>
+            <div class="chips" id="tag-chips"></div>
+          </div>
+          <div class="filter-row" role="group" aria-label="Filter by category">
+            <span class="filter-row__label">Category</span>
+            <div class="chips" id="category-chips"></div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="shell">
+      <div class="results-bar">
+        <p id="result-count" aria-live="polite">Loading…</p>
+        <button id="reset" class="button button--ghost" type="button" hidden>Reset filters</button>
+      </div>
+
+      <div id="results"></div>
+
+      <p id="empty" class="empty" hidden>
+        Nothing matches that. <button class="linkish" type="button" data-reset>Clear the filters</button> and
+        try again.
+      </p>
+
+      <noscript>
+        <p class="empty">
+          This page needs JavaScript to filter the catalogue. The full list is also available as plain
+          markdown in the
+          <a href="https://github.com/guilyx/awesome-daily-minigames#readme">README</a>.
+        </p>
+      </noscript>
+
+      <section id="resources" class="resources"></section>
+    </main>
+
+    <footer class="footer">
+      <div class="shell">
+        <p>
+          Curated on GitHub at
+          <a href="https://github.com/guilyx/awesome-daily-minigames">guilyx/awesome-daily-minigames</a> —
+          missing something?
+          <a href="https://github.com/guilyx/awesome-daily-minigames/issues/new/choose">Add it.</a>
+        </p>
+        <p class="footer__meta">
+          Released under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Game
+          names and links belong to their respective creators.
+        </p>
+      </div>
+    </footer>
+
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>

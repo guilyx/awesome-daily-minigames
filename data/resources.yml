@@ -1,0 +1,93 @@
+# Everything in the list that is not itself a daily game: archives, tools for
+# building your own, other lists worth knowing about, and places to talk about
+# all of it. Rendered into the README after the game catalogue.
+
+- id: archives
+  title: Archives & Unlimited Play
+  emoji: "🗄️"
+  blurb: For when one puzzle a day is not enough, or you want to catch up on the ones you missed.
+  items:
+    - name: Wordle Archive
+      url: https://www.devangthakkar.com/wordle_archive/
+      description: Play any past Wordle by number, going back to the very first one.
+    - name: hello wordl
+      url: https://hellowordl.net/
+      description: Unlimited Wordle with adjustable word length, and the reference implementation people fork.
+    - name: Thinky Dailies
+      url: https://thinkygames.com/dailies/today/
+      description: One page listing today's puzzle across dozens of independent logic games.
+    - name: Conexo Archive
+      url: https://conexo.ws/en
+      description: A Connections-style game that keeps every past board playable.
+    - name: BrainBashers Archive
+      url: https://www.brainbashers.com/dailypuzzle.asp
+      description: Years of daily logic puzzles, all still online and free.
+
+- id: build
+  title: Build Your Own Daily Game
+  emoji: "🛠️"
+  blurb: Tooling, platforms and open-source starting points if you would rather ship one than play one.
+  items:
+    - name: Devvit — Reddit Developer Platform
+      url: https://developers.reddit.com/
+      description: The framework behind almost every Reddit game in this list; games run as interactive posts inside the feed.
+    - name: Reddit Daily Games Hackathon
+      url: https://redditdailygames2026.devpost.com/
+      description: Reddit's hackathon for daily games, and a good index of what people are currently building.
+    - name: word.rodeo
+      url: https://word.rodeo/
+      description: Generate a shareable Wordle with your own answer word, no code required.
+    - name: react-wordle
+      url: https://github.com/cwackerfuss/react-wordle
+      description: The most-forked open-source Wordle clone; a solid base for a themed variant.
+    - name: hello-wordl source
+      url: https://github.com/lynn/hello-wordl
+      description: Clean, dependency-light TypeScript implementation with variable word lengths.
+    - name: Crosshare
+      url: https://github.com/crosshare-org/crosshare
+      description: Open-source crossword construction and hosting platform, free for constructors.
+    - name: Crosshare Constructor
+      url: https://crosshare.org/construct
+      description: Build and publish a crossword in the browser and share it as a daily.
+
+- id: lists
+  title: Related Lists & Directories
+  emoji: "📚"
+  blurb: This list is curated and opinionated. When you want exhaustive instead, start here.
+  items:
+    - name: aukspot/dles
+      url: https://github.com/aukspot/dles
+      description: The exhaustive counterpart to this list — 700+ daily web games, actively maintained.
+    - name: The Dles
+      url: https://dles.aukspot.com/
+      description: Browsable front end for the list above, with categories and search.
+    - name: Comprehensive list of Wordle variants
+      url: https://gist.github.com/maxspero/0a2f536b9561d829caf6bd994a34193d
+      description: The long-running community gist, strongest on fandom and non-English variants.
+    - name: Geography Wordles
+      url: https://geographywordles.org/
+      description: A directory dedicated entirely to geography dailies.
+    - name: Listdle
+      url: https://listdle.com/
+      description: Category-browsable directory of "-dle" games.
+    - name: DLE Games
+      url: https://dlegames.org/
+      description: Another large directory, useful for finding niche fandom variants.
+
+- id: communities
+  title: Communities
+  emoji: "💬"
+  blurb: Where new dailies get announced, discussed and playtested.
+  items:
+    - name: r/GamesOnReddit
+      url: https://www.reddit.com/r/GamesOnReddit/
+      description: The hub for games that run inside Reddit itself, including most of the Reddit entries here.
+    - name: r/wordle
+      url: https://www.reddit.com/r/wordle/
+      description: Daily discussion for Wordle and, in practice, most of its descendants.
+    - name: r/crossword
+      url: https://www.reddit.com/r/crossword/
+      description: Constructors and solvers, plus a steady stream of indie puzzle releases.
+    - name: r/NYTGames
+      url: https://www.reddit.com/r/NYTGames/
+      description: Daily threads for the New York Times puzzle lineup.
