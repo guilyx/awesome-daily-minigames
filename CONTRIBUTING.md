@@ -116,9 +116,13 @@ off the filesystem will not work — it needs to be served over HTTP.
 
 ### Enabling GitHub Pages on a fork
 
-Settings → Pages → Source: **Deploy from a branch**, branch `main`, folder
-`/docs`. There is no build step to configure; the site is committed ready to
-serve.
+Settings → Pages → Source: **GitHub Actions**. The
+[`Deploy site`](.github/workflows/pages.yml) workflow uploads `docs/` on every
+push to `master` that touches it, and you can trigger it by hand from the
+Actions tab.
+
+There is no build step in that workflow — `docs/` is already a finished static
+site, and CI keeps `docs/games.json` in sync with `data/`.
 
 ## Code of conduct
 
