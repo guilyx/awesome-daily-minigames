@@ -747,7 +747,6 @@
   category: geography
   platform: web
   description: Identify ten countries from their flags, then ten more from real outlines and map positions in two shared daily challenges.
-  tags: [open-source]
 
 # --------------------------------------------------------------------- history
 - name: TimeGuessr
