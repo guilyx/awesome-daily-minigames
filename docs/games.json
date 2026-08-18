@@ -3,7 +3,7 @@
   "counts": {
     "games": 235,
     "categories": 18,
-    "reddit": 18
+    "reddit": 17
   },
   "categories": [
     {
@@ -1218,10 +1218,10 @@
     {
       "id": "world-flag-games",
       "name": "World Flag Games",
-      "url": "https://www.reddit.com/r/worldflaggames_dev/",
+      "url": "https://worldflagmap.com/games/daily/",
       "category": "geography",
-      "platform": "reddit",
-      "description": "Identify ten countries from their flags, then ten more from their outlines and map positions in a shared daily Reddit challenge.",
+      "platform": "web",
+      "description": "Identify ten countries from their flags, then ten more from real outlines and map positions in two shared daily challenges.",
       "tags": [
         "open-source"
       ]
