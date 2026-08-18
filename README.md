@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **234 games across 18 categories**, including **17 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **235 games across 18 categories**, including **18 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -192,6 +192,7 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 - [Travle](https://travle.earth/) - Connect a start country to an end country by naming the chain of neighbours between them.
 - [Whereabouts](https://whereabouts.earth/daily/) - A daily street-level location round in the GeoGuessr mould, free and account-free.
 - [WhereTaken](https://wheretaken.teuteuf.fr/) - Guess where a photograph was taken, with proximity feedback after each attempt.
+- 🟠 [World Flag Games](https://www.reddit.com/r/worldflaggames_dev/) - Identify ten countries from their flags, then ten more from their outlines and map positions in a shared daily Reddit challenge.
 
 ## ⏳ History & Time
 
