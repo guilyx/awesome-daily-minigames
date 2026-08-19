@@ -1182,13 +1182,13 @@
   platform: web
   description: Guess the exact colour by blending three of your own in Wordle-style rounds.
 
-  - name: ColorGuessr
+- name: ColorGuessr
   url: https://www.reddit.com/r/ColorGuessr/
   category: visual
   platform: web
   description: Reddit Game where players are shown a Color Name and they must recreate this color...lets see how bad (good) you are at it!
   
-  - name: Colorecall
+- name: Colorecall
   url: https://www.colorecall.com/
   category: visual
   platform: web
