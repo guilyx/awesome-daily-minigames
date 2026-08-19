@@ -1084,17 +1084,17 @@
   platform: web
   description: "Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from."
 
-- name: Revealed
-  url: https://www.britannica.com/games/revealed
-  category: trivia
-  platform: web
-  description: "Britannica's daily: an image is uncovered piece by piece as the clues get easier."
-
 - name: Daily Dozen Trivia
   url: https://dailydozentrivia.com/
   category: trivia
   platform: web
   description: Twelve questions a day across a fixed set of categories, with a streak to protect.
+
+- name: Revealed
+  url: https://www.britannica.com/games/revealed
+  category: trivia
+  platform: web
+  description: "Britannica's daily: an image is uncovered piece by piece as the clues get easier."
 
 - name: Factle
   url: https://frontofficesports.com/trivia/factle
@@ -1176,6 +1176,12 @@
   platform: web
   description: Reproduce the target colour by mixing your own.
 
+- name: Colorecall
+  url: https://www.colorecall.com/
+  category: visual
+  platform: web
+  description: Two shapes, two colors, one intense memory challenge testing your color recall.
+
 - name: Colorfle
   url: https://colorfle.com/
   category: visual
@@ -1185,14 +1191,8 @@
 - name: ColorGuessr
   url: https://www.reddit.com/r/ColorGuessr/
   category: visual
-  platform: web
-  description: Reddit Game where players are shown a Color Name and they must recreate this color...lets see how bad (good) you are at it!
-  
-- name: Colorecall
-  url: https://www.colorecall.com/
-  category: visual
-  platform: web
-  description: Two shapes, two colors—one intense memory challenge. How sharp is your color recall?
+  platform: reddit
+  description: Reddit game where players recreate a displayed color name.
 
 - name: Costcodle
   url: https://costcodle.com/
