@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 234,
+    "games": 235,
     "categories": 18,
     "reddit": 17
   },
@@ -1213,6 +1213,15 @@
       "category": "geography",
       "platform": "web",
       "description": "Guess where a photograph was taken, with proximity feedback after each attempt.",
+      "tags": []
+    },
+    {
+      "id": "world-flag-games",
+      "name": "World Flag Games",
+      "url": "https://worldflagmap.com/games/daily/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Identify ten countries from their flags, then ten more from real outlines and map positions in two shared daily challenges.",
       "tags": []
     },
     {
