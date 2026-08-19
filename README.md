@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **236 games across 18 categories**, including **18 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **239 games across 18 categories**, including **19 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -276,7 +276,6 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 > General knowledge, rankings, news quizzes and list-completion games.
 
 - [FoodieGame](https://www.foodiegame.org/) - Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from.
-- [Revealed](https://www.britannica.com/games/revealed) - Britannica's daily: an image is uncovered piece by piece as the clues get easier.
 - [Daily Dozen Trivia](https://dailydozentrivia.com/) - Twelve questions a day across a fixed set of categories, with a streak to protect.
 - [Factle](https://frontofficesports.com/trivia/factle) - Guess the entries in a real top-five list, ranked in the right order.
 - [FoodGuessr](https://www.foodguessr.com/) - Name the country a dish comes from, three plates a day.
@@ -284,6 +283,7 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 - [Jeopardy! J6](https://www.jeopardy.com/play/j6) - Six official Jeopardy! clues a day, in ascending difficulty.
 - [On the Record](https://www.washingtonpost.com/news-quiz) - The Washington Post's daily news quiz.
 - [Rankle](https://www.rankle.app/) - Put five things in the correct order — by size, date, price or whatever the day demands.
+- [Revealed](https://www.britannica.com/games/revealed) - Britannica's daily: an image is uncovered piece by piece as the clues get easier.
 - [riddl.ing](https://riddl.ing/) - One lateral-thinking riddle a day, with hints if you get stuck.
 - [Thrice](https://thrice.geekswhodrink.com/) - Three questions, three guesses each, from the people behind Geeks Who Drink pub quizzes.
 - [Tightrope](https://www.britannica.com/quiz/tightrope) - Keep answering correctly to stay on the wire; one slip ends the run.
@@ -293,12 +293,12 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 
 > Art, colours, crops, angles and prices — games you play with your eyes and your gut.
 
-- [Colorecall](https://www.colorecall.com/) - Two shapes, two colors—one intense memory challenge. How sharp is your color recall?
-- [ColorGuessr](https://www.reddit.com/r/ColorGuessr/) - Reddit Game where players are shown a Color Name and they must recreate this color...lets see how bad (good) you are at it!
 - [Artle](https://www.nga.gov/artle.html) - The National Gallery of Art shows you four works; name the artist who made them.
 - [Angle](https://angle.wtf/) - Estimate the angle in degrees, with warmer and colder feedback.
 - [Chroma](https://robson.plus/chroma) - Reproduce the target colour by mixing your own.
+- [Colorecall](https://www.colorecall.com/) - Two shapes, two colors, one intense memory challenge testing your color recall.
 - [Colorfle](https://colorfle.com/) - Guess the exact colour by blending three of your own in Wordle-style rounds.
+- 🟠 [ColorGuessr](https://www.reddit.com/r/ColorGuessr/) - Reddit game where players recreate a displayed color name.
 - [Costcodle](https://costcodle.com/) - Guess the price of a Costco item in six tries — a surprisingly brutal test of grocery intuition.
 - [Cropple](https://cropple.app/) - Identify a photograph from an extreme crop that widens with every guess.
 - [Guess The House](https://guessthe.house/) - Estimate what a real listed property sold for.

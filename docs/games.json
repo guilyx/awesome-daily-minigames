@@ -1,9 +1,9 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 236,
+    "games": 239,
     "categories": 18,
-    "reddit": 18
+    "reddit": 19
   },
   "categories": [
     {
@@ -1726,15 +1726,6 @@
       "tags": []
     },
     {
-      "id": "revealed",
-      "name": "Revealed",
-      "url": "https://www.britannica.com/games/revealed",
-      "category": "trivia",
-      "platform": "web",
-      "description": "Britannica's daily: an image is uncovered piece by piece as the clues get easier.",
-      "tags": []
-    },
-    {
       "id": "daily-dozen-trivia",
       "name": "Daily Dozen Trivia",
       "url": "https://dailydozentrivia.com/",
@@ -1800,6 +1791,15 @@
       "tags": []
     },
     {
+      "id": "revealed",
+      "name": "Revealed",
+      "url": "https://www.britannica.com/games/revealed",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Britannica's daily: an image is uncovered piece by piece as the clues get easier.",
+      "tags": []
+    },
+    {
       "id": "riddl-ing",
       "name": "riddl.ing",
       "url": "https://riddl.ing/",
@@ -1862,22 +1862,13 @@
       "description": "Reproduce the target colour by mixing your own.",
       "tags": []
     },
-     {
-      "id": "colorguessr",
-      "name": "ColorGuessr",
-      "url": "https://www.reddit.com/r/ColorGuessr",
-      "category": "visual",
-      "platform": "web",
-      "description": "Reddit Game where players are shown a Color Name and they must recreate this color...lets see how bad (good) you are at it!",
-      "tags": []
-    },
-     {
+    {
       "id": "colorecall",
       "name": "Colorecall",
       "url": "https://www.colorecall.com/",
       "category": "visual",
       "platform": "web",
-      "description": "Two shapes, two colors—one intense memory challenge. How sharp is your color recall?",
+      "description": "Two shapes, two colors, one intense memory challenge testing your color recall.",
       "tags": []
     },
     {
@@ -1887,6 +1878,15 @@
       "category": "visual",
       "platform": "web",
       "description": "Guess the exact colour by blending three of your own in Wordle-style rounds.",
+      "tags": []
+    },
+    {
+      "id": "colorguessr",
+      "name": "ColorGuessr",
+      "url": "https://www.reddit.com/r/ColorGuessr/",
+      "category": "visual",
+      "platform": "reddit",
+      "description": "Reddit game where players recreate a displayed color name.",
       "tags": []
     },
     {
