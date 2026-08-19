@@ -275,6 +275,7 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 
 > General knowledge, rankings, news quizzes and list-completion games.
 
+- [FoodieGame](https://www.foodiegame.org/) - Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from.
 - [Revealed](https://www.britannica.com/games/revealed) - Britannica's daily: an image is uncovered piece by piece as the clues get easier.
 - [Daily Dozen Trivia](https://dailydozentrivia.com/) - Twelve questions a day across a fixed set of categories, with a streak to protect.
 - [Factle](https://frontofficesports.com/trivia/factle) - Guess the entries in a real top-five list, ranked in the right order.
@@ -292,6 +293,8 @@ Filter by category, platform and tag, and roll a random game when you cannot dec
 
 > Art, colours, crops, angles and prices — games you play with your eyes and your gut.
 
+- [Colorecall](https://www.colorecall.com/) - Two shapes, two colors—one intense memory challenge. How sharp is your color recall?
+- [ColorGuessr](https://www.reddit.com/r/ColorGuessr/) - Reddit Game where players are shown a Color Name and they must recreate this color...lets see how bad (good) you are at it!
 - [Artle](https://www.nga.gov/artle.html) - The National Gallery of Art shows you four works; name the artist who made them.
 - [Angle](https://angle.wtf/) - Estimate the angle in degrees, with warmer and colder feedback.
 - [Chroma](https://robson.plus/chroma) - Reproduce the target colour by mixing your own.
