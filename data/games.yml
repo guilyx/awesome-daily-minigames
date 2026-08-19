@@ -1082,19 +1082,13 @@
   url: https://www.foodiegame.org/
   category: trivia
   platform: web
-  description: "Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from."
+  description: Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from.
 
 - name: Daily Dozen Trivia
   url: https://dailydozentrivia.com/
   category: trivia
   platform: web
   description: Twelve questions a day across a fixed set of categories, with a streak to protect.
-
-- name: Revealed
-  url: https://www.britannica.com/games/revealed
-  category: trivia
-  platform: web
-  description: "Britannica's daily: an image is uncovered piece by piece as the clues get easier."
 
 - name: Factle
   url: https://frontofficesports.com/trivia/factle
@@ -1132,6 +1126,12 @@
   category: trivia
   platform: web
   description: Put five things in the correct order — by size, date, price or whatever the day demands.
+
+- name: Revealed
+  url: https://www.britannica.com/games/revealed
+  category: trivia
+  platform: web
+  description: "Britannica's daily: an image is uncovered piece by piece as the clues get easier."
 
 - name: riddl.ing
   url: https://riddl.ing/
