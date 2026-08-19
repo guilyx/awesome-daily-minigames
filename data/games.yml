@@ -1078,11 +1078,11 @@
   description: Identify a Steam game from its user reviews, revealed one at a time.
 
 # ---------------------------------------------------------------------- trivia
-- name: Revealed
-  url: https://www.britannica.com/games/revealed
+- name: FoodieGame
+  url: https://www.foodiegame.org/
   category: trivia
   platform: web
-  description: "Britannica's daily: an image is uncovered piece by piece as the clues get easier."
+  description: Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from.
 
 - name: Daily Dozen Trivia
   url: https://dailydozentrivia.com/
@@ -1127,6 +1127,12 @@
   platform: web
   description: Put five things in the correct order — by size, date, price or whatever the day demands.
 
+- name: Revealed
+  url: https://www.britannica.com/games/revealed
+  category: trivia
+  platform: web
+  description: "Britannica's daily: an image is uncovered piece by piece as the clues get easier."
+
 - name: riddl.ing
   url: https://riddl.ing/
   category: trivia
@@ -1170,11 +1176,23 @@
   platform: web
   description: Reproduce the target colour by mixing your own.
 
+- name: Colorecall
+  url: https://www.colorecall.com/
+  category: visual
+  platform: web
+  description: Two shapes, two colors, one intense memory challenge testing your color recall.
+
 - name: Colorfle
   url: https://colorfle.com/
   category: visual
   platform: web
   description: Guess the exact colour by blending three of your own in Wordle-style rounds.
+
+- name: ColorGuessr
+  url: https://www.reddit.com/r/ColorGuessr/
+  category: visual
+  platform: reddit
+  description: Reddit game where players recreate a displayed color name.
 
 - name: Costcodle
   url: https://costcodle.com/
