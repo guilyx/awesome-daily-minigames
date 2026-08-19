@@ -10,6 +10,10 @@ Every entry is free to start playing, resets on a daily cadence, and is short en
 
 Filter by category, platform and tag, and roll a random game when you cannot decide.
 
+### 🙋 Adding a game
+
+Missing something, or found one that has gone dark? Adding an entry is a five-line pull request against a YAML file — no need to touch the README or the site by hand, both are generated. [Open an issue](https://github.com/guilyx/awesome-daily-minigames/issues/new/choose) if you would rather someone else make the edit, or see [Contributing](#contributing) below for the two-minute version.
+
 ## Contents
 
 - [🟩 Word Guessing](#-word-guessing)
