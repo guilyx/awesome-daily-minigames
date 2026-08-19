@@ -1,9 +1,9 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 235,
+    "games": 236,
     "categories": 18,
-    "reddit": 17
+    "reddit": 18
   },
   "categories": [
     {
@@ -1001,6 +1001,15 @@
       "category": "logic",
       "platform": "web",
       "description": "Fill each run of cells with ascending numbers so no row or column repeats.",
+      "tags": []
+    },
+    {
+      "id": "pigment-pour-daily",
+      "name": "Pigment Pour Daily",
+      "url": "https://www.reddit.com/r/PigmentPourDaily/",
+      "category": "logic",
+      "platform": "reddit",
+      "description": "A water-sort puzzle where you pour coloured liquids between tubes until every tube holds a single pigment.",
       "tags": []
     },
     {

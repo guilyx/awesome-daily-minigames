@@ -601,6 +601,12 @@
   platform: web
   description: Fill each run of cells with ascending numbers so no row or column repeats.
 
+- name: Pigment Pour Daily
+  url: https://www.reddit.com/r/PigmentPourDaily/
+  category: logic
+  platform: reddit
+  description: A water-sort puzzle where you pour coloured liquids between tubes until every tube holds a single pigment.
+
 - name: Queens
   url: https://www.linkedin.com/games/queens
   category: logic
