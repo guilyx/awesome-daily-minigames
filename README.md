@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **239 games across 18 categories**, including **19 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **240 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -331,6 +331,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [putt.day](https://putt.day/play) - One daily minigolf course, shared par, and 2D or 3D replays of everyone's shots.
 - [DayBrix](https://vole.wtf/daybrix) - A daily brick-breaking layout where everyone plays the identical board.
 - [Dungleon](https://www.dungleon.com/) - A short daily dungeon crawl where every player gets the same seed.
+- 🟠 [Final Fit Block Game](https://www.reddit.com/r/BlockGame/) - Fit three pieces per round onto an 8x8 grid, clearing rows and columns — a shared daily board with identical pieces for all, plus an unlimited endless run.
 - [Jigsy](https://jigsy.app/) - A daily jigsaw puzzle sized to be finished in a coffee break.
 - [Kinda Hard Golf](https://kindahardgolf.com/) - A physics-golf daily that lives up to its name.
 - [Minigolfle](https://minigolfle.com/) - Nine holes of daily minigolf with a shareable scorecard.
