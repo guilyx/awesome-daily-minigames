@@ -1230,6 +1230,12 @@
   platform: web
   description: Identify an image from a handful of colour-sampled pixels.
 
+- name: Play Higher Lower
+  url: https://playhigherlower.com/daily
+  category: visual
+  platform: web
+  description: Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.
+
 - name: Scrandle
   url: https://scrandle.com/
   category: visual
