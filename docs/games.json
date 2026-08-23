@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 240,
+    "games": 241,
     "categories": 18,
     "reddit": 20
   },
@@ -1941,6 +1941,15 @@
       "category": "visual",
       "platform": "web",
       "description": "Identify an image from a handful of colour-sampled pixels.",
+      "tags": []
+    },
+    {
+      "id": "play-higher-lower",
+      "name": "Play Higher Lower",
+      "url": "https://playhigherlower.com/daily",
+      "category": "visual",
+      "platform": "web",
+      "description": "Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.",
       "tags": []
     },
     {
