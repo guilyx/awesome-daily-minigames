@@ -1305,6 +1305,12 @@
   platform: web
   description: A short daily dungeon crawl where every player gets the same seed.
 
+- name: Final Fit Block Game
+  url: https://www.reddit.com/r/BlockGame/
+  category: arcade
+  platform: reddit
+  description: Fit three pieces per round onto an 8x8 grid, clearing rows and columns — a shared daily board with identical pieces for all, plus an unlimited endless run.
+
 - name: Jigsy
   url: https://jigsy.app/
   category: arcade

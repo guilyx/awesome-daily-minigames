@@ -1,9 +1,9 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 239,
+    "games": 240,
     "categories": 18,
-    "reddit": 19
+    "reddit": 20
   },
   "categories": [
     {
@@ -2051,6 +2051,15 @@
       "category": "arcade",
       "platform": "web",
       "description": "A short daily dungeon crawl where every player gets the same seed.",
+      "tags": []
+    },
+    {
+      "id": "final-fit-block-game",
+      "name": "Final Fit Block Game",
+      "url": "https://www.reddit.com/r/BlockGame/",
+      "category": "arcade",
+      "platform": "reddit",
+      "description": "Fit three pieces per round onto an 8x8 grid, clearing rows and columns — a shared daily board with identical pieces for all, plus an unlimited endless run.",
       "tags": []
     },
     {
