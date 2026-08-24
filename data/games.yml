@@ -427,6 +427,12 @@
   description: Chain words around the sides of a square, never using two letters from the same side in a row.
   tags: [nyt]
 
+- name: Scores
+  url: https://scores.lol/
+  category: word-grids
+  platform: web
+  description: Score words by their Scrabble-style letter values, chasing the highest total on a board that resets once a day.
+
 - name: Spelltower
   url: https://www.puzzmo.com/play/spelltower
   category: word-grids

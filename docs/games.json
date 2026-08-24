@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 241,
+    "games": 242,
     "categories": 18,
     "reddit": 20
   },
@@ -742,6 +742,15 @@
       "tags": [
         "nyt"
       ]
+    },
+    {
+      "id": "scores",
+      "name": "Scores",
+      "url": "https://scores.lol/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Score words by their Scrabble-style letter values, chasing the highest total on a board that resets once a day.",
+      "tags": []
     },
     {
       "id": "spelltower",

@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **241 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **242 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -130,6 +130,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Jumble Daily](https://fun.chicagotribune.com/game/tca-jumble-daily/) - The newspaper anagram classic, still running daily and still ending in a groan-worthy pun.
 - [Jumblie](https://jumblie.com/) - Untangle four themed words from a shared pool of letter tiles.
 - [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed) - Chain words around the sides of a square, never using two letters from the same side in a row.
+- [Scores](https://scores.lol/) - Score words by their Scrabble-style letter values, chasing the highest total on a board that resets once a day.
 - [Spelltower](https://www.puzzmo.com/play/spelltower) - Word-finding meets falling blocks — clearing long words collapses the tower.
 - [Squaredle](https://squaredle.app/) - A Boggle-style grid where you have to find every valid word, not just the long ones.
 - [Stepwords](https://stepwords.xyz/) - Each answer is the previous one plus a letter, stacked into a staircase.
