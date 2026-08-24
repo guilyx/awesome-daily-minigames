@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **242 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **243 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -73,6 +73,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Waffle](https://wafflegame.net/) - A waffle-shaped grid of scrambled words that you repair in fifteen swaps or fewer.
 - [Word Peaks](https://vegeta897.github.io/word-peaks/) - Clues tell you whether each letter comes alphabetically before or after your guess.
 - [Wordiply](https://www.wordiply.com/) - The Guardian's game: find the five longest words containing a given starter string.
+- [WordleLike](https://wordlelike.com/) - A free hub of five daily word games — classic Wordle, six-letter Word Hurdle, Mini Crossword, Word Search and Anagram Solver.
 
 ## 🔗 Word Association & Connections
 

@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 242,
+    "games": 243,
     "categories": 18,
     "reddit": 20
   },
@@ -344,6 +344,15 @@
       "category": "word-guessing",
       "platform": "web",
       "description": "The Guardian's game: find the five longest words containing a given starter string.",
+      "tags": []
+    },
+    {
+      "id": "wordlelike",
+      "name": "WordleLike",
+      "url": "https://wordlelike.com/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "A free hub of five daily word games — classic Wordle, six-letter Word Hurdle, Mini Crossword, Word Search and Anagram Solver.",
       "tags": []
     },
     {
