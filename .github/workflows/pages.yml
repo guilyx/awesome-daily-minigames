@@ -2,16 +2,27 @@ name: Deploy site
 
 # Publishes docs/ to GitHub Pages.
 #
-# docs/ is already a finished static site — index.html, the assets, and a
-# games.json that CI keeps in sync with data/ — so there is nothing to build
-# here, only to upload. `enablement: true` makes this workflow the Pages
-# source, so it works whether Pages was previously set to "GitHub Actions" or
-# to "Deploy from a branch".
+# The site is static, but docs/games.json is generated from data/*.yml, so this
+# builds before uploading rather than shipping whatever happens to be committed.
+# That matters for two reasons:
+#
+#   1. A pull request that adds a game only touches data/, so the committed
+#      games.json is briefly stale at merge time. Building here means the
+#      deployed site is correct immediately, without waiting on `generate.yml`.
+#   2. Pushes made with GITHUB_TOKEN — like the one `generate.yml` makes — do
+#      not trigger other workflows, so this cannot rely on the regeneration
+#      commit to wake it up.
+#
+# `enablement: true` makes this workflow the Pages source, so it works whether
+# Pages was previously set to "GitHub Actions" or to "Deploy from a branch".
 on:
   push:
     branches: [master]
     paths:
       - "docs/**"
+      - "data/**"
+      - "templates/**"
+      - "scripts/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -27,13 +38,25 @@ concurrency:
 
 jobs:
   deploy:
-    name: Upload and deploy docs/
+    name: Build and deploy docs/
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # Regenerates docs/games.json in the workspace only; nothing is committed
+      # from here. `generate.yml` owns putting it back into the repository.
+      - name: Build site data
+        run: npm run build
 
       - uses: actions/configure-pages@v5
         with:

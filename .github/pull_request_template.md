@@ -1,9 +1,8 @@
 <!--
-Adding a game? Edit data/games.yml, then run:
+Adding a game? Edit data/games.yml and commit just that file.
 
-    npm install && npm run sort && npm run build && npm run check
-
-and commit the regenerated README.md and docs/games.json too.
+README.md and docs/games.json are generated — CI rebuilds them on master after
+this is merged, so leave them out of your diff. No build step required.
 -->
 
 ## What does this change?
@@ -20,7 +19,8 @@ For new games:
 - [ ] Not already in the list, and not a near-identical clone of something listed
 - [ ] The description explains the mechanic in one sentence and ends with a period
 
-For any change to `data/`:
-
-- [ ] `npm run check` passes locally
-- [ ] The regenerated `README.md` and `docs/games.json` are included in this PR
+<!--
+Nothing to tick about generated files: CI validates data/ on this pull request
+and regenerates README.md and docs/games.json on master after merge. Including
+them anyway is fine, just unnecessary.
+-->
