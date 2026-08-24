@@ -73,7 +73,6 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Waffle](https://wafflegame.net/) - A waffle-shaped grid of scrambled words that you repair in fifteen swaps or fewer.
 - [Word Peaks](https://vegeta897.github.io/word-peaks/) - Clues tell you whether each letter comes alphabetically before or after your guess.
 - [Wordiply](https://www.wordiply.com/) - The Guardian's game: find the five longest words containing a given starter string.
-- [WordleLike](https://wordlelike.com/) - Five daily games in one free hub: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search and Anagram Solver.
 
 ## 🔗 Word Association & Connections
 
