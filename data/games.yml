@@ -164,6 +164,12 @@
   platform: web
   description: "The Guardian's game: find the five longest words containing a given starter string."
 
+- name: WordleLike
+  url: https://wordlelike.com/
+  category: word-guessing
+  platform: web
+  description: A free hub of five daily word games — classic Wordle, six-letter Word Hurdle, Mini Crossword, Word Search and Anagram Solver.
+
 # ------------------------------------------------------------ word-connections
 - name: Connections
   url: https://www.nytimes.com/games/connections
