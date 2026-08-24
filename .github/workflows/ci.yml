@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   pull_request:
 
 permissions:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   check:
-    name: Validate data and generated files
+    name: Validate data
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,10 +22,13 @@ jobs:
 
       - run: npm ci
 
-      # Schema, house style, duplicate URLs and ordering.
+      # Schema, house style, https-only URLs, duplicates and ordering.
       - name: Validate data
         run: npm run validate
 
-      # Fails if README.md or docs/games.json drifted from data/.
-      - name: Check generated files are up to date
-        run: node scripts/build.mjs --check
+      # Contributors are not expected to commit README.md or docs/games.json —
+      # `generate.yml` rebuilds those on master after merge. This step only
+      # proves the build still runs against the new data, so a broken entry or
+      # template cannot reach master and stall regeneration there.
+      - name: Build (must succeed, result not committed here)
+        run: npm run build

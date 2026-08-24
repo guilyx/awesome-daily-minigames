@@ -1,0 +1,5 @@
+# Generated from data/*.yml by `npm run build`, and rebuilt on master by the
+# Regenerate workflow. Marked so GitHub collapses them in pull request diffs —
+# a one-line YAML addition should not look like a 400-line change.
+README.md        linguist-generated=true
+docs/games.json  linguist-generated=true

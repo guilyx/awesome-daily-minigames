@@ -51,17 +51,25 @@ aggregators.
    | `description` | yes | One sentence describing the *mechanic*. Under 160 characters, ends with a period. |
    | `tags` | no | Any of `nyt`, `paywalled`, `open-source`, `unlimited`, `multiplayer`, `audio`, `non-english`, `classic`. |
 
-2. Regenerate and check:
+2. Commit **only that file** and open the pull request. That is the whole job.
+
+   `README.md` and `docs/games.json` are generated from `data/`, and CI rebuilds
+   them on `master` after your pull request is merged. You do not need to run a
+   build, and you do not need to include them in your diff — a new game should
+   be a one-file change.
+
+3. Optional, if you have Node installed and want to see your entry rendered
+   before pushing:
 
    ```bash
    npm install     # once
-   npm run sort    # puts your entry in the right place
+   npm run sort    # puts your entry in canonical order
    npm run build   # regenerates README.md and docs/games.json
-   npm run check   # what CI runs
+   npm run check   # validation, the same rules CI enforces
    ```
 
-3. Commit **all** changed files, including the regenerated `README.md` and
-   `docs/games.json`. CI fails if they have drifted from the data.
+   Committing the regenerated files is harmless — the workflow produces the
+   same output and will simply find nothing to change.
 
 Not comfortable with any of that? [Open an issue][new-issue] with the link
 instead and someone will add it.
@@ -101,8 +109,10 @@ docs/          the GitHub Pages site; games.json is generated, the rest is not
 README.md      generated — edit templates/README.md or data/ instead
 ```
 
-`README.md` and `docs/games.json` are build artifacts. Editing them by hand
-works right up until the next `npm run build` silently reverts you.
+`README.md` and `docs/games.json` are build artifacts, regenerated on `master`
+by the [Regenerate workflow](.github/workflows/generate.yml). Editing them by
+hand works right up until the next build silently reverts you — change
+`data/` or `templates/README.md` instead.
 
 ## Running the site locally
 
