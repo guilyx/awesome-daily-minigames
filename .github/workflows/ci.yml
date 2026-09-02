@@ -22,7 +22,16 @@ jobs:
 
       - run: npm ci
 
-      # Schema, house style, https-only URLs, duplicates and ordering.
+      # Canonical ordering is CI's job, not the contributor's — the same way
+      # README.md and docs/games.json are. Sorting here means a correct entry
+      # dropped in the wrong alphabetical slot passes instead of failing on a
+      # chore the pipeline can do itself. Nothing is committed from this job;
+      # `generate.yml` commits the sorted file on master after merge.
+      - name: Sort data into canonical order
+        run: npm run sort
+
+      # Schema, house style, https-only URLs and duplicates. Anything a machine
+      # cannot fix still fails here.
       - name: Validate data
         run: npm run validate
 

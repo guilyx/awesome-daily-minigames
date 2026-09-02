@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 243,
+    "games": 244,
     "categories": 18,
     "reddit": 20
   },
@@ -910,6 +910,15 @@
       "tags": [
         "nyt"
       ]
+    },
+    {
+      "id": "balance-grid",
+      "name": "Balance Grid",
+      "url": "https://playbalancegrid.com/daily/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Fill a daily 6x6 grid with three Light and three Dark cells per line, no triples and no duplicate lines; each puzzle has exactly one solution.",
+      "tags": []
     },
     {
       "id": "binarygrid",

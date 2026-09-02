@@ -63,10 +63,11 @@ aggregators.
 
    ```bash
    npm install     # once
-   npm run sort    # puts your entry in canonical order
-   npm run build   # regenerates README.md and docs/games.json
-   npm run check   # validation, the same rules CI enforces
+   npm run check   # sorts, validates, and regenerates — exactly what CI runs
    ```
+
+   Ordering is not your problem either: drop the entry anywhere in the file and
+   CI sorts it. `npm run validate` mentions it as a warning, never an error.
 
    Committing the regenerated files is harmless — the workflow produces the
    same output and will simply find nothing to change.
@@ -131,8 +132,9 @@ Settings → Pages → Source: **GitHub Actions**. The
 push to `master` that touches it, and you can trigger it by hand from the
 Actions tab.
 
-There is no build step in that workflow — `docs/` is already a finished static
-site, and CI keeps `docs/games.json` in sync with `data/`.
+That workflow regenerates `docs/games.json` from `data/` before uploading, so
+the deployed site is correct even when the committed copy has not caught up
+yet.
 
 ## Code of conduct
 

@@ -87,11 +87,15 @@ for (const category of categories) {
   }
   const tail = entries.slice(1)
   const sorted = [...tail].sort(compareGames)
+  // Ordering is a warning, not an error: `npm run sort` fixes it mechanically,
+  // CI runs that before validating, and `generate.yml` commits the sorted file
+  // on master. Failing a pull request over it would push a chore onto the
+  // contributor that the pipeline already does for them.
   for (const [index, game] of tail.entries()) {
     if (game.name !== sorted[index].name) {
-      fail(
+      warn(
         `games.yml (${category.id})`,
-        `entries after the first must be alphabetical — expected "${sorted[index].name}" where "${game.name}" is. Run \`npm run sort\`.`,
+        `not in canonical order — expected "${sorted[index].name}" where "${game.name}" is. Run \`npm run sort\` to fix locally; CI does it for you otherwise.`,
       )
       break
     }
