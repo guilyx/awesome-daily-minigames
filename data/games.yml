@@ -1536,8 +1536,14 @@
 
 - name: Le Mot
   url: https://wordle.louan.me/
-  category: word-guessing
+  category: 
   platform: web
   description: Wordle, but in french.
   tags: [unlimited]
+
+- name: Numle
+  url: https://martintale.com/numle/
+  category: numbers-math
+  platform: web
+  description: Wordle but with numbers where you guess the 5-digit number in 6 or less tries.
 
