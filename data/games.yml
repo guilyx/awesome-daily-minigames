@@ -1530,7 +1530,7 @@
 
 - name: Le Mot
   url: https://wordle.louan.me/
-  category: 
+  category: word-guessing
   platform: web
   description: Wordle, but in french.
   tags: [unlimited]
