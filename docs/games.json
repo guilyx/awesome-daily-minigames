@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 244,
+    "games": 246,
     "categories": 18,
     "reddit": 20
   },
@@ -212,6 +212,17 @@
       "tags": [
         "unlimited",
         "open-source"
+      ]
+    },
+    {
+      "id": "le-mot",
+      "name": "Le Mot",
+      "url": "https://wordle.louan.me/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Wordle, but in french.",
+      "tags": [
+        "unlimited"
       ]
     },
     {
@@ -871,6 +882,15 @@
       "category": "numbers-math",
       "platform": "web",
       "description": "Route through a grid of numbers and operators to hit the day's target.",
+      "tags": []
+    },
+    {
+      "id": "numle",
+      "name": "Numle",
+      "url": "https://martintale.com/numle/",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Wordle but with numbers where you guess the 5-digit number in 6 or less tries.",
       "tags": []
     },
     {

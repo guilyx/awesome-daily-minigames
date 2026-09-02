@@ -77,6 +77,13 @@
   description: Unlimited Wordle with an adjustable word length from four to eleven letters.
   tags: [unlimited, open-source]
 
+- name: Le Mot
+  url: https://wordle.louan.me/
+  category: word-guessing
+  platform: web
+  description: Wordle, but in french.
+  tags: [unlimited]
+
 - name: Lirdle
   url: https://lirdle.com/
   category: word-guessing
@@ -513,6 +520,12 @@
   category: numbers-math
   platform: web
   description: Route through a grid of numbers and operators to hit the day's target.
+
+- name: Numle
+  url: https://martintale.com/numle/
+  category: numbers-math
+  platform: web
+  description: Wordle but with numbers where you guess the 5-digit number in 6 or less tries.
 
 - name: Primel
   url: https://converged.yt/primel/
@@ -1533,17 +1546,3 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
-
-- name: Le Mot
-  url: https://wordle.louan.me/
-  category: word-guessing
-  platform: web
-  description: Wordle, but in french.
-  tags: [unlimited]
-
-- name: Numle
-  url: https://martintale.com/numle/
-  category: numbers-math
-  platform: web
-  description: Wordle but with numbers where you guess the 5-digit number in 6 or less tries.
-

@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **244 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **246 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -59,6 +59,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Duotrigordle](https://duotrigordle.com/) - Thirty-two boards and thirty-seven guesses, for when eight is not enough.
 - [Fibble](https://fibble.xyz/) - Every row of feedback contains exactly one lie.
 - [hello wordl](https://hellowordl.net/) - Unlimited Wordle with an adjustable word length from four to eleven letters.
+- [Le Mot](https://wordle.louan.me/) - Wordle, but in french.
 - [Lirdle](https://lirdle.com/) - Wordle where the game lies to you once per guess and you have to work out which tile it was.
 - [Octordle](https://www.britannica.com/games/octordle/) - Eight boards solved in parallel with thirteen guesses.
 - 🟠 [Petals](https://www.reddit.com/r/Petals/) - Hangman rebuilt as a flower that loses a petal with every wrong letter.
@@ -149,6 +150,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Nerdle](https://nerdlegame.com/) - Wordle for equations — guess the hidden eight-character sum, operators included.
 - [Mathler](https://www.mathler.com/) - Find the hidden calculation that produces the given target number.
 - [Numble](https://numble.wtf/) - Route through a grid of numbers and operators to hit the day's target.
+- [Numle](https://martintale.com/numle/) - Wordle but with numbers where you guess the 5-digit number in 6 or less tries.
 - [Primel](https://converged.yt/primel/) - Wordle where every guess and the answer must be a five-digit prime.
 - [Summle](https://summle.net/) - Reach the target number by chaining small sums, Countdown-style.
 - [Sumplete](https://sumplete.com/daily) - Delete numbers from a grid until every row and column adds up to its target.
