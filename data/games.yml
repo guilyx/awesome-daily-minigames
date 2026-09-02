@@ -540,6 +540,12 @@
   description: Place dominoes so every marked region satisfies its sum, equality or inequality rule.
   tags: [nyt]
 
+- name: Balance Grid
+  url: https://playbalancegrid.com/daily/
+  category: logic
+  platform: web
+  description: Fill a daily 6x6 grid with three Light and three Dark cells per line, no triples and no duplicate lines; each puzzle has exactly one solution.
+
 - name: Binarygrid
   url: https://www.reddit.com/r/Binarygrid/
   category: logic
