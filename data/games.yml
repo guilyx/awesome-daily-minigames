@@ -1059,6 +1059,14 @@
   platform: web
   description: Connections for The Binding of Isaac's enormous item pool.
 
+
+- name: LoLdoku
+  url: https://www.loldoku.gg/
+  category: video-games
+  platform: web
+  description: Fill a League of Legends champion grid, identify champions from attribute clues, or guess their silhouettes.
+  tags: [unlimited]
+
 - name: LoLdle
   url: https://loldle.net/
   category: video-games
