@@ -271,6 +271,12 @@
   platform: web
   description: Classic word ladder — change one letter at a time to get from the start word to the end word.
 
+- name: WordWeb
+  url: https://blendletan.github.io/WordWeb/
+  category: word-connections
+  platform: web
+  description: Connect the day's words by changing one letter at a time while using as few words as possible.
+
 - name: word.golf
   url: https://word.golf/
   category: word-connections
