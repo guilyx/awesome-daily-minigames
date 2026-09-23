@@ -446,6 +446,12 @@
   description: Chain words around the sides of a square, never using two letters from the same side in a row.
   tags: [nyt]
 
+- name: Scrimp
+  url: https://playscrimp.com/
+  category: word-grids
+  platform: web
+  description: You are given the clued words, not asked to guess them, and must pack them into a row too short to spell them out.
+  
 - name: Scores
   url: https://scores.lol/
   category: word-grids
