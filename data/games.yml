@@ -1586,16 +1586,11 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
-  - name: Grid Puzzles
+
+- name: Grid Puzzles
   url: https://gridpuzzles.app/
   category: hubs
   platform: web
-  description: Five daily logic puzzles (6x6 sudoku, rectangles, word paths, dominoes, number paths), each solver-verified to have one solution.
+  description: Five daily logic puzzles (6x6 sudoku, rectangles, word paths, dominoes, number paths), each checked to have one solution, with an unlimited mode for every game.
   tags: [unlimited]
 
-- name: Grid Puzzles Zip
-  url: https://gridpuzzles.app/zip/daily/
-  category: logic
-  platform: web
-  description: Draw one line through every cell of the grid, passing the numbers in order and never crossing a wall.
-  tags: [unlimited]
