@@ -1520,6 +1520,13 @@
   platform: web
   description: A tidy collection of original dailies spanning words, trivia and logic.
 
+- name: Grid Puzzles
+  url: https://gridpuzzles.app/
+  category: hubs
+  platform: web
+  description: Five daily logic puzzles (6x6 sudoku, rectangles, word paths, dominoes, number paths), each checked to have one solution, with an unlimited mode for every game.
+  tags: [unlimited]
+
 - name: Lex.Games
   url: https://lex.games/
   category: hubs
@@ -1586,11 +1593,3 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
-
-- name: Grid Puzzles
-  url: https://gridpuzzles.app/
-  category: hubs
-  platform: web
-  description: Five daily logic puzzles (6x6 sudoku, rectangles, word paths, dominoes, number paths), each checked to have one solution, with an unlimited mode for every game.
-  tags: [unlimited]
-

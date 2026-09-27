@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **252 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **253 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -375,6 +375,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Coffee First Games](https://coffeefirst.games/) - A small indie studio shipping several short, polished dailies.
 - 🟠 [DailyWordSnacks](https://www.reddit.com/r/DailyWordSnacks/) - A rotating collection of small word games posted daily to Reddit.
 - [Gamebunny](https://gamebunny.app/) - A tidy collection of original dailies spanning words, trivia and logic.
+- [Grid Puzzles](https://gridpuzzles.app/) - Five daily logic puzzles (6x6 sudoku, rectangles, word paths, dominoes, number paths), each checked to have one solution, with an unlimited mode for every game.
 - [Lex.Games](https://lex.games/) - Six free word puzzles a day, including a mini crossword and a Connections variant.
 - [LinkedIn Games](https://www.linkedin.com/games/) - Queens, Tango, Zip, Pinpoint and Crossclimb — free, but you need a LinkedIn account.
 - [Merriam-Webster Games](https://www.merriam-webster.com/games) - Quordle, Blossom and friends, hosted by the dictionary itself.

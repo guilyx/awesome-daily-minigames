@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 252,
+    "games": 253,
     "categories": 18,
     "reddit": 20
   },
@@ -2376,6 +2376,17 @@
       "platform": "web",
       "description": "A tidy collection of original dailies spanning words, trivia and logic.",
       "tags": []
+    },
+    {
+      "id": "grid-puzzles",
+      "name": "Grid Puzzles",
+      "url": "https://gridpuzzles.app/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Five daily logic puzzles (6x6 sudoku, rectangles, word paths, dominoes, number paths), each checked to have one solution, with an unlimited mode for every game.",
+      "tags": [
+        "unlimited"
+      ]
     },
     {
       "id": "lex-games",
