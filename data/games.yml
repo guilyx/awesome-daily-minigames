@@ -514,6 +514,12 @@
   description: A word search that reveals a hidden quotation once you have found everything else.
 
 # ---------------------------------------------------------------- numbers-math
+- name: Numgrove
+  url: https://numgrove.com/
+  category: numbers-math
+  platform: web
+  description: A daily math puzzle where you grow a factor/sum tree to reach the target number.
+
 - name: Nerdle
   url: https://nerdlegame.com/
   category: numbers-math
