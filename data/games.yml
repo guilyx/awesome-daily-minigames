@@ -1254,6 +1254,12 @@
   platform: web
   description: Estimate the angle in degrees, with warmer and colder feedback.
 
+- name: Ballpark
+  url: https://ballparkdaily.com/
+  category: visual
+  platform: web
+  description: Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.
+
 - name: Chroma
   url: https://robson.plus/chroma
   category: visual
