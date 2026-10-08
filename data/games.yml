@@ -1236,6 +1236,12 @@
   platform: web
   description: One lateral-thinking riddle a day, with hints if you get stuck.
 
+- name: Shople
+  url: https://playshople.com/
+  category: trivia
+  platform: web
+  description: Guess the mystery brand in ten tries; each guess compares headquarters, founding year, industry, revenue and more against the answer.
+
 - name: Thrice
   url: https://thrice.geekswhodrink.com/
   category: trivia
