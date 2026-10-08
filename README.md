@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **253 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **254 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -129,6 +129,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Bongo](https://www.puzzmo.com/game/bongo) - A letter-tile scoring game where bonus squares reward you for finding the highest-value words.
 - [Cell Tower](https://www.andrewt.net/puzzles/cell-tower) - Build words up a tower of cells where every level constrains the next.
 - 🟠 [DailyGrid](https://www.reddit.com/r/DailyGrid/) - A Strands-style themed word search built for the Reddit app.
+- [Elided](https://elided.app/) - A daily puzzle to find the longest hidden word: tap letters left to right across the grid, skipping any you like, to spell words.
 - 🟠 [Hexaword](https://www.reddit.com/r/hexaword/) - Align syllable tiles on a hex grid so that every direction reads as a real word.
 - [Jumble Daily](https://fun.chicagotribune.com/game/tca-jumble-daily/) - The newspaper anagram classic, still running daily and still ending in a groan-worthy pun.
 - [Jumblie](https://jumblie.com/) - Untangle four themed words from a shared pool of letter tiles.

@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 253,
+    "games": 254,
     "categories": 18,
     "reddit": 20
   },
@@ -730,6 +730,15 @@
       "category": "word-grids",
       "platform": "reddit",
       "description": "A Strands-style themed word search built for the Reddit app.",
+      "tags": []
+    },
+    {
+      "id": "elided",
+      "name": "Elided",
+      "url": "https://elided.app/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "A daily puzzle to find the longest hidden word: tap letters left to right across the grid, skipping any you like, to spell words.",
       "tags": []
     },
     {
