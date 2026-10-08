@@ -715,6 +715,12 @@
   platform: web
   description: Balance suns and moons across a grid under equality and difference constraints.
 
+- name: WitLocked Daily Lock
+  url: https://witlocked.com/puzzles/daily-lock
+  category: logic
+  platform: web
+  description: Search an illustrated story scene for clues and connect them to crack a new escape-room-style lock each day.
+
 - name: Zebra Puzzles
   url: https://www.zebrapuzzles.com/
   category: logic
