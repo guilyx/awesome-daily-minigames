@@ -1326,6 +1326,13 @@
   platform: web
   description: Two foods head to head, and you have to call which one packs more calories.
 
+- name: SizeGuess
+  url: https://sizeguess.com/
+  category: visual
+  platform: web
+  description: Resize real-world objects against a known reference over five daily rounds, then see the true measurement and how close you got.
+  tags: [unlimited]
+
 - name: Spot the Differences
   url: https://www.spot-differences.com/
   category: visual
