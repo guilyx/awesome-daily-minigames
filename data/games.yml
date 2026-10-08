@@ -577,6 +577,13 @@
   description: Place dominoes so every marked region satisfies its sum, equality or inequality rule.
   tags: [nyt]
 
+- name: ArrowGame
+  url: https://arrowgame.app/
+  category: logic
+  platform: web
+  description: Tap arrows off the board only once their exit path is clear, with a shared daily Boss puzzle alongside a 1,000-level campaign.
+  tags: [unlimited]
+
 - name: Balance Grid
   url: https://playbalancegrid.com/daily/
   category: logic
