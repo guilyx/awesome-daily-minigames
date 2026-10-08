@@ -191,6 +191,12 @@
   platform: web
   description: Semantle's hot-and-cold sibling, reporting temperature instead of a raw rank.
 
+- name: ClueRoll
+  url: https://clueroll.com/
+  category: word-connections
+  platform: web
+  description: Find the word linking three clues, then roll lettered cubes into place so their top faces spell the answer.
+
 - name: Combinations
   url: https://combinations.org/
   category: word-connections
