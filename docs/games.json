@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 256,
+    "games": 257,
     "categories": 18,
     "reddit": 20
   },
@@ -965,6 +965,17 @@
       "description": "Place dominoes so every marked region satisfies its sum, equality or inequality rule.",
       "tags": [
         "nyt"
+      ]
+    },
+    {
+      "id": "arrowgame",
+      "name": "ArrowGame",
+      "url": "https://arrowgame.app/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Tap arrows off the board only once their exit path is clear, with a shared daily Boss puzzle alongside a 1,000-level campaign.",
+      "tags": [
+        "unlimited"
       ]
     },
     {
