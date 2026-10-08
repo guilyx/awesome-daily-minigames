@@ -1308,6 +1308,12 @@
   platform: web
   description: Guess the hex code of a displayed colour, digit by digit.
 
+- name: Meccha Chameleon
+  url: https://kmufti.com/chameleon/
+  category: visual
+  platform: web
+  description: Find a blank 3D figure camouflaged somewhere in the daily photo, scored on how fast and in how few clicks you spot it.
+
 - name: Picsey
   url: https://picsey.io/
   category: visual
