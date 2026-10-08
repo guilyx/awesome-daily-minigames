@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 255,
+    "games": 256,
     "categories": 18,
     "reddit": 20
   },
@@ -883,15 +883,13 @@
       "tags": []
     },
     {
-      "id": "nerdle",
-      "name": "Nerdle",
-      "url": "https://nerdlegame.com/",
+      "id": "numgrove",
+      "name": "Numgrove",
+      "url": "https://numgrove.com/",
       "category": "numbers-math",
       "platform": "web",
-      "description": "Wordle for equations — guess the hidden eight-character sum, operators included.",
-      "tags": [
-        "classic"
-      ]
+      "description": "A daily math puzzle where you grow a factor/sum tree to reach the target number.",
+      "tags": []
     },
     {
       "id": "mathler",
@@ -901,6 +899,17 @@
       "platform": "web",
       "description": "Find the hidden calculation that produces the given target number.",
       "tags": []
+    },
+    {
+      "id": "nerdle",
+      "name": "Nerdle",
+      "url": "https://nerdlegame.com/",
+      "category": "numbers-math",
+      "platform": "web",
+      "description": "Wordle for equations — guess the hidden eight-character sum, operators included.",
+      "tags": [
+        "classic"
+      ]
     },
     {
       "id": "numble",

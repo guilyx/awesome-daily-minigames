@@ -526,18 +526,18 @@
   platform: web
   description: A daily math puzzle where you grow a factor/sum tree to reach the target number.
 
+- name: Mathler
+  url: https://www.mathler.com/
+  category: numbers-math
+  platform: web
+  description: Find the hidden calculation that produces the given target number.
+
 - name: Nerdle
   url: https://nerdlegame.com/
   category: numbers-math
   platform: web
   description: Wordle for equations — guess the hidden eight-character sum, operators included.
   tags: [classic]
-
-- name: Mathler
-  url: https://www.mathler.com/
-  category: numbers-math
-  platform: web
-  description: Find the hidden calculation that produces the given target number.
 
 - name: Numble
   url: https://numble.wtf/
