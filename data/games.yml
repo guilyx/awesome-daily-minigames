@@ -501,6 +501,12 @@
   platform: web
   description: Slide columns of letters up and down until every letter has been used in a word.
 
+- name: Wordchute
+  url: https://wordchute.com/
+  category: word-grids
+  platform: web
+  description: Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
+
 - name: WordDash
   url: https://www.reddit.com/r/WordDash/
   category: word-grids
