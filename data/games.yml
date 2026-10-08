@@ -221,6 +221,12 @@
   platform: reddit
   description: Semantic hot-and-cold guessing played out in a Reddit post, with everyone's guesses visible.
 
+- name: Kinship
+  url: https://playkinship.com/
+  category: word-connections
+  platform: web
+  description: Four clues share one hidden word; every guess is ranked by how close it sits to the word at their centre.
+
 - name: Pedantle
   url: https://pedantle.certitudes.org/
   category: word-connections
