@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 254,
+    "games": 255,
     "categories": 18,
     "reddit": 20
   },
@@ -1061,6 +1061,17 @@
       "description": "Roll a cube across a grid; the side that's inked prints the square it lands face-down on, and ink may only touch the marked squares.",
       "tags": [
         "open-source"
+      ]
+    },
+    {
+      "id": "lie-of-sight",
+      "name": "Lie of Sight",
+      "url": "https://lieofsight.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Move a family around a room to test what each says they saw, then accuse the one whose story can't be true.",
+      "tags": [
+        "paywalled"
       ]
     },
     {
