@@ -495,6 +495,12 @@
   platform: reddit
   description: Build the day's words out of syllable blocks instead of letters — a genuinely fresh mechanic.
 
+- name: Triplet
+  url: https://triplet.daily-game.page/
+  category: word-grids
+  platform: web
+  description: Find the three letters that complete all the words.
+
 - name: Typeshift
   url: https://www.puzzmo.com/play/typeshift
   category: word-grids
@@ -616,6 +622,12 @@
   description: A long-running rotation of Slitherlink, Hitori, Futoshiki and a dozen other pencil puzzles.
   tags: [classic]
 
+- name: Campsite
+  url: https://campsite.daily-game.page/
+  category: logic
+  platform: web
+  description: Pitch a tent beside every tree to match the counts.
+
 - name: Clues by Sam
   url: https://cluesbysam.com/
   category: logic
@@ -715,12 +727,24 @@
   platform: web
   description: Cut a grid into rectangles so that each one contains exactly one number equal to its area.
 
+- name: Shinro Garden
+  url: https://shinro-garden.daily-game.page/
+  category: logic
+  platform: web
+  description: Plant 12 flowers using the arrow and count clues.
+
 - name: Sudoku (NYT)
   url: https://www.nytimes.com/puzzles/sudoku
   category: logic
   platform: web
   description: Easy, medium and hard grids refreshed every day, free to play.
   tags: [nyt, classic]
+
+- name: Sunset
+  url: https://sunset.daily-game.page/
+  category: logic
+  platform: web
+  description: Find the six sets hidden in the board.
 
 - name: Tango
   url: https://www.linkedin.com/games/tango
