@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **257 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **258 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -304,6 +304,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Rankle](https://www.rankle.app/) - Put five things in the correct order — by size, date, price or whatever the day demands.
 - [Revealed](https://www.britannica.com/games/revealed) - Britannica's daily: an image is uncovered piece by piece as the clues get easier.
 - [riddl.ing](https://riddl.ing/) - One lateral-thinking riddle a day, with hints if you get stuck.
+- [Shople](https://playshople.com/) - Guess the mystery brand in ten tries; each guess compares headquarters, founding year, industry, revenue and more against the answer.
 - [Thrice](https://thrice.geekswhodrink.com/) - Three questions, three guesses each, from the people behind Geeks Who Drink pub quizzes.
 - [Tightrope](https://www.britannica.com/quiz/tightrope) - Keep answering correctly to stay on the wire; one slip ends the run.
 - [The Wiki Game Daily](https://www.thewikigamedaily.com/) - Race from one Wikipedia article to another using only in-article links.

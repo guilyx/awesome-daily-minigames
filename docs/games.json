@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 257,
+    "games": 258,
     "categories": 18,
     "reddit": 20
   },
@@ -1955,6 +1955,15 @@
       "category": "trivia",
       "platform": "web",
       "description": "One lateral-thinking riddle a day, with hints if you get stuck.",
+      "tags": []
+    },
+    {
+      "id": "shople",
+      "name": "Shople",
+      "url": "https://playshople.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Guess the mystery brand in ten tries; each guess compares headquarters, founding year, industry, revenue and more against the answer.",
       "tags": []
     },
     {
