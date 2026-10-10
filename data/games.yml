@@ -949,6 +949,13 @@
   platform: web
   description: Travel from one artist to another through related-artist links in as few hops as possible.
 
+- name: Sound of Sliver
+  url: https://soundofsliver.com/
+  category: music
+  platform: web
+  description: Name ten tunes on a daily theme, each from a 300ms slice; a wrong pick buys a longer listen for fewer points.
+  tags: [audio]
+
 - name: Spotle
   url: https://spotle.io/
   category: music
