@@ -1212,6 +1212,12 @@
   platform: web
   description: Six official Jeopardy! clues a day, in ascending difficulty.
 
+- name: Nanizo
+  url: https://nanizo.com/en/daily/
+  category: trivia
+  platform: web
+  description: Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.
+
 - name: On the Record
   url: https://www.washingtonpost.com/news-quiz
   category: trivia
