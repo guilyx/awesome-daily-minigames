@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 258,
+    "games": 259,
     "categories": 18,
     "reddit": 20
   },
@@ -2118,6 +2118,17 @@
       "platform": "web",
       "description": "Two foods head to head, and you have to call which one packs more calories.",
       "tags": []
+    },
+    {
+      "id": "sizeguess",
+      "name": "SizeGuess",
+      "url": "https://sizeguess.com/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Resize real-world objects against a known reference over five daily rounds, then see the true measurement and how close you got.",
+      "tags": [
+        "unlimited"
+      ]
     },
     {
       "id": "spot-the-differences",

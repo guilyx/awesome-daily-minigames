@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **258 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **259 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -327,6 +327,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Picsey](https://picsey.io/) - Identify an image from a handful of colour-sampled pixels.
 - [Play Higher Lower](https://playhigherlower.com/daily) - Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.
 - [Scrandle](https://scrandle.com/) - Two foods head to head, and you have to call which one packs more calories.
+- [SizeGuess](https://sizeguess.com/) - Resize real-world objects against a known reference over five daily rounds, then see the true measurement and how close you got.
 - [Spot the Differences](https://www.spot-differences.com/) - A new pair of near-identical images every day.
 
 ## 🔬 Science & Nature
