@@ -389,6 +389,13 @@
   description: A full-size free daily crossword with an easy Sunday-to-Saturday difficulty ramp.
 
 # ------------------------------------------------------------------ word-grids
+- name: Squaredle.fun
+  url: https://squaredle.fun
+  category: word-grids
+  platform: web
+  description: Trace letters on a 4x4 board to find the required words — a new Boggle-style puzzle every day, plus Unlimited, Express and Weekly modes.
+  tags: [boggle-like, daily]
+
 - name: Spelling Bee
   url: https://www.nytimes.com/puzzles/spelling-bee
   category: word-grids
