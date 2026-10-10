@@ -1327,6 +1327,13 @@
   platform: web
   description: Guess the hex code of a displayed colour, digit by digit.
 
+- name: How expensive?
+  url: https://howexpensive.roughly.is/
+  category: visual
+  platform: web
+  description: Guess what an item cost in a given country and year, then see the official historical price and how far off you were.
+  tags: [paywalled]
+
 - name: Picsey
   url: https://picsey.io/
   category: visual
