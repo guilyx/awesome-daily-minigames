@@ -322,6 +322,12 @@
   platform: reddit
   description: A hand-built daily mini crossword served straight into your Reddit feed.
 
+- name: Double Cross
+  url: https://everhall.ca/
+  category: crosswords
+  platform: web
+  description: A 7x7 daily crossword where each card clues two same-length slots at once; the crossing letters decide which answer goes where.
+
 - name: Guardian Cryptic Crossword
   url: https://www.theguardian.com/crosswords/series/cryptic
   category: crosswords
