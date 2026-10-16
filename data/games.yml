@@ -1370,6 +1370,12 @@
   platform: reddit
   description: Reddit game where players recreate a displayed color name.
 
+- name: Bulkle
+  url: https://www.outletpicks.com/bulkle
+  category: numbers-math
+  platform: web
+  description: Five real Amazon products a day, each in two to four pack sizes — pick the size that costs least per unit.
+
 - name: Costcodle
   url: https://costcodle.com/
   category: visual
