@@ -1718,3 +1718,13 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
+- name: Goblin Maze
+  url: https://goblinarcade.com/play/goblin-maze
+  category: logic
+  platform: web
+  description: Steer a ball through the day's shared maze to grab the key and reach the exit, scored against the shortest route.
+- name: Alembic
+  url: https://goblinarcade.com/play/alembic
+  category: logic
+  platform: web
+  description: Combine Fire, Water, Earth and Air to reach the day's target element in as few brews as possible, with par for Gold.
