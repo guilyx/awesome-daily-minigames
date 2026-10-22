@@ -178,6 +178,12 @@
   description: A free hub of five daily word games — classic Wordle, six-letter Word Hurdle, Mini Crossword, Word Search and Anagram Solver.
 
 # ------------------------------------------------------------ word-connections
+- name: Word Bridge
+  url: https://bludle.com/wordbridge/
+  category: word-connections
+  platform: web
+  description: Find one word that forms a familiar compound or phrase with both words on the daily board.
+
 - name: Connections
   url: https://www.nytimes.com/games/connections
   category: word-connections
@@ -618,6 +624,12 @@
   description: Answer a daily probability question, using optional hints and a worked explanation to explore the reasoning.
 
 # ----------------------------------------------------------------------- logic
+- name: Rulebreaker
+  url: https://bludle.com/rulebreaker/
+  category: logic
+  platform: web
+  description: Tune and reorder cipher transformations until the daily encrypted phrase becomes readable.
+
 - name: Pips
   url: https://www.nytimes.com/games/pips
   category: logic
