@@ -719,6 +719,12 @@
   description: Roll a cube across a grid; the side that's inked prints the square it lands face-down on, and ink may only touch the marked squares.
   tags: [open-source]
 
+- name: Lacey's Web
+  url: https://lieofsight.com/web
+  category: logic
+  platform: web
+  description: Spin threads between knots until each knot holds exactly its number and the whole web is one piece.
+
 - name: Lie of Sight
   url: https://lieofsight.com/
   category: logic
@@ -774,6 +780,12 @@
   category: logic
   platform: web
   description: A hexagonal crossword where every line is a regular expression you have to satisfy.
+
+- name: Rex's Fetch
+  url: https://lieofsight.com/fetch
+  category: logic
+  platform: web
+  description: Lead a dog through every square of the yard exactly once to his ball without crossing his own trail.
 
 - name: Shikaku of the Day
   url: https://shikakuofthe.day/
