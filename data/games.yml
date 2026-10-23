@@ -1382,6 +1382,18 @@
   platform: web
   description: Estimate the angle in degrees, with warmer and colder feedback.
 
+- name: Plain Game
+  url: https://plaingame.fun/
+  category: visual
+  platform: web
+  description: Seven daily rounds of naming things close to a target number or estimating everyday facts; an independent edition of Plain.
+
+- name: Plain Game
+  url: https://plaingame.fun/
+  category: visual
+  platform: web
+  description: Seven daily rounds of naming things close to a target number or estimating everyday facts; an independent edition of Plain.
+
 - name: Ballpark
   url: https://ballparkdaily.com/
   category: visual
