@@ -1369,6 +1369,12 @@
   platform: web
   description: Race from one Wikipedia article to another using only in-article links.
 
+- name: WikiCards Trivia
+  url: https://playwikicards.com/trivia-questions/
+  category: trivia
+  platform: web
+  description: Twenty general-knowledge questions a day, generated from Wikidata facts, with each answer linked to its source item.
+
 # ---------------------------------------------------------------------- visual
 - name: Artle
   url: https://www.nga.gov/artle.html
