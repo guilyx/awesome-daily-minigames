@@ -152,6 +152,13 @@
   description: The Brazilian Portuguese Wordle, with three-board and six-board modes.
   tags: [non-english]
 
+- name: Vowelkit
+  url: https://www.vowelkit.com/daily
+  category: word-guessing
+  platform: web
+  description: Guess the five-letter word of the day in six tries, with extra modes from 3 to 11 letters.
+  tags: [unlimited]
+
 - name: Waffle
   url: https://wafflegame.net/
   category: word-guessing
