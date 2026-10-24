@@ -156,7 +156,7 @@
   url: https://www.vowelkit.com/daily
   category: word-guessing
   platform: web
-  description: Guess the five-letter word of the day in six tries, with separate 3 to 11 letter modes, a kids mode and a puzzle maker that shares any word as a link.
+  description: Guess the five-letter word of the day in six tries, with extra modes from 3 to 11 letters.
   tags: [unlimited]
 
 - name: Waffle
