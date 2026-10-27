@@ -1512,6 +1512,13 @@
   platform: web
   description: Guess the hex code of a displayed colour, digit by digit.
 
+- name: Play Color Guesser
+  url: https://playcolorguesser.com/
+  category: visual
+  platform: web
+  description: A logo, flag, Pokémon or football crest appears in grey; pick its exact colour from memory within 20 seconds.
+  tags: [unlimited, multiplayer]
+
 - name: How expensive?
   url: https://howexpensive.roughly.is/
   category: visual
