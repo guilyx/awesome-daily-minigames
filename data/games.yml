@@ -978,6 +978,13 @@
   platform: web
   description: Five photographs, five guesses at the year each one was taken.
 
+- name: EraGuessr
+  url: https://eraguessr.ai/play/daily
+  category: history
+  platform: web
+  description: Explore an AI-generated historical panorama and guess its place and year in a shared daily challenge.
+  tags: [paywalled]
+
 - name: Timdle
   url: https://www.timdle.com/
   category: history
