@@ -1504,6 +1504,12 @@
   platform: web
   description: Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.
 
+- name: Prompt Duel
+  url: https://prompt-duel-delta.vercel.app/?daily
+  category: visual
+  platform: web
+  description: Describe the day's AI-generated picture in 60 seconds; an image model paints your words and an AI judge scores the match from 0 to 100.
+
 - name: Scrandle
   url: https://scrandle.com/
   category: visual
