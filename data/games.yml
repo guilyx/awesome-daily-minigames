@@ -296,6 +296,13 @@
   platform: web
   description: Classic word ladder — change one letter at a time to get from the start word to the end word.
 
+- name: PoopleGame.fun
+  url: https://pooplegame.fun/
+  category: word-connections
+  platform: web
+  description: A free daily four-letter word ladder that turns a start word into POOP one letter at a time, with hints, a solver and unlimited practice.
+  tags: [unlimited]
+
 - name: word.golf
   url: https://word.golf/
   category: word-connections
