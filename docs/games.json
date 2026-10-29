@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 287,
+    "games": 288,
     "categories": 18,
     "reddit": 20
   },
@@ -2176,6 +2176,17 @@
       "platform": "web",
       "description": "Guess the mystery brand in ten tries; each guess compares headquarters, founding year, industry, revenue and more against the answer.",
       "tags": []
+    },
+    {
+      "id": "spaceillion",
+      "name": "Spaceillion",
+      "url": "https://spaceillion.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Seven trivia prompts at 25 seconds each, where rarer correct answers launch your pixel rocket farther into space.",
+      "tags": [
+        "paywalled"
+      ]
     },
     {
       "id": "thrice",
