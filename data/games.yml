@@ -700,6 +700,12 @@
   platform: web
   description: Light up every square of a grid without letting two bulbs see each other.
 
+- name: Daily train puzzle
+  url: https://griffinley.com/harold-miller/inglenook/
+  category: logic
+  platform: web
+  description: Shunt eight numbered train cars across three short tracks to line up the day's five in the fewest moves.
+
 - name: Domino Fit
   url: https://dominofit.isotropic.us/
   category: logic
