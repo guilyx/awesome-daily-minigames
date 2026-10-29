@@ -1414,6 +1414,12 @@
   platform: web
   description: Keep answering correctly to stay on the wire; one slip ends the run.
 
+- name: Uncommon Trivia
+  url: https://www.uncommontrivia.com/
+  category: trivia
+  platform: web
+  description: Seven open-ended questions a day, where the most obscure correct answer scores the most points.
+
 - name: The Wiki Game Daily
   url: https://www.thewikigamedaily.com/
   category: trivia
