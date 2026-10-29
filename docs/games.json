@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 290,
+    "games": 291,
     "categories": 18,
     "reddit": 20
   },
@@ -2362,6 +2362,15 @@
       "tags": [
         "paywalled"
       ]
+    },
+    {
+      "id": "how-far-off",
+      "name": "How Far Off",
+      "url": "https://griffinley.com/margaret-brown/how-far-off.html",
+      "category": "visual",
+      "platform": "web",
+      "description": "Guess a low-to-high range for one number about a US city in three tries; narrower ranges that still hold the answer score higher.",
+      "tags": []
     },
     {
       "id": "meccha-chameleon",

@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **290 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **291 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -353,6 +353,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Guess The Logo](https://guessthelogo.wtf/) - Name the brand from a partially obscured logo.
 - [Hexcodle](https://www.hexcodle.com/) - Guess the hex code of a displayed colour, digit by digit.
 - 💰 [How expensive?](https://howexpensive.roughly.is/) - Guess what an item cost in a given country and year, then see the official historical price and how far off you were.
+- [How Far Off](https://griffinley.com/margaret-brown/how-far-off.html) - Guess a low-to-high range for one number about a US city in three tries; narrower ranges that still hold the answer score higher.
 - [Meccha Chameleon](https://kmufti.com/chameleon/) - Find a blank 3D figure camouflaged somewhere in the daily photo, scored on how fast and in how few clicks you spot it.
 - [Picsey](https://picsey.io/) - Identify an image from a handful of colour-sampled pixels.
 - [Play Higher Lower](https://playhigherlower.com/daily) - Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.
