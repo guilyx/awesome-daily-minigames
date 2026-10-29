@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 288,
+    "games": 290,
     "categories": 18,
     "reddit": 20
   },
@@ -1154,6 +1154,15 @@
       "tags": []
     },
     {
+      "id": "daily-train-puzzle",
+      "name": "Daily train puzzle",
+      "url": "https://griffinley.com/harold-miller/inglenook/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Shunt eight numbered train cars across three short tracks to line up the day's five in the fewest moves.",
+      "tags": []
+    },
+    {
       "id": "domino-fit",
       "name": "Domino Fit",
       "url": "https://dominofit.isotropic.us/",
@@ -1570,6 +1579,17 @@
       "platform": "web",
       "description": "Five photographs, five guesses at the year each one was taken.",
       "tags": []
+    },
+    {
+      "id": "eraguessr",
+      "name": "EraGuessr",
+      "url": "https://eraguessr.ai/play/daily",
+      "category": "history",
+      "platform": "web",
+      "description": "Explore an AI-generated historical panorama and guess its place and year in a shared daily challenge.",
+      "tags": [
+        "paywalled"
+      ]
     },
     {
       "id": "timdle",
