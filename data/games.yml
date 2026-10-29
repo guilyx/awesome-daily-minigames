@@ -1486,6 +1486,12 @@
   description: Guess what an item cost in a given country and year, then see the official historical price and how far off you were.
   tags: [paywalled]
 
+- name: How Far Off
+  url: https://griffinley.com/margaret-brown/how-far-off.html
+  category: visual
+  platform: web
+  description: Guess a low-to-high range for one number about a US city in three tries; narrower ranges that still hold the answer score higher.
+
 - name: Meccha Chameleon
   url: https://kmufti.com/chameleon/
   category: visual
