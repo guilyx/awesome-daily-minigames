@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 293,
+    "games": 294,
     "categories": 18,
     "reddit": 20
   },
@@ -2417,6 +2417,15 @@
       "category": "visual",
       "platform": "web",
       "description": "Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.",
+      "tags": []
+    },
+    {
+      "id": "prompt-duel",
+      "name": "Prompt Duel",
+      "url": "https://prompt-duel-delta.vercel.app/?daily",
+      "category": "visual",
+      "platform": "web",
+      "description": "Describe the day's AI-generated picture in 60 seconds; an image model paints your words and an AI judge scores the match from 0 to 100.",
       "tags": []
     },
     {
