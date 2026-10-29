@@ -998,6 +998,12 @@
   description: Explore an AI-generated historical panorama and guess its place and year in a shared daily challenge.
   tags: [paywalled]
 
+- name: guessNow
+  url: https://guessnow.fun/
+  category: history
+  platform: web
+  description: Guess the year of five real archival photographs, with the provenance shown at each reveal.
+
 - name: Timdle
   url: https://www.timdle.com/
   category: history
