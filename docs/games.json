@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 292,
+    "games": 293,
     "categories": 18,
     "reddit": 20
   },
@@ -496,6 +496,17 @@
       "platform": "web",
       "description": "Name the category from clues revealed one at a time — the fewer you need, the better.",
       "tags": []
+    },
+    {
+      "id": "pooplegame-fun",
+      "name": "PoopleGame.fun",
+      "url": "https://pooplegame.fun/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "A free daily four-letter word ladder that turns a start word into POOP one letter at a time, with hints, a solver and unlimited practice.",
+      "tags": [
+        "unlimited"
+      ]
     },
     {
       "id": "puzzgrid",

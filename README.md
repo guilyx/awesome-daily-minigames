@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **292 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **293 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -94,6 +94,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Pedantle](https://pedantle.certitudes.org/) - Uncover a hidden Wikipedia article by guessing words, with semantic near-misses highlighted.
 - [Pimantle](https://semantle.pimanrul.es/) - Semantle plotted on a two-dimensional map so you can see your guesses closing in.
 - [Pinpoint](https://www.linkedin.com/games/pinpoint) - Name the category from clues revealed one at a time — the fewer you need, the better.
+- [PoopleGame.fun](https://pooplegame.fun/) - A free daily four-letter word ladder that turns a start word into POOP one letter at a time, with hints, a solver and unlimited practice.
 - [Puzzgrid](https://www.puzzgrid.com/) - Community-made connecting walls in the style of the BBC quiz show Only Connect.
 - [Redactle](https://redactle.net/) - Identify a fully redacted Wikipedia article by guessing the words back into existence.
 - [Semantle](https://semantle.com/) - The original semantic-similarity hunt, and still one of the hardest daily games there is.
