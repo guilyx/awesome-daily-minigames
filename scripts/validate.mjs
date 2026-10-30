@@ -89,7 +89,7 @@ for (const category of categories) {
   const sorted = [...tail].sort(compareGames)
   // Ordering is a warning, not an error: `npm run sort` fixes it mechanically,
   // CI runs that before validating, and `generate.yml` commits the sorted file
-  // on master. Failing a pull request over it would push a chore onto the
+  // on main. Failing a pull request over it would push a chore onto the
   // contributor that the pipeline already does for them.
   for (const [index, game] of tail.entries()) {
     if (game.name !== sorted[index].name) {

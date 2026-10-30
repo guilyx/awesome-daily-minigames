@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
       # README.md and docs/games.json are. Sorting here means a correct entry
       # dropped in the wrong alphabetical slot passes instead of failing on a
       # chore the pipeline can do itself. Nothing is committed from this job;
-      # `generate.yml` commits the sorted file on master after merge.
+      # `generate.yml` commits the sorted file on main after merge.
       - name: Sort data into canonical order
         run: npm run sort
 
@@ -36,8 +36,8 @@ jobs:
         run: npm run validate
 
       # Contributors are not expected to commit README.md or docs/games.json —
-      # `generate.yml` rebuilds those on master after merge. This step only
+      # `generate.yml` rebuilds those on main after merge. This step only
       # proves the build still runs against the new data, so a broken entry or
-      # template cannot reach master and stall regeneration there.
+      # template cannot reach main and stall regeneration there.
       - name: Build (must succeed, result not committed here)
         run: npm run build
