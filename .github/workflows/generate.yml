@@ -3,7 +3,7 @@ name: Regenerate
 # Keeps README.md and docs/games.json in step with data/*.yml.
 #
 # Contributors only ever edit data/. This workflow rebuilds the generated
-# files on master after a merge and commits them, so a pull request that adds
+# files on main after a merge and commits them, so a pull request that adds
 # a game is a one-file diff and can be reviewed on its merits rather than on
 # whether someone remembered to run `npm run build`.
 #
@@ -13,7 +13,7 @@ name: Regenerate
 # does not have. Running here, after merge, the code is already trusted.
 on:
   push:
-    branches: [master]
+    branches: [main]
     paths:
       - "data/**"
       - "templates/**"

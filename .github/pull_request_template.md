@@ -1,7 +1,7 @@
 <!--
 Adding a game? Edit data/games.yml and commit just that file.
 
-README.md and docs/games.json are generated — CI rebuilds them on master after
+README.md and docs/games.json are generated — CI rebuilds them on main after
 this is merged, so leave them out of your diff. No build step required.
 -->
 
@@ -21,6 +21,6 @@ For new games:
 
 <!--
 Nothing to tick about generated files: CI validates data/ on this pull request
-and regenerates README.md and docs/games.json on master after merge. Including
+and regenerates README.md and docs/games.json on main after merge. Including
 them anyway is fine, just unnecessary.
 -->

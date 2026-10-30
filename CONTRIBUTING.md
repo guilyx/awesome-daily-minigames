@@ -54,7 +54,7 @@ aggregators.
 2. Commit **only that file** and open the pull request. That is the whole job.
 
    `README.md` and `docs/games.json` are generated from `data/`, and CI rebuilds
-   them on `master` after your pull request is merged. You do not need to run a
+   them on `main` after your pull request is merged. You do not need to run a
    build, and you do not need to include them in your diff — a new game should
    be a one-file change.
 
@@ -110,7 +110,7 @@ docs/          the GitHub Pages site; games.json is generated, the rest is not
 README.md      generated — edit templates/README.md or data/ instead
 ```
 
-`README.md` and `docs/games.json` are build artifacts, regenerated on `master`
+`README.md` and `docs/games.json` are build artifacts, regenerated on `main`
 by the [Regenerate workflow](.github/workflows/generate.yml). Editing them by
 hand works right up until the next build silently reverts you — change
 `data/` or `templates/README.md` instead.
@@ -129,7 +129,7 @@ off the filesystem will not work — it needs to be served over HTTP.
 
 Settings → Pages → Source: **GitHub Actions**. The
 [`Deploy site`](.github/workflows/pages.yml) workflow uploads `docs/` on every
-push to `master` that touches it, and you can trigger it by hand from the
+push to `main` that touches it, and you can trigger it by hand from the
 Actions tab.
 
 That workflow regenerates `docs/games.json` from `data/` before uploading, so
