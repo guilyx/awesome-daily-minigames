@@ -434,6 +434,12 @@
   description: Seven letters, one mandatory centre letter, and a very long tail of obscure words.
   tags: [nyt, classic]
 
+- name: BeeHints Daily
+  url: https://www.beehints.com/play
+  category: word-grids
+  platform: web
+  description: Make words from a seven-letter hive that must use the centre letter, and hunt for the pangram.
+
 - name: Blossom
   url: https://www.merriam-webster.com/games/blossom-word-game
   category: word-grids
