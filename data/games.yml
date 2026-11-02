@@ -1129,6 +1129,12 @@
   platform: web
   description: A suite of film puzzles including the excellent Cine2Nerdle tile-swapping grid.
 
+- name: Emoji Flicks
+  url: https://simplegamestoday.com/emoji-flicks/
+  category: movies-tv
+  platform: web
+  description: Name the film from emoji clues revealed one per miss, with the genre and year shown from the start.
+
 - name: FilmLink
   url: https://filmlink.io/
   category: movies-tv
