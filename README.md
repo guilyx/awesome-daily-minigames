@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **295 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **296 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -242,6 +242,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Chrono](https://chrono.quest/) - Drop historical events into the correct order on a timeline.
 - [Chronophoto](https://www.chronophoto.app/) - Five photographs, five guesses at the year each one was taken.
 - 💰 [EraGuessr](https://eraguessr.ai/play/daily) - Explore an AI-generated historical panorama and guess its place and year in a shared daily challenge.
+- [guessNow](https://guessnow.fun/) - Guess the year of five real archival photographs, with the provenance shown at each reveal.
 - [Timdle](https://www.timdle.com/) - Sort a shuffled set of events chronologically, with themed daily rounds.
 - [WhenTaken](https://whentaken.com/) - Year-and-location guessing over a rotating archive of historical photography.
 - [Wikitrivia](https://wikitrivia.tomjwatson.com/daily) - Build a timeline card by card from Wikidata; one wrong placement ends the run.

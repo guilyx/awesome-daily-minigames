@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 295,
+    "games": 296,
     "categories": 18,
     "reddit": 20
   },
@@ -1601,6 +1601,15 @@
       "tags": [
         "paywalled"
       ]
+    },
+    {
+      "id": "guessnow",
+      "name": "guessNow",
+      "url": "https://guessnow.fun/",
+      "category": "history",
+      "platform": "web",
+      "description": "Guess the year of five real archival photographs, with the provenance shown at each reveal.",
+      "tags": []
     },
     {
       "id": "timdle",
