@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **296 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **299 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -131,6 +131,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > Spelling Bee, Strands, Boggle-likes — squeeze every word out of a fixed set of letters.
 
 - [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) - Seven letters, one mandatory centre letter, and a very long tail of obscure words.
+- [BeeHints Daily](https://www.beehints.com/play) - Make words from a seven-letter hive that must use the centre letter, and hunt for the pangram.
 - [Blossom](https://www.merriam-webster.com/games/blossom-word-game) - Merriam-Webster's petal-shaped take on Spelling Bee, with a rotating bonus letter.
 - [Bongo](https://www.puzzmo.com/game/bongo) - A letter-tile scoring game where bonus squares reward you for finding the highest-value words.
 - [Cell Tower](https://www.andrewt.net/puzzles/cell-tower) - Build words up a tower of cells where every level constrains the next.
@@ -273,6 +274,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Box Office Game](https://boxofficega.me/) - Name the top five films at the US box office for a mystery weekend in history.
 - [Cinematrix](https://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html) - Vulture's 3x3 film grid — fill each cell with a movie matching both criteria.
 - [CineNerdle](https://www.cinenerdle.app/) - A suite of film puzzles including the excellent Cine2Nerdle tile-swapping grid.
+- [Emoji Flicks](https://simplegamestoday.com/emoji-flicks/) - Name the film from emoji clues revealed one per miss, with the genre and year shown from the start.
 - [FilmLink](https://filmlink.io/) - Connect two films through shared cast and crew in as few steps as you can.
 - [Flickle](https://flickle.app/) - Guess the film from a one-second clip that grows longer with every wrong answer.
 - [Gaps](https://gaps.wtf/) - Fill in the blanked-out words of a famous film quote.
@@ -427,6 +429,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Nibble Games](https://nibble.games/) - A set of short pencil-and-paper style puzzles refreshed daily.
 - 💰 [NYT Games](https://www.nytimes.com/crosswords) - Wordle, Connections, Strands and the Mini are free; the full crossword and archive are not.
 - [Puzzmallow](https://puzzmallow.com/) - Several original daily logic and word puzzles with a clean, ad-free interface.
+- [Simple Games Today](https://simplegamestoday.com/) - Twelve short original dailies, from a word ladder and a 5x5 crossword to 6x6 sudoku and a history timeline.
 - [TED Games](https://www.ted.com/games) - TED's free daily word and knowledge puzzles.
 - [Thinky Dailies](https://thinkygames.com/dailies/today/) - An aggregator that pulls together the day's puzzles from dozens of indie thinky games.
 - [Washington Post Games](https://www.washingtonpost.com/games/) - Free crosswords, Keyword, Wridges and the daily news quiz.

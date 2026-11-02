@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 296,
+    "games": 299,
     "categories": 18,
     "reddit": 20
   },
@@ -753,6 +753,15 @@
         "nyt",
         "classic"
       ]
+    },
+    {
+      "id": "beehints-daily",
+      "name": "BeeHints Daily",
+      "url": "https://www.beehints.com/play",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Make words from a seven-letter hive that must use the centre letter, and hunt for the pangram.",
+      "tags": []
     },
     {
       "id": "blossom",
@@ -1807,6 +1816,15 @@
       "category": "movies-tv",
       "platform": "web",
       "description": "A suite of film puzzles including the excellent Cine2Nerdle tile-swapping grid.",
+      "tags": []
+    },
+    {
+      "id": "emoji-flicks",
+      "name": "Emoji Flicks",
+      "url": "https://simplegamestoday.com/emoji-flicks/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Name the film from emoji clues revealed one per miss, with the genre and year shown from the start.",
       "tags": []
     },
     {
@@ -2869,6 +2887,15 @@
       "category": "hubs",
       "platform": "web",
       "description": "Several original daily logic and word puzzles with a clean, ad-free interface.",
+      "tags": []
+    },
+    {
+      "id": "simple-games-today",
+      "name": "Simple Games Today",
+      "url": "https://simplegamestoday.com/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Twelve short original dailies, from a word ladder and a 5x5 crossword to 6x6 sudoku and a history timeline.",
       "tags": []
     },
     {
