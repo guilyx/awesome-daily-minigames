@@ -1850,6 +1850,12 @@
   platform: web
   description: Several original daily logic and word puzzles with a clean, ad-free interface.
 
+- name: Simple Games Today
+  url: https://simplegamestoday.com/
+  category: hubs
+  platform: web
+  description: Twelve short original dailies, from a word ladder and a 5x5 crossword to 6x6 sudoku and a history timeline.
+
 - name: TED Games
   url: https://www.ted.com/games
   category: hubs
