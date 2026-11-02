@@ -67,6 +67,9 @@
     - name: DLE Games
       url: https://dlegames.org/
       description: Another large directory, useful for finding niche fandom variants.
+    - name: Dle Games
+      url: https://dlegames.io/
+      description: Free catalog of 86+ Wordle-like daily and unlimited puzzles with favorites and My Daily tracking.
 
 - id: communities
   title: Communities
