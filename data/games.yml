@@ -725,6 +725,12 @@
   platform: web
   description: Pack dominoes into an awkward grid so that the numbers line up correctly.
 
+- name: Fibs' Laser Chase
+  url: https://lieofsight.com/laser
+  category: logic
+  platform: web
+  description: Turn small mirrors around a living room to bounce a laser pointer's beam onto the cat.
+
 - name: Figure
   url: https://figure.game/
   category: logic
@@ -742,6 +748,12 @@
   category: logic
   platform: web
   description: Steer a ball through the day's shared maze to grab the key and reach the exit, scored against the shortest route.
+
+- name: Grandma's Knitting
+  url: https://lieofsight.com/knit
+  category: logic
+  platform: web
+  description: A nonogram knitted in yarn: fill runs of squares to match each row and column's numbers until the picture appears.
 
 - name: Ink Side Down
   url: https://arkai.win/games/ink-side-down/
@@ -761,7 +773,6 @@
   category: logic
   platform: web
   description: Move a family around a room to test what each says they saw, then accuse the one whose story can't be true.
-  tags: [paywalled]
 
 - name: Murdle
   url: https://murdle.com/
@@ -855,6 +866,12 @@
   category: logic
   platform: web
   description: Balance suns and moons across a grid under equality and difference constraints.
+
+- name: The Kid's Treasure Map
+  url: https://lieofsight.com/treasure
+  category: logic
+  platform: web
+  description: A no-guess minesweeper on a backyard map where each number counts the treasure around it; flag every one.
 
 - name: WitLocked Daily Lock
   url: https://witlocked.com/puzzles/daily-lock
