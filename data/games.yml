@@ -1384,6 +1384,12 @@
   platform: web
   description: Six official Jeopardy! clues a day, in ascending difficulty.
 
+- name: Krillion Space
+  url: https://krilion.app/
+  category: trivia
+  platform: web
+  description: Answer a daily space-themed trivia challenge whose choices shape a galaxy shared by every player.
+
 - name: Nanizo
   url: https://nanizo.com/en/daily/
   category: trivia
