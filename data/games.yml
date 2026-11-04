@@ -40,6 +40,12 @@
   platform: web
   description: Inverted scoring where the goal is to avoid the word for as many turns as possible.
 
+- name: Couscous
+  url: https://couscous.ai/play/daily
+  category: word-guessing
+  platform: web
+  description: Ask yes-or-no questions about a secret word, watch a ring warm up as you get close, then name the word.
+
 - name: Crosswordle
   url: https://crosswordle.com/
   category: word-guessing
