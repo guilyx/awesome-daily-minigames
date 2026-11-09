@@ -575,6 +575,12 @@
   platform: web
   description: The LA Times' free Spelling Bee equivalent, with a daily word target.
 
+- name: Wordpaths
+  url: https://kindaneatgames.com/wordpaths/
+  category: word-grids
+  platform: web
+  description: Trace words from filled dots to open rings so the paths cover every letter of the grid without crossing.
+
 - name: WordSeekr
   url: https://www.reddit.com/r/WordSeekr/
   category: word-grids
