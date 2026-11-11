@@ -731,6 +731,13 @@
   platform: web
   description: Pack dominoes into an awkward grid so that the numbers line up correctly.
 
+- name: features
+  url: https://features.games/
+  category: logic
+  platform: web
+  description: Drag dots until no lines cross on eight shared daily untangling boards, with frozen, fused and linked dot twists.
+  tags: [paywalled]
+
 - name: Figure
   url: https://figure.game/
   category: logic
