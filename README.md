@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **301 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **302 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -330,6 +330,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [FoodGuessr](https://www.foodguessr.com/) - Name the country a dish comes from, three plates a day.
 - [Google Feud](https://googlefeud.com/) - Complete the search query the way the rest of the internet did.
 - [Jeopardy! J6](https://www.jeopardy.com/play/j6) - Six official Jeopardy! clues a day, in ascending difficulty.
+- [Krillion Space](https://krilion.app/) - Answer a daily space-themed trivia challenge whose choices shape a galaxy shared by every player.
 - [Nanizo](https://nanizo.com/en/daily/) - Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.
 - [On the Record](https://www.washingtonpost.com/news-quiz) - The Washington Post's daily news quiz.
 - [Rankle](https://www.rankle.app/) - Put five things in the correct order — by size, date, price or whatever the day demands.

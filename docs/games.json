@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 301,
+    "games": 302,
     "categories": 18,
     "reddit": 20
   },
@@ -2199,6 +2199,15 @@
       "category": "trivia",
       "platform": "web",
       "description": "Six official Jeopardy! clues a day, in ascending difficulty.",
+      "tags": []
+    },
+    {
+      "id": "krillion-space",
+      "name": "Krillion Space",
+      "url": "https://krilion.app/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Answer a daily space-themed trivia challenge whose choices shape a galaxy shared by every player.",
       "tags": []
     },
     {
