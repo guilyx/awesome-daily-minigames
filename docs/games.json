@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 302,
+    "games": 303,
     "categories": 18,
     "reddit": 20
   },
@@ -1920,6 +1920,15 @@
       "tags": [
         "classic"
       ]
+    },
+    {
+      "id": "ballometry",
+      "name": "Ballometry",
+      "url": "https://www.ballometry.com/",
+      "category": "sports",
+      "platform": "web",
+      "description": "Sketch the hidden part of five real sports stat charts, then see how close your line came to the actual data.",
+      "tags": []
     },
     {
       "id": "connections-sports-edition",
