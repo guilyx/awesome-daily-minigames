@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 299,
+    "games": 300,
     "categories": 18,
     "reddit": 20
   },
@@ -965,6 +965,15 @@
       "category": "word-grids",
       "platform": "web",
       "description": "The LA Times' free Spelling Bee equivalent, with a daily word target.",
+      "tags": []
+    },
+    {
+      "id": "wordpaths",
+      "name": "Wordpaths",
+      "url": "https://kindaneatgames.com/wordpaths/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Trace words from filled dots to open rings so the paths cover every letter of the grid without crossing.",
       "tags": []
     },
     {

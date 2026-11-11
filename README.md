@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **299 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **300 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -154,6 +154,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Wordchute](https://wordchute.com/) - Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
 - 🟠 [WordDash](https://www.reddit.com/r/WordDash/) - Spelling Bee crossed with Strands: hunt themed words out of a shared letter set against the clock.
 - [Wordflower](https://www.latimes.com/games/wordflower) - The LA Times' free Spelling Bee equivalent, with a daily word target.
+- [Wordpaths](https://kindaneatgames.com/wordpaths/) - Trace words from filled dots to open rings so the paths cover every letter of the grid without crossing.
 - 🟠 [WordSeekr](https://www.reddit.com/r/WordSeekr/) - A word search that reveals a hidden quotation once you have found everything else.
 
 ## 🔢 Numbers & Math
