@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **300 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **301 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -189,6 +189,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Daily Akari](https://dailyakari.com/) - Light up every square of a grid without letting two bulbs see each other.
 - [Daily train puzzle](https://griffinley.com/harold-miller/inglenook/) - Shunt eight numbered train cars across three short tracks to line up the day's five in the fewest moves.
 - [Domino Fit](https://dominofit.isotropic.us/) - Pack dominoes into an awkward grid so that the numbers line up correctly.
+- 💰 [features](https://features.games/) - Drag dots until no lines cross on eight shared daily untangling boards, with frozen, fused and linked dot twists.
 - [Figure](https://figure.game/) - Clear a colour grid in a fixed number of moves by chaining matching tiles.
 - [Flipart](https://www.puzzmo.com/play/flip-art) - Rotate irregular pieces until they tile the board exactly.
 - [Goblin Maze](https://goblinarcade.com/play/goblin-maze) - Steer a ball through the day's shared maze to grab the key and reach the exit, scored against the shortest route.

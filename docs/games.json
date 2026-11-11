@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 300,
+    "games": 301,
     "categories": 18,
     "reddit": 20
   },
@@ -1199,6 +1199,17 @@
       "platform": "web",
       "description": "Pack dominoes into an awkward grid so that the numbers line up correctly.",
       "tags": []
+    },
+    {
+      "id": "features",
+      "name": "features",
+      "url": "https://features.games/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Drag dots until no lines cross on eight shared daily untangling boards, with frozen, fused and linked dot twists.",
+      "tags": [
+        "paywalled"
+      ]
     },
     {
       "id": "figure",
