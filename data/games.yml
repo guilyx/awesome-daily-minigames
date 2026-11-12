@@ -979,6 +979,12 @@
   platform: web
   description: A daily street-level location round in the GeoGuessr mould, free and account-free.
 
+- name: Wherecast
+  url: https://wherecast.com
+  category: geography
+  platform: web
+  description: A daily city-guessing game where players use a real weather forecast to identify a mystery city in six tries.
+
 - name: WhereTaken
   url: https://wheretaken.teuteuf.fr/
   category: geography
