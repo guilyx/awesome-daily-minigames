@@ -1366,6 +1366,12 @@
   platform: web
   description: Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from.
 
+- name: Clocked
+  url: https://playclocked.com/
+  category: trivia
+  platform: web
+  description: Twenty general-knowledge questions against a five-minute clock; type answers in any order and they slot into place.
+
 - name: Daily Dozen Trivia
   url: https://dailydozentrivia.com/
   category: trivia
