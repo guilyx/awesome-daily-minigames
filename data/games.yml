@@ -52,6 +52,12 @@
   platform: reddit
   description: Straight-ahead Wordle playable inside a Reddit post, no site to visit.
 
+- name: Decrypticle
+  url: https://decrypticle.com/
+  category: word-guessing
+  platform: web
+  description: Guess the hidden word using each letter's random value from 1 to 7 and the point total of every guess.
+
 - name: Dordle
   url: https://zaratustra.itch.io/dordle
   category: word-guessing
