@@ -943,6 +943,12 @@
   platform: web
   description: Rebuild a map from scattered country pieces.
 
+- name: Originle
+  url: https://originle.app/
+  category: geography
+  platform: web
+  description: Watch short video clues from a daily guest and guess which country they come from.
+
 - name: Satle
   url: https://satle.ca/
   category: geography
