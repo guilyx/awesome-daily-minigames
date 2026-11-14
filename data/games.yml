@@ -102,6 +102,12 @@
   platform: reddit
   description: Hangman rebuilt as a flower that loses a petal with every wrong letter.
 
+- name: pictle
+  url: https://pictle.org/
+  category: word-guessing
+  platform: web
+  description: A picture hides behind five cards; each guess folds one open, so a wrong guess still buys you a better view.
+
 - name: Polygonle
   url: https://www.polygonle.com/
   category: word-guessing
