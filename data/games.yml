@@ -434,6 +434,12 @@
   description: Seven letters, one mandatory centre letter, and a very long tail of obscure words.
   tags: [nyt, classic]
 
+- name: BeeHints Daily
+  url: https://www.beehints.com/play
+  category: word-grids
+  platform: web
+  description: Make words from a seven-letter hive that must use the centre letter, and hunt for the pangram.
+
 - name: Blossom
   url: https://www.merriam-webster.com/games/blossom-word-game
   category: word-grids
@@ -568,6 +574,12 @@
   category: word-grids
   platform: web
   description: The LA Times' free Spelling Bee equivalent, with a daily word target.
+
+- name: Wordpaths
+  url: https://kindaneatgames.com/wordpaths/
+  category: word-grids
+  platform: web
+  description: Trace words from filled dots to open rings so the paths cover every letter of the grid without crossing.
 
 - name: WordSeekr
   url: https://www.reddit.com/r/WordSeekr/
@@ -718,6 +730,19 @@
   category: logic
   platform: web
   description: Pack dominoes into an awkward grid so that the numbers line up correctly.
+
+- name: Dusty's Rounds
+  url: https://lieofsight.com/dusty
+  category: logic
+  platform: web
+  description: Give a robot vacuum a short row of moves that it repeats until every crumb in the room is gone; a bump skips a move.
+
+- name: features
+  url: https://features.games/
+  category: logic
+  platform: web
+  description: Drag dots until no lines cross on eight shared daily untangling boards, with frozen, fused and linked dot twists.
+  tags: [paywalled]
 
 - name: Fibs' Laser Chase
   url: https://lieofsight.com/laser
@@ -1015,6 +1040,12 @@
   description: Explore an AI-generated historical panorama and guess its place and year in a shared daily challenge.
   tags: [paywalled]
 
+- name: guessNow
+  url: https://guessnow.fun/
+  category: history
+  platform: web
+  description: Guess the year of five real archival photographs, with the provenance shown at each reveal.
+
 - name: Timdle
   url: https://www.timdle.com/
   category: history
@@ -1146,6 +1177,12 @@
   platform: web
   description: A suite of film puzzles including the excellent Cine2Nerdle tile-swapping grid.
 
+- name: Emoji Flicks
+  url: https://simplegamestoday.com/emoji-flicks/
+  category: movies-tv
+  platform: web
+  description: Name the film from emoji clues revealed one per miss, with the genre and year shown from the start.
+
 - name: FilmLink
   url: https://filmlink.io/
   category: movies-tv
@@ -1195,6 +1232,12 @@
   platform: web
   description: Fill a 3x3 grid with players matching each row and column team — the format everything else copied.
   tags: [classic]
+
+- name: Ballometry
+  url: https://www.ballometry.com/
+  category: sports
+  platform: web
+  description: Sketch the hidden part of five real sports stat charts, then see how close your line came to the actual data.
 
 - name: Connections Sports Edition
   url: https://www.nytimes.com/athletic/connections-sports-edition
@@ -1382,6 +1425,12 @@
   category: trivia
   platform: web
   description: Six official Jeopardy! clues a day, in ascending difficulty.
+
+- name: Krillion Space
+  url: https://krilion.app/
+  category: trivia
+  platform: web
+  description: Answer a daily space-themed trivia challenge whose choices shape a galaxy shared by every player.
 
 - name: Nanizo
   url: https://nanizo.com/en/daily/
@@ -1854,6 +1903,12 @@
   category: hubs
   platform: web
   description: Several original daily logic and word puzzles with a clean, ad-free interface.
+
+- name: Simple Games Today
+  url: https://simplegamestoday.com/
+  category: hubs
+  platform: web
+  description: Twelve short original dailies, from a word ladder and a 5x5 crossword to 6x6 sudoku and a history timeline.
 
 - name: TED Games
   url: https://www.ted.com/games

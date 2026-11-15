@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 295,
+    "games": 303,
     "categories": 18,
     "reddit": 20
   },
@@ -755,6 +755,15 @@
       ]
     },
     {
+      "id": "beehints-daily",
+      "name": "BeeHints Daily",
+      "url": "https://www.beehints.com/play",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Make words from a seven-letter hive that must use the centre letter, and hunt for the pangram.",
+      "tags": []
+    },
+    {
       "id": "blossom",
       "name": "Blossom",
       "url": "https://www.merriam-webster.com/games/blossom-word-game",
@@ -956,6 +965,15 @@
       "category": "word-grids",
       "platform": "web",
       "description": "The LA Times' free Spelling Bee equivalent, with a daily word target.",
+      "tags": []
+    },
+    {
+      "id": "wordpaths",
+      "name": "Wordpaths",
+      "url": "https://kindaneatgames.com/wordpaths/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Trace words from filled dots to open rings so the paths cover every letter of the grid without crossing.",
       "tags": []
     },
     {
@@ -1181,6 +1199,17 @@
       "platform": "web",
       "description": "Pack dominoes into an awkward grid so that the numbers line up correctly.",
       "tags": []
+    },
+    {
+      "id": "features",
+      "name": "features",
+      "url": "https://features.games/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Drag dots until no lines cross on eight shared daily untangling boards, with frozen, fused and linked dot twists.",
+      "tags": [
+        "paywalled"
+      ]
     },
     {
       "id": "figure",
@@ -1603,6 +1632,15 @@
       ]
     },
     {
+      "id": "guessnow",
+      "name": "guessNow",
+      "url": "https://guessnow.fun/",
+      "category": "history",
+      "platform": "web",
+      "description": "Guess the year of five real archival photographs, with the provenance shown at each reveal.",
+      "tags": []
+    },
+    {
       "id": "timdle",
       "name": "Timdle",
       "url": "https://www.timdle.com/",
@@ -1801,6 +1839,15 @@
       "tags": []
     },
     {
+      "id": "emoji-flicks",
+      "name": "Emoji Flicks",
+      "url": "https://simplegamestoday.com/emoji-flicks/",
+      "category": "movies-tv",
+      "platform": "web",
+      "description": "Name the film from emoji clues revealed one per miss, with the genre and year shown from the start.",
+      "tags": []
+    },
+    {
       "id": "filmlink",
       "name": "FilmLink",
       "url": "https://filmlink.io/",
@@ -1873,6 +1920,15 @@
       "tags": [
         "classic"
       ]
+    },
+    {
+      "id": "ballometry",
+      "name": "Ballometry",
+      "url": "https://www.ballometry.com/",
+      "category": "sports",
+      "platform": "web",
+      "description": "Sketch the hidden part of five real sports stat charts, then see how close your line came to the actual data.",
+      "tags": []
     },
     {
       "id": "connections-sports-edition",
@@ -2152,6 +2208,15 @@
       "category": "trivia",
       "platform": "web",
       "description": "Six official Jeopardy! clues a day, in ascending difficulty.",
+      "tags": []
+    },
+    {
+      "id": "krillion-space",
+      "name": "Krillion Space",
+      "url": "https://krilion.app/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Answer a daily space-themed trivia challenge whose choices shape a galaxy shared by every player.",
       "tags": []
     },
     {
@@ -2860,6 +2925,15 @@
       "category": "hubs",
       "platform": "web",
       "description": "Several original daily logic and word puzzles with a clean, ad-free interface.",
+      "tags": []
+    },
+    {
+      "id": "simple-games-today",
+      "name": "Simple Games Today",
+      "url": "https://simplegamestoday.com/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "Twelve short original dailies, from a word ladder and a 5x5 crossword to 6x6 sudoku and a history timeline.",
       "tags": []
     },
     {

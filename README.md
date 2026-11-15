@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **295 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **303 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -131,6 +131,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > Spelling Bee, Strands, Boggle-likes — squeeze every word out of a fixed set of letters.
 
 - [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) - Seven letters, one mandatory centre letter, and a very long tail of obscure words.
+- [BeeHints Daily](https://www.beehints.com/play) - Make words from a seven-letter hive that must use the centre letter, and hunt for the pangram.
 - [Blossom](https://www.merriam-webster.com/games/blossom-word-game) - Merriam-Webster's petal-shaped take on Spelling Bee, with a rotating bonus letter.
 - [Bongo](https://www.puzzmo.com/game/bongo) - A letter-tile scoring game where bonus squares reward you for finding the highest-value words.
 - [Cell Tower](https://www.andrewt.net/puzzles/cell-tower) - Build words up a tower of cells where every level constrains the next.
@@ -153,6 +154,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Wordchute](https://wordchute.com/) - Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
 - 🟠 [WordDash](https://www.reddit.com/r/WordDash/) - Spelling Bee crossed with Strands: hunt themed words out of a shared letter set against the clock.
 - [Wordflower](https://www.latimes.com/games/wordflower) - The LA Times' free Spelling Bee equivalent, with a daily word target.
+- [Wordpaths](https://kindaneatgames.com/wordpaths/) - Trace words from filled dots to open rings so the paths cover every letter of the grid without crossing.
 - 🟠 [WordSeekr](https://www.reddit.com/r/WordSeekr/) - A word search that reveals a hidden quotation once you have found everything else.
 
 ## 🔢 Numbers & Math
@@ -187,6 +189,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Daily Akari](https://dailyakari.com/) - Light up every square of a grid without letting two bulbs see each other.
 - [Daily train puzzle](https://griffinley.com/harold-miller/inglenook/) - Shunt eight numbered train cars across three short tracks to line up the day's five in the fewest moves.
 - [Domino Fit](https://dominofit.isotropic.us/) - Pack dominoes into an awkward grid so that the numbers line up correctly.
+- 💰 [features](https://features.games/) - Drag dots until no lines cross on eight shared daily untangling boards, with frozen, fused and linked dot twists.
 - [Figure](https://figure.game/) - Clear a colour grid in a fixed number of moves by chaining matching tiles.
 - [Flipart](https://www.puzzmo.com/play/flip-art) - Rotate irregular pieces until they tile the board exactly.
 - [Goblin Maze](https://goblinarcade.com/play/goblin-maze) - Steer a ball through the day's shared maze to grab the key and reach the exit, scored against the shortest route.
@@ -242,6 +245,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Chrono](https://chrono.quest/) - Drop historical events into the correct order on a timeline.
 - [Chronophoto](https://www.chronophoto.app/) - Five photographs, five guesses at the year each one was taken.
 - 💰 [EraGuessr](https://eraguessr.ai/play/daily) - Explore an AI-generated historical panorama and guess its place and year in a shared daily challenge.
+- [guessNow](https://guessnow.fun/) - Guess the year of five real archival photographs, with the provenance shown at each reveal.
 - [Timdle](https://www.timdle.com/) - Sort a shuffled set of events chronologically, with themed daily rounds.
 - [WhenTaken](https://whentaken.com/) - Year-and-location guessing over a rotating archive of historical photography.
 - [Wikitrivia](https://wikitrivia.tomjwatson.com/daily) - Build a timeline card by card from Wikidata; one wrong placement ends the run.
@@ -272,6 +276,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Box Office Game](https://boxofficega.me/) - Name the top five films at the US box office for a mystery weekend in history.
 - [Cinematrix](https://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html) - Vulture's 3x3 film grid — fill each cell with a movie matching both criteria.
 - [CineNerdle](https://www.cinenerdle.app/) - A suite of film puzzles including the excellent Cine2Nerdle tile-swapping grid.
+- [Emoji Flicks](https://simplegamestoday.com/emoji-flicks/) - Name the film from emoji clues revealed one per miss, with the genre and year shown from the start.
 - [FilmLink](https://filmlink.io/) - Connect two films through shared cast and crew in as few steps as you can.
 - [Flickle](https://flickle.app/) - Guess the film from a one-second clip that grows longer with every wrong answer.
 - [Gaps](https://gaps.wtf/) - Fill in the blanked-out words of a famous film quote.
@@ -285,6 +290,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > Mystery players, roster grids and stat-line deduction.
 
 - [Immaculate Grid](https://www.sports-reference.com/immaculate-grid/) - Fill a 3x3 grid with players matching each row and column team — the format everything else copied.
+- [Ballometry](https://www.ballometry.com/) - Sketch the hidden part of five real sports stat charts, then see how close your line came to the actual data.
 - [Connections Sports Edition](https://www.nytimes.com/athletic/connections-sports-edition) - The Athletic's sports-only take on Connections.
 - [Daily Walkoff](https://www.dailywalkoff.com/) - A baseball trivia daily built around famous at-bats and box scores.
 - [HoopGrids](https://www.hoopgrids.com/) - The grid format for the NBA, with a rarity score that rewards obscure picks.
@@ -325,6 +331,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [FoodGuessr](https://www.foodguessr.com/) - Name the country a dish comes from, three plates a day.
 - [Google Feud](https://googlefeud.com/) - Complete the search query the way the rest of the internet did.
 - [Jeopardy! J6](https://www.jeopardy.com/play/j6) - Six official Jeopardy! clues a day, in ascending difficulty.
+- [Krillion Space](https://krilion.app/) - Answer a daily space-themed trivia challenge whose choices shape a galaxy shared by every player.
 - [Nanizo](https://nanizo.com/en/daily/) - Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.
 - [On the Record](https://www.washingtonpost.com/news-quiz) - The Washington Post's daily news quiz.
 - [Rankle](https://www.rankle.app/) - Put five things in the correct order — by size, date, price or whatever the day demands.
@@ -426,6 +433,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Nibble Games](https://nibble.games/) - A set of short pencil-and-paper style puzzles refreshed daily.
 - 💰 [NYT Games](https://www.nytimes.com/crosswords) - Wordle, Connections, Strands and the Mini are free; the full crossword and archive are not.
 - [Puzzmallow](https://puzzmallow.com/) - Several original daily logic and word puzzles with a clean, ad-free interface.
+- [Simple Games Today](https://simplegamestoday.com/) - Twelve short original dailies, from a word ladder and a 5x5 crossword to 6x6 sudoku and a history timeline.
 - [TED Games](https://www.ted.com/games) - TED's free daily word and knowledge puzzles.
 - [Thinky Dailies](https://thinkygames.com/dailies/today/) - An aggregator that pulls together the day's puzzles from dozens of indie thinky games.
 - [Washington Post Games](https://www.washingtonpost.com/games/) - Free crosswords, Keyword, Wridges and the daily news quiz.
