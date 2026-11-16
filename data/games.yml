@@ -643,6 +643,12 @@
   platform: web
   description: Delete numbers from a grid until every row and column adds up to its target.
 
+- name: Ten Blitz
+  url: https://www.reddit.com/r/TenBlitz/
+  category: numbers-math
+  platform: reddit
+  description: Clear rectangles whose numbers add up to 10, earning a point for each tile cleared in a three-minute daily challenge.
+
 - name: Think in Odds
   url: https://thinkinodds.com/
   category: numbers-math
