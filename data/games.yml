@@ -1279,6 +1279,12 @@
   platform: web
   description: Guess the day's Balatro joker from its rarity, cost and effect.
 
+- name: BLJdle
+  url: https://bljdle.com/
+  category: video-games
+  platform: web
+  description: Practise Super Mario 64's backwards long jump in a daily challenge to see how high you can climb.
+
 - name: GuessThe.Game
   url: https://guessthe.game/
   category: video-games
