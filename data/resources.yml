@@ -67,6 +67,9 @@
     - name: DLE Games
       url: https://dlegames.org/
       description: Another large directory, useful for finding niche fandom variants.
+    - name: Games Like Wordle
+      url: https://gameslikewordle.org/
+      description: A playable daily five-letter word game plus a curated guide to games like Wordle.
 
 - id: communities
   title: Communities
