@@ -1875,6 +1875,12 @@
   description: Wordle, Connections, Strands and the Mini are free; the full crossword and archive are not.
   tags: [nyt, paywalled]
 
+- name: Pokequizz
+  url: https://pokequizz.com/en/
+  category: hubs
+  platform: web
+  description: 19 daily Pokémon games, from a Pokédle and a 3 x 3 grid to The Chain and Hidden Power, plus a ranked duel mode and collectible mascots.
+
 - name: Puzzmallow
   url: https://puzzmallow.com/
   category: hubs
