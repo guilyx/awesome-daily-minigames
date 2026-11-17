@@ -1501,6 +1501,12 @@
   platform: web
   description: Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.
 
+- name: Cardle
+  url: https://cardledaily.com/
+  category: visual
+  platform: web
+  description: One real car photo a day starts zoomed in and pulls back after every miss; name the car in five tries.
+
 - name: Chroma
   url: https://robson.plus/chroma
   category: visual
