@@ -1904,3 +1904,9 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
+
+- name: Bigger vs
+  url: https://biggervs.com/
+  category: visual
+  platform: web
+  description: Resize real-world objects against a fixed reference across five daily rounds, then see how close your estimates were.
