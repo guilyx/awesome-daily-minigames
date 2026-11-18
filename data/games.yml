@@ -1880,6 +1880,7 @@
   category: hubs
   platform: web
   description: 19 daily Pokémon games, from a Pokédle and a 3 x 3 grid to The Chain and Hidden Power, plus a ranked duel mode and collectible mascots.
+  tags: [paywalled]
 
 - name: Puzzmallow
   url: https://puzzmallow.com/
