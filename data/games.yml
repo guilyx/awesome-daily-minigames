@@ -1904,3 +1904,9 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
+
+- name: Word Seesaw
+  url: https://wordseesaw.com/
+  category: crosswords
+  platform: web
+  description: Swap pairs of letters across a grid of words until every row answers its clue, in as few swaps as possible.
