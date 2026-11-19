@@ -1397,6 +1397,12 @@
   description: Complete the search query the way the rest of the internet did.
   tags: [classic]
 
+- name: GuessCrowd
+  url: https://guesscrowd.com/
+  category: trivia
+  platform: web
+  description: Predict the most popular answer to each of five daily survey questions and see where your guesses rank.
+
 - name: Jeopardy! J6
   url: https://www.jeopardy.com/play/j6
   category: trivia
