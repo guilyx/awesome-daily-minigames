@@ -2004,3 +2004,8 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
+- name: Chartered
+  url: https://playchartered.com/
+  category: geography
+  platform: web
+  description: Pin five historical events on a world map and guess the year of each one.
