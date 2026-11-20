@@ -1,9 +1,9 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 303,
+    "games": 319,
     "categories": 18,
-    "reddit": 20
+    "reddit": 21
   },
   "categories": [
     {
@@ -158,6 +158,17 @@
       "tags": []
     },
     {
+      "id": "couscous",
+      "name": "Couscous",
+      "url": "https://couscous.ai/play/daily",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Ask yes-or-no questions about a secret word, watch a ring warm up as you get close, then name the word.",
+      "tags": [
+        "paywalled"
+      ]
+    },
+    {
       "id": "crosswordle",
       "name": "Crosswordle",
       "url": "https://crosswordle.com/",
@@ -173,6 +184,15 @@
       "category": "word-guessing",
       "platform": "reddit",
       "description": "Straight-ahead Wordle playable inside a Reddit post, no site to visit.",
+      "tags": []
+    },
+    {
+      "id": "decrypticle",
+      "name": "Decrypticle",
+      "url": "https://decrypticle.com/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "Guess the hidden word using each letter's random value from 1 to 7 and the point total of every guess.",
       "tags": []
     },
     {
@@ -250,6 +270,15 @@
       "category": "word-guessing",
       "platform": "reddit",
       "description": "Hangman rebuilt as a flower that loses a petal with every wrong letter.",
+      "tags": []
+    },
+    {
+      "id": "pictle",
+      "name": "pictle",
+      "url": "https://pictle.org/",
+      "category": "word-guessing",
+      "platform": "web",
+      "description": "A picture hides behind five cards; each guess folds one open, so a wrong guess still buys you a better view.",
       "tags": []
     },
     {
@@ -950,6 +979,15 @@
       "tags": []
     },
     {
+      "id": "wordclips",
+      "name": "Wordclips",
+      "url": "https://kindaneatgames.com/wordclips/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Rotate and fit two-letter pieces so every row forms a four-letter word, guided by a theme and one fixed pair.",
+      "tags": []
+    },
+    {
       "id": "worddash",
       "name": "WordDash",
       "url": "https://www.reddit.com/r/WordDash/",
@@ -1066,6 +1104,15 @@
       "category": "numbers-math",
       "platform": "web",
       "description": "Delete numbers from a grid until every row and column adds up to its target.",
+      "tags": []
+    },
+    {
+      "id": "ten-blitz",
+      "name": "Ten Blitz",
+      "url": "https://www.reddit.com/r/TenBlitz/",
+      "category": "numbers-math",
+      "platform": "reddit",
+      "description": "Clear rectangles whose numbers add up to 10, earning a point for each tile cleared in a three-minute daily challenge.",
       "tags": []
     },
     {
@@ -1337,6 +1384,17 @@
       ]
     },
     {
+      "id": "pips-hints",
+      "name": "Pips Hints",
+      "url": "https://pipshints.org/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Daily hints and answers for the NYT Pips domino puzzle, plus free unlimited Pips puzzles to play.",
+      "tags": [
+        "unlimited"
+      ]
+    },
+    {
       "id": "queens",
       "name": "Queens",
       "url": "https://www.linkedin.com/games/queens",
@@ -1513,12 +1571,30 @@
       "tags": []
     },
     {
+      "id": "mapcade",
+      "name": "Mapcade",
+      "url": "https://mapcade.app/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Twenty-four geography modes with five shared daily rounds each, from redrawing a missing border to naming country outlines.",
+      "tags": []
+    },
+    {
       "id": "mapster",
       "name": "Mapster",
       "url": "https://mapster.teuteuf.fr/",
       "category": "geography",
       "platform": "web",
       "description": "Rebuild a map from scattered country pieces.",
+      "tags": []
+    },
+    {
+      "id": "originle",
+      "name": "Originle",
+      "url": "https://originle.app/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Watch short video clues from a daily guest and guess which country they come from.",
       "tags": []
     },
     {
@@ -1573,6 +1649,15 @@
       "category": "geography",
       "platform": "web",
       "description": "A daily street-level location round in the GeoGuessr mould, free and account-free.",
+      "tags": []
+    },
+    {
+      "id": "wherecast",
+      "name": "Wherecast",
+      "url": "https://wherecast.com",
+      "category": "geography",
+      "platform": "web",
+      "description": "A daily city-guessing game where players use a real weather forecast to identify a mystery city in six tries.",
       "tags": []
     },
     {
@@ -2025,6 +2110,15 @@
       "tags": []
     },
     {
+      "id": "bljdle",
+      "name": "BLJdle",
+      "url": "https://bljdle.com/",
+      "category": "video-games",
+      "platform": "web",
+      "description": "Practise Super Mario 64's backwards long jump in a daily challenge to see how high you can climb.",
+      "tags": []
+    },
+    {
       "id": "guessthe-game",
       "name": "GuessThe.Game",
       "url": "https://guessthe.game/",
@@ -2155,6 +2249,15 @@
       "tags": []
     },
     {
+      "id": "clocked",
+      "name": "Clocked",
+      "url": "https://playclocked.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Twenty general-knowledge questions against a five-minute clock; type answers in any order and they slot into place.",
+      "tags": []
+    },
+    {
       "id": "daily-dozen-trivia",
       "name": "Daily Dozen Trivia",
       "url": "https://dailydozentrivia.com/",
@@ -2202,12 +2305,30 @@
       ]
     },
     {
+      "id": "guesscrowd",
+      "name": "GuessCrowd",
+      "url": "https://guesscrowd.com/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Predict the most popular answer to each of five daily survey questions and see where your guesses rank.",
+      "tags": []
+    },
+    {
       "id": "jeopardy-j6",
       "name": "Jeopardy! J6",
       "url": "https://www.jeopardy.com/play/j6",
       "category": "trivia",
       "platform": "web",
       "description": "Six official Jeopardy! clues a day, in ascending difficulty.",
+      "tags": []
+    },
+    {
+      "id": "kegillion",
+      "name": "Kegillion",
+      "url": "https://kegillion.org/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Answer seven daily campus trivia prompts against a timer, where less obvious correct answers score more points.",
       "tags": []
     },
     {
@@ -2227,6 +2348,17 @@
       "platform": "web",
       "description": "Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.",
       "tags": []
+    },
+    {
+      "id": "noillirk-puffer-party-edition",
+      "name": "Noillirk (Puffer Party edition)",
+      "url": "https://pufferparty.org/noillirk/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Guess the most familiar valid answer for each of seven categories on a shared daily board.",
+      "tags": [
+        "unlimited"
+      ]
     },
     {
       "id": "on-the-record",
@@ -2354,6 +2486,15 @@
       "category": "visual",
       "platform": "web",
       "description": "Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.",
+      "tags": []
+    },
+    {
+      "id": "cardle",
+      "name": "Cardle",
+      "url": "https://cardledaily.com/",
+      "category": "visual",
+      "platform": "web",
+      "description": "One real car photo a day starts zoomed in and pulls back after every miss; name the car in five tries.",
       "tags": []
     },
     {
@@ -2919,6 +3060,17 @@
       ]
     },
     {
+      "id": "pokequizz",
+      "name": "Pokequizz",
+      "url": "https://pokequizz.com/en/",
+      "category": "hubs",
+      "platform": "web",
+      "description": "19 daily Pokémon games, from a Pokédle and a 3 x 3 grid to The Chain and Hidden Power, plus a ranked duel mode and collectible mascots.",
+      "tags": [
+        "paywalled"
+      ]
+    },
+    {
       "id": "puzzmallow",
       "name": "Puzzmallow",
       "url": "https://puzzmallow.com/",
@@ -3066,6 +3218,11 @@
           "name": "DLE Games",
           "url": "https://dlegames.org/",
           "description": "Another large directory, useful for finding niche fandom variants."
+        },
+        {
+          "name": "Dle Games",
+          "url": "https://dlegames.io/",
+          "description": "Free catalog of 86+ Wordle-like daily and unlimited puzzles with favorites and My Daily tracking."
         }
       ]
     },

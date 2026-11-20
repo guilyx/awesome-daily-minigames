@@ -1495,6 +1495,13 @@
   platform: web
   description: Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.
 
+- name: Noillirk (Puffer Party edition)
+  url: https://pufferparty.org/noillirk/
+  category: trivia
+  platform: web
+  description: Guess the most familiar valid answer for each of seven categories on a shared daily board.
+  tags: [unlimited]
+
 - name: On the Record
   url: https://www.washingtonpost.com/news-quiz
   category: trivia
@@ -1997,10 +2004,3 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
-
-- name: Noillirk (Puffer Party edition)
-  url: https://pufferparty.org/noillirk/
-  category: trivia
-  platform: web
-  description: Guess the most familiar valid answer for each of seven categories on a shared daily board.
-  tags: [unlimited]

@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **303 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **319 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -53,8 +53,10 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - 🟠 [2word](https://www.reddit.com/r/2word/) - Guess the word from a pair of clue words, with the comment thread as the leaderboard.
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) - Adversarial Wordle that quietly changes its answer to stay as far from your guess as it legally can.
 - [Antiwordle](https://www.antiwordle.com/) - Inverted scoring where the goal is to avoid the word for as many turns as possible.
+- 💰 [Couscous](https://couscous.ai/play/daily) - Ask yes-or-no questions about a secret word, watch a ring warm up as you get close, then name the word.
 - [Crosswordle](https://crosswordle.com/) - Reverse Wordle — you are given the coloured clue grid and have to reconstruct the guesses that produced it.
 - 🟠 [DailyGuess](https://www.reddit.com/r/DailyGuess/) - Straight-ahead Wordle playable inside a Reddit post, no site to visit.
+- [Decrypticle](https://decrypticle.com/) - Guess the hidden word using each letter's random value from 1 to 7 and the point total of every guess.
 - [Dordle](https://zaratustra.itch.io/dordle) - The original multi-board spin-off: two grids, one shared set of guesses.
 - [Duotrigordle](https://duotrigordle.com/) - Thirty-two boards and thirty-seven guesses, for when eight is not enough.
 - [Fibble](https://fibble.xyz/) - Every row of feedback contains exactly one lie.
@@ -63,6 +65,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Lirdle](https://lirdle.com/) - Wordle where the game lies to you once per guess and you have to work out which tile it was.
 - [Octordle](https://www.britannica.com/games/octordle/) - Eight boards solved in parallel with thirteen guesses.
 - 🟠 [Petals](https://www.reddit.com/r/Petals/) - Hangman rebuilt as a flower that loses a petal with every wrong letter.
+- [pictle](https://pictle.org/) - A picture hides behind five cards; each guess folds one open, so a wrong guess still buys you a better view.
 - [Polygonle](https://www.polygonle.com/) - Instead of a fixed length you get a shape pattern showing which letters repeat.
 - [Quordle](https://www.merriam-webster.com/games/quordle/) - Four grids at once — every guess is played on all of them simultaneously.
 - [Reversle](https://reversle.net/) - Speed variant where you race to reproduce a finished board from its clue colours.
@@ -152,6 +155,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Triplet](https://triplet.daily-game.page/) - Find the three letters that complete all the words.
 - [Typeshift](https://www.puzzmo.com/play/typeshift) - Slide columns of letters up and down until every letter has been used in a word.
 - [Wordchute](https://wordchute.com/) - Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
+- [Wordclips](https://kindaneatgames.com/wordclips/) - Rotate and fit two-letter pieces so every row forms a four-letter word, guided by a theme and one fixed pair.
 - 🟠 [WordDash](https://www.reddit.com/r/WordDash/) - Spelling Bee crossed with Strands: hunt themed words out of a shared letter set against the clock.
 - [Wordflower](https://www.latimes.com/games/wordflower) - The LA Times' free Spelling Bee equivalent, with a daily word target.
 - [Wordpaths](https://kindaneatgames.com/wordpaths/) - Trace words from filled dots to open rings so the paths cover every letter of the grid without crossing.
@@ -170,6 +174,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Primel](https://converged.yt/primel/) - Wordle where every guess and the answer must be a five-digit prime.
 - [Summle](https://summle.net/) - Reach the target number by chaining small sums, Countdown-style.
 - [Sumplete](https://sumplete.com/daily) - Delete numbers from a grid until every row and column adds up to its target.
+- 🟠 [Ten Blitz](https://www.reddit.com/r/TenBlitz/) - Clear rectangles whose numbers add up to 10, earning a point for each tile cleared in a three-minute daily challenge.
 - [Think in Odds](https://thinkinodds.com/) - Answer a daily probability question, using optional hints and a worked explanation to explore the reasoning.
 
 ## 🧩 Logic & Deduction
@@ -203,6 +208,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [One Up Puzzle](https://www.oneuppuzzle.com/) - Fill each run of cells with ascending numbers so no row or column repeats.
 - 🟠 [Pigment Pour Daily](https://www.reddit.com/r/PigmentPourDaily/) - A water-sort puzzle where you pour coloured liquids between tubes until every tube holds a single pigment.
 - [Pips](https://www.nytimes.com/games/pips) - Place dominoes so every marked region satisfies its sum, equality or inequality rule.
+- [Pips Hints](https://pipshints.org/) - Daily hints and answers for the NYT Pips domino puzzle, plus free unlimited Pips puzzles to play.
 - [Queens](https://www.linkedin.com/games/queens) - Place one crown per row, column and colour region without any two touching.
 - [Regexle](https://regexle.com/) - A hexagonal crossword where every line is a regular expression you have to satisfy.
 - [Rex's Fetch](https://lieofsight.com/fetch) - Lead a dog through every square of the yard exactly once to his ball without crossing his own trail.
@@ -227,13 +233,16 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Globle](https://globle-game.com/) - Guess countries on a 3D globe that warm from blue to red as you get closer.
 - [Globle Capitals](https://globle-capitals.com/) - The same hot-and-cold globe, but you are hunting a capital city.
 - [Juxtastat](https://urbanstats.org/quiz.html) - Head-to-head statistical comparisons between real places — which one is denser, richer, hotter.
+- [Mapcade](https://mapcade.app/) - Twenty-four geography modes with five shared daily rounds each, from redrawing a missing border to naming country outlines.
 - [Mapster](https://mapster.teuteuf.fr/) - Rebuild a map from scattered country pieces.
+- [Originle](https://originle.app/) - Watch short video clues from a daily guest and guess which country they come from.
 - [Satle](https://satle.ca/) - Identify a city from a slowly zooming-out satellite image.
 - [Statele](https://statele.teuteuf.fr/) - Worldle for the fifty US states.
 - [Subwaydle](https://www.subwaydle.com/) - Work out a New York City subway trip from its route bullets in six guesses.
 - [Tradle](https://oec.world/en/games/tradle) - Identify a country from the breakdown of what it exports.
 - [Travle](https://travle.earth/) - Connect a start country to an end country by naming the chain of neighbours between them.
 - [Whereabouts](https://whereabouts.earth/daily/) - A daily street-level location round in the GeoGuessr mould, free and account-free.
+- [Wherecast](https://wherecast.com) - A daily city-guessing game where players use a real weather forecast to identify a mystery city in six tries.
 - [WhereTaken](https://wheretaken.teuteuf.fr/) - Guess where a photograph was taken, with proximity feedback after each attempt.
 - [World Flag Games](https://worldflagmap.com/games/daily/) - Identify ten countries from their flags, then ten more from real outlines and map positions in two shared daily challenges.
 
@@ -306,6 +315,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 
 - [Gamedle](https://www.gamedle.wtf/) - Five daily modes — cover art, screenshots, keywords, characters and classic deduction.
 - [Balatrodle](https://www.balatrodle.com/) - Guess the day's Balatro joker from its rarity, cost and effect.
+- [BLJdle](https://bljdle.com/) - Practise Super Mario 64's backwards long jump in a daily challenge to see how high you can climb.
 - [GuessThe.Game](https://guessthe.game/) - Name the game from up to six screenshots, starting with the least helpful one.
 - [HowLongToBeat Daily](https://howlongtobeat.com/play) - Guess the game from its completion times, genres and platforms.
 - [Isaaconnect](https://isaaconnect.com/) - Connections for The Binding of Isaac's enormous item pool.
@@ -325,14 +335,18 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > General knowledge, rankings, news quizzes and list-completion games.
 
 - [FoodieGame](https://www.foodiegame.org/) - Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from.
+- [Clocked](https://playclocked.com/) - Twenty general-knowledge questions against a five-minute clock; type answers in any order and they slot into place.
 - [Daily Dozen Trivia](https://dailydozentrivia.com/) - Twelve questions a day across a fixed set of categories, with a streak to protect.
 - [Factle](https://frontofficesports.com/trivia/factle) - Guess the entries in a real top-five list, ranked in the right order.
 - [Floored](https://playfloored.com/) - Five ranked lists a day, each with a target rank; guess any item to see its rank and work higher or lower until you land on it.
 - [FoodGuessr](https://www.foodguessr.com/) - Name the country a dish comes from, three plates a day.
 - [Google Feud](https://googlefeud.com/) - Complete the search query the way the rest of the internet did.
+- [GuessCrowd](https://guesscrowd.com/) - Predict the most popular answer to each of five daily survey questions and see where your guesses rank.
 - [Jeopardy! J6](https://www.jeopardy.com/play/j6) - Six official Jeopardy! clues a day, in ascending difficulty.
+- [Kegillion](https://kegillion.org/) - Answer seven daily campus trivia prompts against a timer, where less obvious correct answers score more points.
 - [Krillion Space](https://krilion.app/) - Answer a daily space-themed trivia challenge whose choices shape a galaxy shared by every player.
 - [Nanizo](https://nanizo.com/en/daily/) - Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.
+- [Noillirk (Puffer Party edition)](https://pufferparty.org/noillirk/) - Guess the most familiar valid answer for each of seven categories on a shared daily board.
 - [On the Record](https://www.washingtonpost.com/news-quiz) - The Washington Post's daily news quiz.
 - [Rankle](https://www.rankle.app/) - Put five things in the correct order — by size, date, price or whatever the day demands.
 - [Revealed](https://www.britannica.com/games/revealed) - Britannica's daily: an image is uncovered piece by piece as the clues get easier.
@@ -352,6 +366,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Artle](https://www.nga.gov/artle.html) - The National Gallery of Art shows you four works; name the artist who made them.
 - [Angle](https://angle.wtf/) - Estimate the angle in degrees, with warmer and colder feedback.
 - [Ballpark](https://ballparkdaily.com/) - Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.
+- [Cardle](https://cardledaily.com/) - One real car photo a day starts zoomed in and pulls back after every miss; name the car in five tries.
 - [Chroma](https://robson.plus/chroma) - Reproduce the target colour by mixing your own.
 - [Colorecall](https://www.colorecall.com/) - Two shapes, two colors, one intense memory challenge testing your color recall.
 - [Colorfle](https://colorfle.com/) - Guess the exact colour by blending three of your own in Wordle-style rounds.
@@ -432,6 +447,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [The New Yorker Puzzles & Games](https://www.newyorker.com/puzzles-and-games-dept) - Crosswords, cryptics and original word games from the magazine.
 - [Nibble Games](https://nibble.games/) - A set of short pencil-and-paper style puzzles refreshed daily.
 - 💰 [NYT Games](https://www.nytimes.com/crosswords) - Wordle, Connections, Strands and the Mini are free; the full crossword and archive are not.
+- 💰 [Pokequizz](https://pokequizz.com/en/) - 19 daily Pokémon games, from a Pokédle and a 3 x 3 grid to The Chain and Hidden Power, plus a ranked duel mode and collectible mascots.
 - [Puzzmallow](https://puzzmallow.com/) - Several original daily logic and word puzzles with a clean, ad-free interface.
 - [Simple Games Today](https://simplegamestoday.com/) - Twelve short original dailies, from a word ladder and a 5x5 crossword to 6x6 sudoku and a history timeline.
 - [TED Games](https://www.ted.com/games) - TED's free daily word and knowledge puzzles.
@@ -468,6 +484,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Comprehensive list of Wordle variants](https://gist.github.com/maxspero/0a2f536b9561d829caf6bd994a34193d) - The long-running community gist, strongest on fandom and non-English variants.
 - [Listdle](https://listdle.com/) - Category-browsable directory of "-dle" games.
 - [DLE Games](https://dlegames.org/) - Another large directory, useful for finding niche fandom variants.
+- [Dle Games](https://dlegames.io/) - Free catalog of 86+ Wordle-like daily and unlimited puzzles with favorites and My Daily tracking.
 
 ## 💬 Communities
 
