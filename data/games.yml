@@ -1978,3 +1978,10 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
+
+- name: Noillirk (Puffer Party edition)
+  url: https://pufferparty.org/noillirk/
+  category: trivia
+  platform: web
+  description: Guess the most familiar valid answer for each of seven categories on a shared daily board.
+  tags: [unlimited]
