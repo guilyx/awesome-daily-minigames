@@ -2028,3 +2028,9 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
+
+- name: DrawShapes
+  url: https://drawshapes.io/
+  category: visual
+  platform: web
+  description: Study five shapes for three seconds each, then redraw each one from memory as a single continuous line.
