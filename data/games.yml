@@ -956,6 +956,12 @@
   platform: web
   description: Head-to-head statistical comparisons between real places — which one is denser, richer, hotter.
 
+- name: Mapcade
+  url: https://mapcade.app/
+  category: geography
+  platform: web
+  description: Twenty-four geography modes with five shared daily rounds each, from redrawing a missing border to naming country outlines.
+
 - name: Mapster
   url: https://mapster.teuteuf.fr/
   category: geography
