@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **322 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **323 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -369,6 +369,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Artle](https://www.nga.gov/artle.html) - The National Gallery of Art shows you four works; name the artist who made them.
 - [Angle](https://angle.wtf/) - Estimate the angle in degrees, with warmer and colder feedback.
 - [Ballpark](https://ballparkdaily.com/) - Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.
+- [Bigger vs](https://biggervs.com/) - Resize real-world objects against a fixed reference across five daily rounds, then see how close your estimates were.
 - [Cardle](https://cardledaily.com/) - One real car photo a day starts zoomed in and pulls back after every miss; name the car in five tries.
 - [Chroma](https://robson.plus/chroma) - Reproduce the target colour by mixing your own.
 - [Colorecall](https://www.colorecall.com/) - Two shapes, two colors, one intense memory challenge testing your color recall.
