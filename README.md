@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **323 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **324 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -377,6 +377,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - 🟠 [ColorGuessr](https://www.reddit.com/r/ColorGuessr/) - Reddit game where players recreate a displayed color name.
 - [Costcodle](https://costcodle.com/) - Guess the price of a Costco item in six tries — a surprisingly brutal test of grocery intuition.
 - [Cropple](https://cropple.app/) - Identify a photograph from an extreme crop that widens with every guess.
+- [DrawShapes](https://drawshapes.io/) - Study five shapes for three seconds each, then redraw each one from memory as a single continuous line.
 - [Guess The House](https://guessthe.house/) - Estimate what a real listed property sold for.
 - [Guess The Logo](https://guessthelogo.wtf/) - Name the brand from a partially obscured logo.
 - [Hexcodle](https://www.hexcodle.com/) - Guess the hex code of a displayed colour, digit by digit.

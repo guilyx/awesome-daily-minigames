@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 323,
+    "games": 324,
     "categories": 18,
     "reddit": 21
   },
@@ -2585,6 +2585,15 @@
       "category": "visual",
       "platform": "web",
       "description": "Identify a photograph from an extreme crop that widens with every guess.",
+      "tags": []
+    },
+    {
+      "id": "drawshapes",
+      "name": "DrawShapes",
+      "url": "https://drawshapes.io/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Study five shapes for three seconds each, then redraw each one from memory as a single continuous line.",
       "tags": []
     },
     {
