@@ -2010,3 +2010,9 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
+
+- name: Little Plot
+  url: https://littleplotgame.com/
+  category: logic
+  platform: web
+  description: Place twelve buildings on a shared 5x5 board, scoring points by planning around terrain and neighbouring buildings.
