@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 320,
+    "games": 321,
     "categories": 18,
     "reddit": 21
   },
@@ -1315,6 +1315,15 @@
       "tags": [
         "paywalled"
       ]
+    },
+    {
+      "id": "little-plot",
+      "name": "Little Plot",
+      "url": "https://littleplotgame.com/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Place twelve buildings on a shared 5x5 board, scoring points by planning around terrain and neighbouring buildings.",
+      "tags": []
     },
     {
       "id": "murdle",

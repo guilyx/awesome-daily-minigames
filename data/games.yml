@@ -807,6 +807,12 @@
   description: Move a family around a room to test what each says they saw, then accuse the one whose story can't be true.
   tags: [paywalled]
 
+- name: Little Plot
+  url: https://littleplotgame.com/
+  category: logic
+  platform: web
+  description: Place twelve buildings on a shared 5x5 board, scoring points by planning around terrain and neighbouring buildings.
+
 - name: Murdle
   url: https://murdle.com/
   category: logic
@@ -2010,9 +2016,3 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
-
-- name: Little Plot
-  url: https://littleplotgame.com/
-  category: logic
-  platform: web
-  description: Place twelve buildings on a shared 5x5 board, scoring points by planning around terrain and neighbouring buildings.
