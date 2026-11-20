@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **319 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **320 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -226,6 +226,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > Countries, flags, borders, street views and satellite imagery.
 
 - [Worldle](https://worldle.teuteuf.fr/) - Name the country from its silhouette, with distance and bearing hints after each miss.
+- [Chartered](https://playchartered.com/) - Pin five historical events on a world map and guess the year of each one.
 - [Countryle](https://www.countryle.com/) - Narrow down a country using continent, hemisphere, population and temperature clues.
 - [Flagle](https://www.flagle.io/) - A flag revealed one tile at a time; guess it before the whole thing is uncovered.
 - [GeoGrid](https://www.geogridgame.com/) - Fill a 3x3 grid with countries that satisfy both the row and the column criteria.

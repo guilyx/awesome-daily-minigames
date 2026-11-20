@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 319,
+    "games": 320,
     "categories": 18,
     "reddit": 21
   },
@@ -1506,6 +1506,15 @@
       "tags": [
         "classic"
       ]
+    },
+    {
+      "id": "chartered",
+      "name": "Chartered",
+      "url": "https://playchartered.com/",
+      "category": "geography",
+      "platform": "web",
+      "description": "Pin five historical events on a world map and guess the year of each one.",
+      "tags": []
     },
     {
       "id": "countryle",
