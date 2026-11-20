@@ -582,6 +582,12 @@
   platform: web
   description: Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
 
+- name: Wordclips
+  url: https://kindaneatgames.com/wordclips/
+  category: word-grids
+  platform: web
+  description: Rotate and fit two-letter pieces so every row forms a four-letter word, guided by a theme and one fixed pair.
+
 - name: WordDash
   url: https://www.reddit.com/r/WordDash/
   category: word-grids
