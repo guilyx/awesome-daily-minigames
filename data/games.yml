@@ -772,7 +772,7 @@
   url: https://lieofsight.com/knit
   category: logic
   platform: web
-  description: A nonogram knitted in yarn: fill runs of squares to match each row and column's numbers until the picture appears.
+  description: "A nonogram knitted in yarn: fill runs of squares to match each row and column's numbers until the picture appears."
 
 - name: Ink Side Down
   url: https://arkai.win/games/ink-side-down/
