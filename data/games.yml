@@ -851,6 +851,13 @@
   description: Place dominoes so every marked region satisfies its sum, equality or inequality rule.
   tags: [nyt]
 
+- name: Pips Hints
+  url: https://pipshints.org/
+  category: logic
+  platform: web
+  description: Daily hints and answers for the NYT Pips domino puzzle, plus free unlimited Pips puzzles to play.
+  tags: [unlimited]
+
 - name: Queens
   url: https://www.linkedin.com/games/queens
   category: logic
