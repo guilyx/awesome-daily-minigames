@@ -445,6 +445,12 @@
   platform: web
   description: A full-size free daily crossword with an easy Sunday-to-Saturday difficulty ramp.
 
+- name: Word Seesaw
+  url: https://wordseesaw.com/
+  category: crosswords
+  platform: web
+  description: Swap pairs of letters across a grid of words until every row answers its clue, in as few swaps as possible.
+
 # ------------------------------------------------------------------ word-grids
 - name: Spelling Bee
   url: https://www.nytimes.com/puzzles/spelling-bee
@@ -2016,9 +2022,3 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
-
-- name: Word Seesaw
-  url: https://wordseesaw.com/
-  category: crosswords
-  platform: web
-  description: Swap pairs of letters across a grid of words until every row answers its clue, in as few swaps as possible.

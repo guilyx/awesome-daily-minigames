@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 321,
+    "games": 322,
     "categories": 18,
     "reddit": 21
   },
@@ -769,6 +769,15 @@
       "category": "crosswords",
       "platform": "web",
       "description": "A full-size free daily crossword with an easy Sunday-to-Saturday difficulty ramp.",
+      "tags": []
+    },
+    {
+      "id": "word-seesaw",
+      "name": "Word Seesaw",
+      "url": "https://wordseesaw.com/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "Swap pairs of letters across a grid of words until every row answers its clue, in as few swaps as possible.",
       "tags": []
     },
     {
