@@ -1772,6 +1772,12 @@
   platform: web
   description: Metazooa's botanical sibling, built on the plant family tree.
 
+- name: Guess the Animal Game
+  url: https://guesstheanimalgame.com/
+  category: science-nature
+  platform: web
+  description: Identify the day's wild animal in eight guesses using taxonomy, continent, habitat, mass, silhouette and animal-call clues.
+
 - name: Real Bird Fake Bird
   url: https://realbirdfakebird.com/
   category: science-nature
