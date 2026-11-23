@@ -818,6 +818,12 @@
   description: Roll a cube across a grid; the side that's inked prints the square it lands face-down on, and ink may only touch the marked squares.
   tags: [open-source]
 
+- name: The Kid's Treasure Map
+  url: https://lieofsight.com/treasure
+  category: logic
+  platform: web
+  description: A no-guess minesweeper on a backyard map where each number counts the treasure around it; flag every one.
+
 - name: Lacey's Web
   url: https://lieofsight.com/web
   category: logic
@@ -941,12 +947,6 @@
   category: logic
   platform: web
   description: Balance suns and moons across a grid under equality and difference constraints.
-
-- name: The Kid's Treasure Map
-  url: https://lieofsight.com/treasure
-  category: logic
-  platform: web
-  description: A no-guess minesweeper on a backyard map where each number counts the treasure around it; flag every one.
 
 - name: WitLocked Daily Lock
   url: https://witlocked.com/puzzles/daily-lock

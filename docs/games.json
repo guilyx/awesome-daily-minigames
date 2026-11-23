@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 325,
+    "games": 329,
     "categories": 18,
     "reddit": 21
   },
@@ -1257,6 +1257,15 @@
       "tags": []
     },
     {
+      "id": "dusty-s-rounds",
+      "name": "Dusty's Rounds",
+      "url": "https://lieofsight.com/dusty",
+      "category": "logic",
+      "platform": "web",
+      "description": "Give a robot vacuum a short row of moves that it repeats until every crumb in the room is gone; a bump skips a move.",
+      "tags": []
+    },
+    {
       "id": "features",
       "name": "features",
       "url": "https://features.games/",
@@ -1266,6 +1275,15 @@
       "tags": [
         "paywalled"
       ]
+    },
+    {
+      "id": "fibs-laser-chase",
+      "name": "Fibs' Laser Chase",
+      "url": "https://lieofsight.com/laser",
+      "category": "logic",
+      "platform": "web",
+      "description": "Turn small mirrors around a living room to bounce a laser pointer's beam onto the cat.",
+      "tags": []
     },
     {
       "id": "figure",
@@ -1295,6 +1313,15 @@
       "tags": []
     },
     {
+      "id": "grandma-s-knitting",
+      "name": "Grandma's Knitting",
+      "url": "https://lieofsight.com/knit",
+      "category": "logic",
+      "platform": "web",
+      "description": "A nonogram knitted in yarn: fill runs of squares to match each row and column's numbers until the picture appears.",
+      "tags": []
+    },
+    {
       "id": "ink-side-down",
       "name": "Ink Side Down",
       "url": "https://arkai.win/games/ink-side-down/",
@@ -1304,6 +1331,15 @@
       "tags": [
         "open-source"
       ]
+    },
+    {
+      "id": "the-kid-s-treasure-map",
+      "name": "The Kid's Treasure Map",
+      "url": "https://lieofsight.com/treasure",
+      "category": "logic",
+      "platform": "web",
+      "description": "A no-guess minesweeper on a backyard map where each number counts the treasure around it; flag every one.",
+      "tags": []
     },
     {
       "id": "lacey-s-web",
@@ -1321,9 +1357,7 @@
       "category": "logic",
       "platform": "web",
       "description": "Move a family around a room to test what each says they saw, then accuse the one whose story can't be true.",
-      "tags": [
-        "paywalled"
-      ]
+      "tags": []
     },
     {
       "id": "little-plot",
