@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 324,
+    "games": 325,
     "categories": 18,
     "reddit": 21
   },
@@ -1437,6 +1437,15 @@
       "category": "logic",
       "platform": "web",
       "description": "Lead a dog through every square of the yard exactly once to his ball without crossing his own trail.",
+      "tags": []
+    },
+    {
+      "id": "riddle-of-the-day",
+      "name": "Riddle of the Day",
+      "url": "https://brainbreaklab.com/riddle-of-the-day/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Solve a short daily riddle, use a hint if needed, and reveal the answer when ready.",
       "tags": []
     },
     {

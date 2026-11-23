@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **324 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **325 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -214,6 +214,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Queens](https://www.linkedin.com/games/queens) - Place one crown per row, column and colour region without any two touching.
 - [Regexle](https://regexle.com/) - A hexagonal crossword where every line is a regular expression you have to satisfy.
 - [Rex's Fetch](https://lieofsight.com/fetch) - Lead a dog through every square of the yard exactly once to his ball without crossing his own trail.
+- [Riddle of the Day](https://brainbreaklab.com/riddle-of-the-day/) - Solve a short daily riddle, use a hint if needed, and reveal the answer when ready.
 - [Shikaku of the Day](https://shikakuofthe.day/) - Cut a grid into rectangles so that each one contains exactly one number equal to its area.
 - [Shinro Garden](https://shinro-garden.daily-game.page/) - Plant 12 flowers using the arrow and count clues.
 - [Sudoku (NYT)](https://www.nytimes.com/puzzles/sudoku) - Easy, medium and hard grids refreshed every day, free to play.
