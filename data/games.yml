@@ -1332,6 +1332,13 @@
   platform: web
   description: A baseball trivia daily built around famous at-bats and box scores.
 
+- name: Football Krillion
+  url: https://footballkrillion.net/
+  category: sports
+  platform: web
+  description: Name players or teams for seven daily World Cup prompts and score more for less obvious correct answers.
+  tags: [unlimited]
+
 - name: HoopGrids
   url: https://www.hoopgrids.com/
   category: sports
