@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **329 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **330 games across 18 categories**, including **21 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -310,6 +310,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Ballometry](https://www.ballometry.com/) - Sketch the hidden part of five real sports stat charts, then see how close your line came to the actual data.
 - [Connections Sports Edition](https://www.nytimes.com/athletic/connections-sports-edition) - The Athletic's sports-only take on Connections.
 - [Daily Walkoff](https://www.dailywalkoff.com/) - A baseball trivia daily built around famous at-bats and box scores.
+- [Football Krillion](https://footballkrillion.net/) - Name players or teams for seven daily World Cup prompts and score more for less obvious correct answers.
 - [HoopGrids](https://www.hoopgrids.com/) - The grid format for the NBA, with a rarity score that rewards obscure picks.
 - [Immaculate Footy](https://www.sports-reference.com/immaculate-footy/) - The grid applied to world football, powered by FBref data.
 - [MLB Pickle](https://www.mlbpickle.com/) - Deduce a mystery baseball player from team, position, age and stat feedback.

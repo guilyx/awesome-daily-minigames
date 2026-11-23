@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 329,
+    "games": 330,
     "categories": 18,
     "reddit": 21
   },
@@ -2104,6 +2104,17 @@
       "platform": "web",
       "description": "A baseball trivia daily built around famous at-bats and box scores.",
       "tags": []
+    },
+    {
+      "id": "football-krillion",
+      "name": "Football Krillion",
+      "url": "https://footballkrillion.net/",
+      "category": "sports",
+      "platform": "web",
+      "description": "Name players or teams for seven daily World Cup prompts and score more for less obvious correct answers.",
+      "tags": [
+        "unlimited"
+      ]
     },
     {
       "id": "hoopgrids",
