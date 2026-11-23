@@ -1911,6 +1911,13 @@
   description: Chess with a randomly generated army, as a daily beat-the-computer challenge.
 
 # ------------------------------------------------------------------------ hubs
+- name: Playmixy
+  url: https://playmixy.com/
+  category: hubs
+  platform: web
+  description: Answer daily trivia prompts with rare or popular answers, or pin a country that fits the day's map clue.
+  tags: [unlimited]
+
 - name: Puzzmo
   url: https://www.puzzmo.com/
   category: hubs
