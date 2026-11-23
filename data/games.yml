@@ -888,6 +888,12 @@
   platform: web
   description: Lead a dog through every square of the yard exactly once to his ball without crossing his own trail.
 
+- name: Riddle of the Day
+  url: https://brainbreaklab.com/riddle-of-the-day/
+  category: logic
+  platform: web
+  description: Solve a short daily riddle, use a hint if needed, and reveal the answer when ready.
+
 - name: Shikaku of the Day
   url: https://shikakuofthe.day/
   category: logic
