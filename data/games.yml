@@ -1946,6 +1946,12 @@
   platform: web
   description: Chess with a randomly generated army, as a daily beat-the-computer challenge.
 
+- name: Tenpai Daily Riichi Puzzle
+  url: https://tenpai.gg/puzzles
+  category: board-card
+  platform: web
+  description: Pick the discard from a real riichi mahjong position, then compare your choice with the engine's.
+
 # ------------------------------------------------------------------------ hubs
 - name: Puzzmo
   url: https://www.puzzmo.com/
