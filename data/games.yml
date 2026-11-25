@@ -1275,6 +1275,12 @@
   platform: web
   description: Guess the film from a one-second clip that grows longer with every wrong answer.
 
+- name: Gachanime
+  url: https://gachanime.gg/en/personnage-mystere
+  category: movies-tv
+  platform: web
+  description: Guess the anime character of the day in eight tries; each guess compares seven clues such as anime, genres, role and rarity.
+
 - name: Gaps
   url: https://gaps.wtf/
   category: movies-tv
