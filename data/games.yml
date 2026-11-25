@@ -1858,6 +1858,13 @@
   platform: web
   description: A physics-golf daily that lives up to its name.
 
+- name: Mini Golf
+  url: https://golf.dayplaygames.com/
+  category: arcade
+  platform: web
+  description: Drag back to putt through nine different courses in a shared daily round, banking off walls and timing shots past moving obstacles.
+  tags: [multiplayer]
+
 - name: Minigolfle
   url: https://minigolfle.com/
   category: arcade
