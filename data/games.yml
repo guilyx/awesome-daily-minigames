@@ -1482,6 +1482,12 @@
   platform: web
   description: Test your tastebuds! Discover world cuisines and pinpoint where every dish comes from.
 
+- name: Age of the Day
+  url: https://ageoftheday.com/
+  category: trivia
+  platform: web
+  description: Ten shared nostalgia questions estimate your age every day, with a result card, streak and friend challenge link.
+
 - name: Clocked
   url: https://playclocked.com/
   category: trivia
