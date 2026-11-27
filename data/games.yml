@@ -1752,6 +1752,13 @@
   platform: web
   description: Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.
 
+- name: Play Size Comparison
+  url: https://playsizecomparison.com/
+  category: visual
+  platform: web
+  description: Judge the real-world scale of 3D-rendered objects, animals, landmarks and countries across five escalating daily rounds.
+  tags: [unlimited]
+
 - name: Prompt Duel
   url: https://prompt-duel-delta.vercel.app/?daily
   category: visual
