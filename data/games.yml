@@ -1568,6 +1568,13 @@
   platform: web
   description: Put five things in the correct order — by size, date, price or whatever the day demands.
 
+- name: Rare Answer Games
+  url: https://rareanswergames.wiki/
+  category: trivia
+  platform: web
+  description: Answer seven daily open-ended prompts in 25 seconds each and score higher for rarer valid answers on a 7,000-meter depth scale.
+  tags: [unlimited]
+
 - name: Revealed
   url: https://www.britannica.com/games/revealed
   category: trivia
