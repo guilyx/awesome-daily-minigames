@@ -1426,6 +1426,12 @@
   description: Fill a League of Legends champion grid, identify champions from attribute clues, or guess their silhouettes.
   tags: [unlimited]
 
+- name: Minecraft Krillion
+  url: https://minecraftkrillion.net/
+  category: video-games
+  platform: web
+  description: Name rare valid Minecraft answers across seven timed prompts to dig from the surface toward bedrock.
+
 - name: Minecraftle
   url: https://minecraftle.zachmanson.com/
   category: video-games
