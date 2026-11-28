@@ -1494,6 +1494,12 @@
   platform: web
   description: Twelve questions a day across a fixed set of categories, with a streak to protect.
 
+- name: Deep Cut
+  url: https://gameslikewordle.org/games-like-krillion
+  category: trivia
+  platform: web
+  description: Answer five daily prompts in 30 seconds each, where rarer correct answers score higher.
+
 - name: Factle
   url: https://frontofficesports.com/trivia/factle
   category: trivia
